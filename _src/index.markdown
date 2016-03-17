@@ -1,0 +1,45 @@
+---
+layout: page
+date: 2014-05-07 14:32
+comments: false
+sharing: true
+footer: false
+sidebar: false
+---
+I am a contradance caller and [choreographer](/dances.html) based in New York City. I've been calling in and around the Northeast for the past four years, at venues including the [Concord Scout House](//mondaycontras.com), [BIDA](//bidadance.org/), [Glen Echo](//fridaynightdance.org), [CDNY](//cdny.org), [Brooklyn Contra](//brooklyncontra.wordpress.com), [Baltimore MD](//www.bfms.org/squarecontra.php), and [Bennington VT](//www.benningtondance.org/), with bands like [The Free Raisins](//www.freeraisins.com/), [The Russet Trio](//therussettrio.com/), [Coracree](//www.coracree.com/), and [Black River Ironworks](//www.facebook.com/BlackRiverIronworks). (References available on request.)
+
+I also have experience as a dance organizer: during undergrad, I ran the monthly Williams College dance for three years; I currently serve on CDNY's Outreach and Retention Committee; and [I organize contradance flash mobs sometimes](#flash-mobs).
+
+Read on for media samples, check out my [upcoming](/gigs.html) and [past gigs](/gigs.html#past), or look at some [dances I've written](/dances.html) or [tunes I've written](/tunes.html).
+
+<h3 class="horizline">Calling samples</h3>
+<ul class="media-samples">
+  <li>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/fmxmrgSVoNo" frameborder="0" allowfullscreen></iframe>
+  </li>
+  <li>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/m7mUNiXcr28" frameborder="0" allowfullscreen></iframe>
+  </li>
+  <li>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/1GkuytviO0g" frameborder="0" allowfullscreen></iframe>
+  </li>
+  <li>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/hY4YA2p-bag" frameborder="0" allowfullscreen></iframe>
+  </li>
+</ul>
+
+<h3 id="flash-mobs" class="horizline">NYC contradance flash mobs</h4>
+<ul class="media-samples">
+  <li>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/PwLKqXKa97A" frameborder="0" allowfullscreen></iframe>
+  </li>
+  <li>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/ZENwLLKIzcU" frameborder="0" allowfullscreen></iframe>
+  </li>
+  <li>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/kUGyxwBVCTc" frameborder="0" allowfullscreen></iframe>
+  </li>
+  <li>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/gEY5rTqO62Y" frameborder="0" allowfullscreen></iframe>
+  </li>
+</ul>

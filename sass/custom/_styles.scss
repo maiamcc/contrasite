@@ -1,0 +1,63 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+@import "footnote";
+
+ul {
+  list-style-type: circle; 
+}
+
+.horizline {
+  border-bottom: 1px solid black;
+  margin-bottom: 10px !important;
+}
+
+.forceleft{
+  text-align: left !important;
+}
+
+.dance{
+  background-color: #CCCCCC;
+  padding: 5px 10px 10px 10px;
+  margin-bottom: 20px;
+  p {
+    margin: 0 !important;
+    padding-left: 10px;
+    text-indent: -5px;
+  }
+  h3, h4 {
+    margin: 0 0 2px 0 !important;
+  }
+}
+
+.new {
+  box-shadow: 0px 0px 15px rgba(52, 152, 219, 0.8) !important;
+  border: medium double rgba(52, 152, 219, 0.5);
+}
+
+.media-samples {
+  list-style-type: none;
+  text-align: justify;
+  margin-left: 0 !important;
+
+  &:after {
+    content: "";
+    width: 100%;
+    display: inline-block;
+  }
+
+  li {
+    display: block;
+    float: left;
+    width: 48%;
+    padding: 1%;
+    
+    @media screen and (max-width: 885px) { 
+      width: 70%;
+      padding: 5px 15%;
+    }
+    @media screen and (max-width: 640px) {
+      width: 100%;
+      padding: 5px 0; 
+    }
+  }
+}
