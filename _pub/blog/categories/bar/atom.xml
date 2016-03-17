@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: bar, | Maia Calls Dances]]></title>
+  <link href="http://contra.maiamccormick.com/blog/categories/bar/atom.xml" rel="self"/>
+  <link href="http://contra.maiamccormick.com/"/>
+  <updated>2016-03-17T02:29:54+00:00</updated>
+  <id>http://contra.maiamccormick.com/</id>
+  <author>
+    <name><![CDATA[Maia Remez McCormick]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[foobar]]></title>
+    <link href="http://contra.maiamccormick.com/blog/2016/03/17/foobar/"/>
+    <updated>2016-03-17T01:28:54+00:00</updated>
+    <id>http://contra.maiamccormick.com/blog/2016/03/17/foobar</id>
+    <content type="html"><![CDATA[<p>Hello world!</p>
+
+<p>I totes have a blog or something.</p>
+
+<p>Whee!</p>
+]]></content>
+  </entry>
+  
+</feed>
