@@ -1,15 +1,31 @@
 ---
 title: Blog
 layout: default
+sidebar: true
 ---
 
 <div class="blog-index">
+  <article class="foo">
+    Look here for (very) occasional blog posts about observations from calling and dancing, musings on the dance world, ramblings on my dance philosophy, programs from evenings I've called, and possibly some bad puns.
+  </article>
+
+  <div id="blognav">
+    <ul>
+      <li>
+        <a href="#foo">Programs</a>
+      </li>
+      <li>
+        <a href="#foo">On Dance</a>
+      </li>
+      <li>
+        <a href="#foo">Archives</a>
+      </li>
+    </ul>
+  </div>
+
   {% assign index = true %}
   {% for post in paginator.posts %}
   {% assign content = post.content %}
-    <article class="foo">
-      Look here for (very) occasional blog posts about observations from calling and dancing, musings on the dance world, ramblings on my dance philosophy, programs from evenings I've called, and possibly some bad puns.
-    </article>
     <article>
       {% include article.html %}
     </article>
