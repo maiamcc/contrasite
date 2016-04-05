@@ -34,6 +34,54 @@ ul {
   border: medium double rgba(52, 152, 219, 0.5);
 }
 
+#blognav {
+  margin: 10px 0 10px 0;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  @media screen and (max-width: 600px) {
+    font-size: 15px;
+    font-weight: 300;
+  }
+  a {
+    color: #3498db;
+  }
+  ul {
+    list-style-type: none;
+    li {
+      display: inline;
+      &:last-of-type { 
+        &:after {
+	  content: '';
+	  padding: 0;	
+ 	}
+      } 
+      &:after {
+	content: '*';
+	padding: 0 10px 0 10px;
+      }
+    } 
+  }
+}
+
+#archives {
+  h3 {
+    margin: 5px 0 0 0;
+  }
+}
+
+.more-link {
+  display: block;
+  text-align: center;
+  border: 2px dotted;
+  font-size: 18px;
+  font-weight: 600;
+  &:hover {
+    background: #e74c3c;
+    color: #3498db;
+  }
+}
+
 .media-samples {
   list-style-type: none;
   text-align: justify;
