@@ -3,6 +3,6 @@
 	<h3><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h3>
 	<div class="meta">
 		<span class="date">{{ date | date: "%Y %b %e " }}</span>
-		<span class="tags">{% include post/categories.html %}</span>
+		<span class="tags">{% include post/tags.html %}</span>
 	</div>
 </article>

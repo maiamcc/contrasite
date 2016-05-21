@@ -9,6 +9,7 @@ do i want my blog to have a sidebar?
 
 blog to-do:
   individual posts should show tags
+	this is done but should be styled, also troubleshot (look at weird commas between multiple categories)
   "categories" page?
   rss feed?
   blog menu should suck less--maybe have a categories dropdown?

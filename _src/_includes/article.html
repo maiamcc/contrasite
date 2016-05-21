@@ -8,6 +8,7 @@
 			{% endif %}
 		</h2>
 		<div class="meta date">{% include post/date.html %}{{ time }}</div>
+		<span class="tags"><strong>Tags:</strong> {% include post/tags.html %}</span>
 	</header>
 	<div class="entry-content">
 		{{ content | excerpt }}
@@ -22,6 +23,7 @@
 		<h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
 		{%  endif %}
 		<div class="meta date">{% include post/date.html %}{{ time }}</div>
+		<span class="tags"><strong>Tags:</strong> {% include post/tags.html %}</span>
 	</header>
 
 	<div class="entry-content">{{ content }}</div>
