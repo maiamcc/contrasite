@@ -17,8 +17,8 @@ Here you can see some tunes I've written (most alone, some with collaborators). 
   <a class="fancybox" rel="tune" href="scores/lava.pdf"><img class="new" src="thumbs/lava_thumb.png" width="150" height="194" alt="" /></a>
   <a class="fancybox" rel="tune" href="scores/classy.pdf"><img class="new" src="thumbs/classy_thumb.png" width="150" height="194" alt="" /></a>
   <a class="fancybox" rel="tune" href="scores/chaste.pdf"><img src="thumbs/chaste_thumb.png" width="150" height="194" alt="" /></a>
-  <a class="fancybox" rel="tune" href="scores/paddle.pdf"><img src="thumbs/paddle_thumb.png" width="150" height="194" alt="" /></a>
-  <a class="fancybox" rel="tune" href="scores/midnight.pdf"><img src="thumbs/midnight_thumb.png" width="150" height="194" alt="" /></a>
+  <!--<a class="fancybox" rel="tune" href="scores/paddle.pdf"><img src="thumbs/paddle_thumb.png" width="150" height="194" alt="" /></a><!-- -->
+  <!--<a class="fancybox" rel="tune" href="scores/midnight.pdf"><img src="thumbs/midnight_thumb.png" width="150" height="194" alt="" /></a><!-- -->
 </div>
 
 <h3 class="horizline" id="waltzes">Waltzes</h3>

@@ -8,17 +8,8 @@ footer: true
 ---
 <h3 class="horizline">Upcoming Gigs</h3>
 
-#### Saturday, March 19th --- [CDNY](//cdny.org) (New York, NY) with the Russet Trio
-Right in the middle of Manhattan, come swing with us to the dulcet sounds of the Russet Trio (Aldo Lavaggi, fiddle; Peter Madsen, guitar & percussion; Greg Richardson, bass).
-
-#### Friday, April 15th, 10:30PM: "Contracon" with caller [Melanie Axel-Lute](//www.maxellute.net) at [NEFFA](//neffa.org)
-Are you going to be dancing at NEFFA? (Hint: yes.) Join me and Melanie Axel-Lute for a smörgåsbord of contras Friday evening to get you in the zone for the rest of the festival!
-
-#### Saturday, May 7th --- [New Haven/Branford](//www.ctcontra.com/nhcd/) (Branford, CT) with the Gotham Gals
-Celebrate spring with a crazy little thing called CONTRADANCE!
-
-#### Saturday, June 4th --- [CDNY](//cdny.org) (New York, NY) with caller Alex Deis-Lauby
-We've got the next generation of callers right here for you, folks! Me and Alex are teaming up to bring you an evening of funky fresh contradance; don't miss it!
+#### Saturday, June 4th --- [CDNY](//cdny.org) (New York, NY) with caller Paul Morris
+We've got the next generation of callers right here for you, folks! Paul and I are teaming up to bring you an evening of funky fresh contradance; don't miss it!
 
 #### Thursday, June 9th --- [Mt. Airy](//www.thursdaycontra.com) (Philadelphia, PA), band TBA
 Get your brotherly love (and [sisterly affection](//en.wikipedia.org/wiki/Nicknames_of_Philadelphia)) on, and come dance with the beautiful humans of Philly!
@@ -34,6 +25,7 @@ Sometimes you need a little pick-me-up before the work week starts, and what bet
 <a id="past"></a>
 <h3 class="horizline">Dances/Events Called (selected)</h3>
 
+* [The NEFFA Festival](//www.neffa.org/What_is_Festival.html) (Mansfield, MA)
 * [Glen Echo (Friday Night Dance)](//fridaynightdance.org/) (Glen Echo, MD)
 * [Glen Echo (Sunday)](//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1) (Glen Echo, MD)
 * [BIDA](//bidadance.org/) (Boston, MA)
@@ -45,6 +37,7 @@ Sometimes you need a little pick-me-up before the work week starts, and what bet
 * [Mt. Airy, PA](//www.thursdaycontra.com/)
 * [Princeton, NJ](//princetoncountrydancers.org/)
 * [Baltimore Wednesday Night Contra Dance](//www.bfms.org/squarecontra.php)
+* [New Haven/Branford](//www.ctcontra.com/nhcd/) (Branford, CT)
 * [Swingin' Tern](//folkproject.org/swtern/swtern.shtml) (East Hanover, NJ)
 * Albany, NY
 * Woodstock, NY
