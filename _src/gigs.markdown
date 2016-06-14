@@ -8,17 +8,20 @@ footer: true
 ---
 <h3 class="horizline">Upcoming Gigs</h3>
 
-#### Saturday, June 4th --- [CDNY](//cdny.org) (New York, NY) with caller Paul Morris
-We've got the next generation of callers right here for you, folks! Paul and I are teaming up to bring you an evening of funky fresh contradance; don't miss it!
-
-#### Thursday, June 9th --- [Mt. Airy](//www.thursdaycontra.com) (Philadelphia, PA), band TBA
-Get your brotherly love (and [sisterly affection](//en.wikipedia.org/wiki/Nicknames_of_Philadelphia)) on, and come dance with the beautiful humans of Philly!
+#### Friday, June 17th --- [Brooklyn Contra](//www.brooklyncontra.org/) with [Ensoleil](//ensoleilband.com/)
+Start your summer off right with Brooklyn Contra. I'll be calling cool contras to combat the summer heat, along with the fabulous Ensoleil (a [rockin'](//www.youtube.com/watch?v=ZwGcgv1UIAc&list=UUuyE0D9bXppvgKPxB4Hj4mw&index=2) band making their NYC debut)!
 
 #### Friday, August 12th --- [Glen Echo Friday Night Dance](//fridaynightdance.org) with the fabulous Glen Echo Open Band
 If I'm voluntarily coming to D.C. in the middle of August, you know the dancing is _damn good_.
 
 #### Sunday, August 14th --- [Glen Echo (Sunday)](//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1), band TBA
 Sometimes you need a little pick-me-up before the work week starts, and what better pick-me-up is there than contradance?!
+
+#### Thursday, January 26th --- [Concord Scout House](//www.neffa.org/Thurs.html), band TBA
+I love calling in New England---it's contra at its roots, and contra at its finest. Come dance with me!
+
+#### Saturday, January 28th --- [Boston Gender-Free (Jamaica Plain)](//lcfd.org/jp/), band TBA
+Contradance: now with 50% fewer social constructs!
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ujcjbnqd00sm2krhbn2b8vg14k%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="450" frameborder="0" scrolling="no"></iframe>
 

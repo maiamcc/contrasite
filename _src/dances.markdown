@@ -101,7 +101,7 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p><strong>A2</strong>: in hands-4 AWAY from partner (with shadow), circle L 1/2 (4) and roll shadow (gent roll lady) (4)</p>
   <p>circle L 1/2 (4) and roll shadow (lady roll gent) (4)</p>
   <p><strong>B1</strong>: partner b&s</p>
-  <p><strong>B2</strong>: ladies spiral L 1 1/2</p>
-  <p>neighbor alle. R once and a bit to new neighbors</p>
+  <p><strong>B2</strong>: long lines, ladies roll partner away on the way back</p>
+  <p>ladies pull by L (2), neighbor alle. R 1 1/4 to new neighbors</p>
   <p><em><strong>Notes</strong>: First called July 2013 at Village Contra in NYC.</em></p>
 </div>
