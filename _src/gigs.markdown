@@ -8,17 +8,20 @@ footer: true
 ---
 <h3 class="horizline">Upcoming Gigs</h3>
 
-#### Friday, June 17th --- [Brooklyn Contra](//www.brooklyncontra.org/) with [Ensoleil](//ensoleilband.com/)
-Start your summer off right with Brooklyn Contra. I'll be calling cool contras to combat the summer heat, along with the fabulous Ensoleil (a [rockin'](//www.youtube.com/watch?v=ZwGcgv1UIAc&list=UUuyE0D9bXppvgKPxB4Hj4mw&index=2) band making their NYC debut)!
-
 #### Friday, August 12th --- [Glen Echo Friday Night Dance](//fridaynightdance.org) with the fabulous Glen Echo Open Band
 If I'm voluntarily coming to D.C. in the middle of August, you know the dancing is _damn good_.
 
 #### Sunday, August 14th --- [Glen Echo (Sunday)](//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1), band TBA
 Sometimes you need a little pick-me-up before the work week starts, and what better pick-me-up is there than contradance?!
 
-#### Thursday, January 26th --- [Concord Scout House](//www.neffa.org/Thurs.html), band TBA
-I love calling in New England---it's contra at its roots, and contra at its finest. Come dance with me!
+#### Saturday, October 8th --- [CDNY](//cdny.org) with Burnt Turnip and guest caller Chloe Levine
+Lettuce turnip the beet! Dancing will squash your worries, and soon you won't carrot all about any of the stress of the week. Come dance with us, or you will surely rhu(barb) it.
+
+#### Wednesday, November 30th --- [Princeton Contra](//princetoncountrydancers.org), band TBA
+Dancers under 35 dance FREE at Princeton 5th Wednesday dances, and at this very special event, we're giving out FREE JOY to all dancers under the age of 110!
+
+#### Friday, January 13th --- [Village Contra](///www.villagecontra.org) (NYC gender-free), band TBA
+Shake off your gender for a bit and come dance the night away with Village Contra!
 
 #### Saturday, January 28th --- [Boston Gender-Free (Jamaica Plain)](//lcfd.org/jp/), band TBA
 Contradance: now with 50% fewer social constructs!
