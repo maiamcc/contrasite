@@ -64,6 +64,11 @@ ul {
   }
 }
 
+.blogpost {
+  margin-bottom: 1.5em; 
+  &:not(:last-of-type) {border-bottom: 2px dotted #3498db;}
+}
+
 #archives {
   h3 {
     margin: 5px 0 0 0;
@@ -72,14 +77,10 @@ ul {
 
 .more-link {
   display: block;
-  text-align: center;
-  border: 2px dotted;
+  text-align: right;
   font-size: 18px;
   font-weight: 600;
-  &:hover {
-    background: #e74c3c;
-    color: #3498db;
-  }
+  margin-bottom: -.2em;
 }
 
 .media-samples {

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: foo | Maia Calls Dances]]></title>
   <link href="http://contra.maiamccormick.com/blog/categories/foo/atom.xml" rel="self"/>
   <link href="http://contra.maiamccormick.com/"/>
-  <updated>2016-05-21T03:59:02+00:00</updated>
+  <updated>2016-09-20T22:03:27+00:00</updated>
   <id>http://contra.maiamccormick.com/</id>
   <author>
     <name><![CDATA[Maia Remez McCormick]]></name>
@@ -23,6 +23,19 @@
 <p>Corned beef rump cupim meatloaf. Landjaeger flank frankfurter picanha ham hock. Porchetta tri-tip picanha cow ribeye ham. Alcatra shoulder fatback, hamburger cupim ground round biltong brisket beef tongue. Beef ribs drumstick boudin hamburger shank fatback landjaeger cupim swine meatloaf bresaola chuck biltong shoulder jerky. Shankle drumstick pig ham, fatback cupim bacon salami spare ribs meatloaf shank pork chop tail. Beef ribs corned beef fatback, landjaeger spare ribs strip steak pastrami tri-tip beef venison salami cupim alcatra pork loin.</p>
 
 <p>Pancetta bresaola ham hock salami jerky, pork t-bone boudin drumstick brisket pork belly hamburger turducken. Cupim rump strip steak chuck turkey, venison shank sirloin alcatra biltong ham. Biltong filet mignon pancetta, tri-tip beef ribs flank beef ribeye boudin leberkas salami doner. Tail t-bone ham hock salami sirloin spare ribs filet mignon brisket porchetta ball tip tri-tip short ribs beef ribs sausage ground round. Doner picanha pork loin, kevin short loin ham hock biltong pork boudin ball tip venison tongue.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[foobar]]></title>
+    <link href="http://contra.maiamccormick.com/blog/2016/03/17/foobar/"/>
+    <updated>2016-03-17T01:28:54+00:00</updated>
+    <id>http://contra.maiamccormick.com/blog/2016/03/17/foobar</id>
+    <content type="html"><![CDATA[<p>Hello world!</p>
+
+<p>I totes have a blog or something.</p>
+
+<p>Whee!</p>
 ]]></content>
   </entry>
   

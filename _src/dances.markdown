@@ -21,6 +21,28 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p><em><strong>Notes</strong>:</em></p></div>
 <!-- hack to make comment work -->
 
+<div class="dance" id="treasureofthesodabar">
+<h4><em>Treasure of the Soda Bar</em> (improper)</h4>
+  <p><strong>A1</strong>: neighbor RH bal. and box the gnat</p>
+  <p>gents allemande L 1 1/2</p>
+  <p><strong>A2</strong>: half hey (pass P by R on the side)</p>
+  <p>partner swing</p>
+  <p><strong>B1</strong>: circle L 3/4</p>
+  <p>neighbor swing</p>
+  <p><strong>B2</strong>: square through (RH to P across, bal. and pull by across, pull by L with N on side, repeat, look along side for a new N)</p>
+  <p><em><strong>Notes</strong>: A1 is from James Hutson's "Treasure of the Sierra Madre". This dance was tested at Soda Bar in Brooklyn, hence the title, and first called at Glen Echo FND in August 2016.</em></p></div>
+
+<div class="dance" id="glutenfreepetronella">
+<h4><em>Gluten-Free Petronella</em> (becket L)</h4>
+  <p><strong>A1</strong>: bal. the ring and spin right</p>
+  <p>bal. the ring and gent roll neighbor lady away (with half-sashay)</p>
+  <p><strong>A2</strong>: bal. the ring and Nevada twirl partner (to face new Ns)</p>
+  <p>swing new neighbor</p>
+  <p><strong>B1</strong>: ladies chain (to P)</p>
+  <p>half hey (ladies passing R)</p>
+  <p><strong>B2</strong>: partner balance and swing</p>
+  <p><em><strong>Notes</strong>: Written Winter '16 as an alternative to Chris Ricciotti's "Greenfield Petronella"; I wanted to preserve the balance-y feel of the dance and the CA twirl --> new neighbor swing, but wanted a single progression. (This variation has a Nevada twirl instead--just a California twirl that starts with the gent on the right/lady on the left.) First called at Mt. Airy in May '16.</em></p></div>
+
 <div class="dance" id="happyjewqueer">
 <h4><em>Happy Jew Queer</em> (becket L)</h4>
   <p><strong>A1</strong>: yearn L w/ partner (4), gents fall back and ladies turn R 1/2, gents courtesy turn neighbor (6)</p>
@@ -84,7 +106,7 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
 
 <div class="dance" id="traindelay">
   <h4><em>Train Delay</em> (becket R)</h4>
-  <p><strong>A1</strong>: (ladies look on R diagonal for a new lady) ladies alle. R 1 1/2</p>
+  <p><strong>A1</strong>: (ladies look on R diagonal for a new lady) ladies allemande R 1 1/2</p>
   <p>neighbor swing</p>
   <p><strong>A2</strong>: ladies chain to partner</p>
   <p>left-hand star 1x</p>
@@ -96,12 +118,12 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
 
 <div class="dance" id="rollinontheriver">
   <h4><em>Rollin' on the River</em> (improper)</h4>
-  <p><strong>A1</strong>: neighbor alle. L 1 1/2</p>
+  <p><strong>A1</strong>: neighbor allemande L 1 1/2</p>
   <p>ladies chain across</p>
   <p><strong>A2</strong>: in hands-4 AWAY from partner (with shadow), circle L 1/2 (4) and roll shadow (gent roll lady) (4)</p>
   <p>circle L 1/2 (4) and roll shadow (lady roll gent) (4)</p>
   <p><strong>B1</strong>: partner b&s</p>
   <p><strong>B2</strong>: long lines, ladies roll partner away on the way back</p>
-  <p>ladies pull by L (2), neighbor alle. R 1 1/4 to new neighbors</p>
+  <p>ladies pull by L (2), neighbor allemande R 1 1/4 to new neighbors</p>
   <p><em><strong>Notes</strong>: First called July 2013 at Village Contra in NYC.</em></p>
 </div>

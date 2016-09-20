@@ -3,7 +3,7 @@ layout: post
 title: "foobar"
 date: 2016-03-17 01:28:54 +0000
 comments: true
-categories: foo, bar, baz 
+categories: foo bar baz 
 ---
 Hello world!
 

@@ -1,24 +1,16 @@
-calling page should contain:
-link to any blogposts about dancing
-dance philosophy
-past programs
-flash mob videos
-me calling videos
-
-do i want my blog to have a sidebar?
+I SHOULD WRITE UP:
+- past programs
+- dance philosphy
 
 blog to-do:
-  individual posts should show tags
-	this is done but should be styled, also troubleshot (look at weird commas between multiple categories)
-  "categories" page?
+  "categories" page that lists all categories? (Currently gross styling, see eg. http://contra.maiamccormick.com/blog/categories/foo/)
   rss feed?
   blog menu should suck less--maybe have a categories dropdown?
+  sidebar with recent posts? (look at formatting in partials/sidebar.scss, which currently isn't imported)
+  title the "foo" category page
+  dividers between blog posts on the blog homepage
 
 i unbroke the archive page but only with hacks, it'd be neat if the actual 'archives' partial loaded (but it can't find header-bg for some reason).
 archive colors would be nice, so my entire page isn't the same two colors
-using sass variables for colors instead of copying the hex would also be nice
-actual formatting on the archives page? i think the partials page has some fancy date stuff
-
-tell the maintainer: doesn't import custom css, maybe should fix that so it works better out of the box?
 
 eventually replace my "force left" with the existing "force left" etc.
