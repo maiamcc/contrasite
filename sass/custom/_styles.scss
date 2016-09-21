@@ -34,6 +34,10 @@ ul {
   border: medium double rgba(52, 152, 219, 0.5);
 }
 
+.pagination {text-align:center;}
+a.prev {float:left;}
+a.next {float:right;}
+
 #blognav {
   margin: 10px 0 10px 0;
   text-align: center;
