@@ -11,7 +11,11 @@ footer: true
 #### Saturday, October 8th --- [CDNY](//cdny.org) with Burnt Turnip and guest caller Chloe Levine
 Lettuce turnip the beet! Dancing will squash your worries, and soon you won't carrot all about any of the stress of the week. Come dance with us, or you will surely rhu(barb) it.
 
-#### Wednesday, November 30th --- [Princeton Contra](//princetoncountrydancers.org), band TBA
+#### Saturday, October 29th --- [Branford/New Haven, CT](//www.ctcontra.com/nhcd/) with Double Time (*experienced dance*)
+Experienced dancers from far and near flock to Branford, CT for the rockin'-est advanced dance in Connecticut! As if you needed more reason to come out and dance: with two days to go before Halloween, we're encouraging dancers to come *in costume*! It'll be a scaaaary good time!
+
+
+#### Wednesday, November 30th --- [Princeton Contra](//princetoncountrydancers.org) with [Crossing the Millstone](//princetoncountrydancers.org/music/bands/crossing.htm) (*free for dancers under 35*)
 Dancers under 35 dance FREE at Princeton 5th Wednesday dances, and at this very special event, we're giving out FREE JOY to all dancers under the age of 110!
 
 #### Friday, January 13th --- [Village Contra](///www.villagecontra.org) (NYC gender-free), band TBA
@@ -20,7 +24,7 @@ Shake off your gender for a bit and come dance the night away with Village Contr
 #### Thursday, January 26th --- [Thursday Contra at the Concord Scout House](//www.neffa.org/Thurs.html) (Concord, MA), band TBA
 Winter in New England can be rough, so some warm your bones with some contra and good company!
 
-#### Saturday, January 28th --- [Boston Gender-Free (Jamaica Plain)](//lcfd.org/jp/), band TBA
+#### Saturday, January 28th --- [Boston Gender-Free (Jamaica Plain)](//lcfd.org/jp/) with McKinley James, Maura Scanlin & Dan Klingsburg
 Contradance: now with 50% fewer social constructs!
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ujcjbnqd00sm2krhbn2b8vg14k%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="450" frameborder="0" scrolling="no"></iframe>
