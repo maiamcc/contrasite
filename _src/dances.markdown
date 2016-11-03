@@ -93,7 +93,7 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
 </div>
 
 <div class="dance" id="messagefromthefuture">
-  <h4><em>Message from the Future</em> (becket L)</h4>
+  <h4><em>Message from the Future</em> (becket L) [<a href="https://www.youtube.com/watch?v=Gj1FlDrlbB8">VIDEO</a>]</h4>
   <p><strong>A1</strong>: ladies chain to neighbor</p>
   <p>mad robin, ladies in front first (i.e. CCW) </p>
   <p><strong>A2</strong>: ladies pass R to start a 3/4 hey (LR, PL, GR, NL, LR, PL)</p>
@@ -116,6 +116,7 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p><em><strong>Notes</strong>: Written on a stuck train to Princeton, NJ, late 2014, and first called March 2015 in Silver Spring, MD. In the second half of B1, pull by R at the start of the do-si-do for some extra momentum.</em></p>
 </div>
 
+<!-- comment out till i fix the ending 
 <div class="dance" id="rollinontheriver">
   <h4><em>Rollin' on the River</em> (improper)</h4>
   <p><strong>A1</strong>: neighbor allemande L 1 1/2</p>
@@ -127,3 +128,4 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p>ladies pull by L (2), neighbor allemande R 1 1/4 to new neighbors</p>
   <p><em><strong>Notes</strong>: First called July 2013 at Village Contra in NYC.</em></p>
 </div>
+<!-- hack to make comments work -->
