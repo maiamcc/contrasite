@@ -11,8 +11,8 @@ footer: true
 #### Wednesday, November 30th --- [Princeton Contra](//princetoncountrydancers.org) with [Crossing the Millstone](//princetoncountrydancers.org/music/bands/crossing.htm) (*free for dancers under 35*)
 Dancers under 35 dance FREE at Princeton 5th Wednesday dances, and at this very special event, we're giving out FREE JOY to all dancers under the age of 110!
 
-#### Friday, January 13th --- [Village Contra](///www.villagecontra.org) (NYC gender-free), band TBA
-Shake off your gender for a bit and come dance the night away with Village Contra!
+#### Friday, January 20th --- [Brooklyn Contra](//www.brooklyncontra.org/), band TBA
+Dance away the winter chill with some warm company and aerobic exercise!
 
 #### Saturday, January 21st --- [CDNY](//cdny.org) with Brooklyn Swing Ensemble
 Come dance to the local, home-grown tunes of Brooklyn's groovin'-est band. They've got "swing" right in the name!!
@@ -22,6 +22,9 @@ Winter in New England can be rough, so some warm your bones with some contra and
 
 #### Saturday, January 28th --- [Boston Gender-Free (Jamaica Plain)](//lcfd.org/jp/) with McKinley James, Maura Scanlin & Dan Klingsburg
 Contradance: now with 50% fewer social constructs!
+
+#### Friday, February 10th --- [Village Contra](///www.villagecontra.org) (NYC gender-free), band TBA
+Shake off your gender for a bit and come dance the night away with Village Contra!
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ujcjbnqd00sm2krhbn2b8vg14k%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="450" frameborder="0" scrolling="no"></iframe>
 
