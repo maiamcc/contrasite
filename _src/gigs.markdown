@@ -8,9 +8,6 @@ footer: true
 ---
 <h3 class="horizline">Upcoming Gigs</h3>
 
-#### Wednesday, November 30th --- [Princeton Contra](//princetoncountrydancers.org) with [Crossing the Millstone](//princetoncountrydancers.org/music/bands/crossing.htm) (*free for dancers under 35*)
-Dancers under 35 dance FREE at Princeton 5th Wednesday dances, and at this very special event, we're giving out FREE JOY to all dancers under the age of 110!
-
 #### Friday, January 20th --- [Brooklyn Contra](//www.brooklyncontra.org/), band TBA
 Dance away the winter chill with some warm company and aerobic exercise!
 
