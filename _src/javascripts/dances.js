@@ -1,4 +1,24 @@
 $(function() {
+  function slugify_title(title) {
+    // strip spaces, lowercase
+  }
+
+  function insert_dances(dances) {
+    var template = $('#dance-template');
+    var dance_container = $('#dance-container');
+    dances.forEach(function(dance) {
+      var new_dance = template.clone();
+
+      console.log(dance.title);
+      
+      // unhide elem.
+      new_dance.css('display', '');
+
+      // add to DOM
+      dance_container.append(new_dance);
+    });
+  }
+
   /* TEMPLATE
     {
       title: '',
@@ -321,4 +341,7 @@ $(function() {
       },
     },
   ];
+
+  console.log('hi there!');
+  insert_dances(dances);
 });
