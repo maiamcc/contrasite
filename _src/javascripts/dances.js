@@ -1,6 +1,10 @@
 $(function() {
   function slugify_title(title) {
-    // strip spaces, lowercase
+    return title.replace(/ /g,'').toLowerCase();
+  }
+
+  function make_choreo_html(choreo) {
+    return 'choreography!';
   }
 
   function insert_dances(dances) {
@@ -8,9 +12,25 @@ $(function() {
     var dance_container = $('#dance-container');
     dances.forEach(function(dance) {
       var new_dance = template.clone();
-
+      new_dance.attr('id', slugify_title(dance.title));
       console.log(dance.title);
       
+      template.find('.dance-title').text(dance.title);
+      template.find('.dance-formation').text(dance.formation);
+      // template.find('.dance-difficulty').text(dance.difficulty);
+      template.find('.dance-notes').text(dance.notes); 
+      
+      if (dance.starts) {
+        // put in the thing and unhide
+        // template.find('.dance-starts').text(dance.starts);    
+      }
+      if (dance.video_link) {
+        // put in the thing and make it pretty
+        // template.find('.dance-video_link').text(dance.video_link);
+      }
+           
+      template.find('.dance-choreo').html(make_choreo_html(dance.choreo));
+       
       // unhide elem.
       new_dance.css('display', '');
 
