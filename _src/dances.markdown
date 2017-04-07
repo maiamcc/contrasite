@@ -7,10 +7,38 @@ sharing: true
 footer: false
 sidebar: false
 ---
+<script src="javascripts/dances.js"></script>
+
 Here are a handful of dances that I've written, with more to come soon! (I've got more on the back-burner, but I only post dances here once they've been tested and vetted.) If any of these dances strike your fancy, _please do call them_, spread them around, etc.! I ask only that (if you feel like it) you [drop me a line](/contact.html) and let me know how it went. Feedback is always welcome, as are requests.
 
-<!-- TEMPLATE
-<div class="dance" id="***">
+<div id="dance-blurbs">
+  <p>
+    <strong><a href="#fakingcommunion">Faking Communion</a></strong> ["interesting"] - smooth line-weaving dance with lots of fake-outs
+  </p><p>
+    <strong><a href="#goodstuff">Gimmie the Good Stuff</a></strong> [gnarly] - leave your partner; swing > swing transitions
+  </p><p>
+  <strong><a href="#happyjewqueer">Happy Jew Queer</a></strong> [gnarly] - a disorientintly smooth dance with double-shadow interaction   and rollaway into a swing.
+  </p><p>
+  <strong><a href="#hellooonurse">Hellooo Nurse!</a></strong> [accessible] - gents' right-hand chain to N in an otherwise dead-easy   dance
+  </p><p>
+    <strong><a href="#lifeinboxes2">Life in Boxes II</a></strong> [gnarly] - visiting past and future neighbors; lots of gnat-boxing
+  </p><p>
+    <strong><a href="#messagefromthefuture">Message from the Future</a></strong> ["interesting"] - lots of eye contact and flowing motion
+  </p><p>
+  <strong><a href="#pinkmartini">Pink Martini</a></strong> ["interesting"] - Petronella turns (incl. Petronella turn to swing a new N)   and a little shadow time
+  </p><p>
+    <strong><a href="#toomanyjoshes">Too Many Joshes</a></strong> [gnarly] - gents chaining by ALL THE HANDS!
+  </p><p>
+    <strong><a href="#traindelay">Train Delay</a></strong> [accessible] - an accessible and energetic shadow dance
+  </p><p>
+  <strong><a href="#traintotrenton">Train to Trenton</a></strong> [accessible] - slick, smooth, almost too flowy; promenade and circle   R transitions that I actually feel good about
+  </p><p>
+  <strong><a href="#treasureofthesodabar">Treasure of the Soda Bar</a></strong> [accessible] - square through dance with A1 taken from   James Hutson's Treasure of the Sierra Madre
+  </p>
+</div>
+
+<!-- TEMPLATE -->
+<div class="dance" id="dance-template" style="display:none;">
 <h4><em>*TITLE*</em> (formation)</h4>
   <p><strong>A1</strong>:</p>
   <p></p>
@@ -19,7 +47,17 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p></p>
   <p><strong>B2</strong>: </p>
   <p><em><strong>Notes</strong>:</em></p></div>
-<!-- hack to make comment work -->
+
+<div class="dance" id="hellooonurse">
+<h4><em>Hellooo Nurse!</em> (improper)</h4>
+  <p><strong>A1</strong>: neighbor balance and swing</p>
+  <p><strong>A2</strong>: gents alle. L 1 1/2</p>
+  <p>partner swing</p>
+  <p><strong>B1</strong>: long lines forward, on the way back gents roll partner away with a half-sashay </p>
+  <p>gents right-hand chain to N</p>
+  <p><strong>B2</strong>: left-hand star 1x</p>
+  <p>current neighbor alle. L 1 1/2
+  <p><em><strong>Notes</strong>: written January 2017, called shortly thereafter at Brooklyn Contra. I wanted a dance with a gents' right-hand chain that was otherwise dead easy, and this is what I came up with. Note that the allemande in B2 is with your CURRENT neighbor, i.e. the one you starred with (this is the biggest point of confusion for experienced dancers used to looking for new neighbors out of a left-hand star).</em></p></div>
 
 <div class="dance" id="goodstuff">
 <h4><em>Gimmie the Good Stuff</em> (becket L)</h4>
@@ -39,9 +77,9 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p><strong>A2</strong>: N0 box the gnat, pull by, swing N1</p>
   <p><strong>B1</strong>: circle L 3/4</p>
   <p>P swing (on gent's home side)</p>
-  <p><strong>B2</strong>: circle L 3/4 and pull by N1 by R</p>
-  <p>new N alle. R 1 1/2 (this is your new N1)
-  <p><em><strong>Notes</strong>:</em> Written summer '16 while packing up my life to move, beta tested by CDNY dancers. N1 = current neighbor, N2 = next neighbor, N0 = previous. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the second half of B2 (current N alle. R 1 1/2).</p></div>
+  <p><strong>B2</strong>: circle L 3/4</p>
+  <p>current N alle. R 1/2, new N alle. L 1/2 (this is your new N1)
+  <p><em><strong>Notes</strong>:</em> Written summer '16 while packing up my life to move, first called at Concord Thursday Jan. '17. N1 = current neighbor, N2 = next neighbor, N0 = previous. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the very end of B2 (current N alle. L 1/2).</p></div>
 
 <div class="dance" id="traintotrenton">
 <h4><em>Train to Trenton</em> (improper)</h4>
@@ -52,7 +90,7 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p>ladies chain (to P)</p>
   <p><strong>B2</strong>: promenade across (w/ P)</p>
   <p>circle R 3/4 & pass thru. up/down by the L shoulder
-  <p><em><strong>Notes</strong>:</em> Written on (surprise) a train to Trenton (en route to Contracopia) fall '16, first called soon after at Princeton. Satisfying hey-like figure along the sides at end/beginning, a promenade that actually flows (b/c it comes out of a courtesy turn), and a promenade --> circle R transition. Promenade may take much less time than dancers are used to b/c of the momentum coming out of a courtesy turn, but this leaves time for a leisurely pass-through.</p></div>
+  <p><em><strong>Notes</strong>:</em> Written on (surprise) a train to Trenton (en route to Contracopia) fall '16, first called soon after at Princeton. Satisfying hey-like figure along the sides at end/beginning, a promenade that actually flows (b/c it comes out of a courtesy turn), and a promenade --> circle R transition. Promenade may take much less time than dancers are used to b/c of the momentum coming out of a courtesy turn, but this leaves time for a leisurely circle R and pass-through.</p></div>
 
 <div class="dance" id="treasureofthesodabar">
 <h4><em>Treasure of the Soda Bar</em> (improper)</h4>
@@ -65,6 +103,7 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p><strong>B2</strong>: square through (RH to P across, bal. and pull by across, pull by L with N on side, repeat, look along side for a new N)</p>
   <p><em><strong>Notes</strong>: A1 is from James Hutson's "Treasure of the Sierra Madre". This dance was tested at Soda Bar in Brooklyn, hence the title, and first called at Glen Echo FND in August 2016.</em></p></div>
 
+<!-- idk how I feel about this dance right now...
 <div class="dance" id="glutenfreepetronella">
 <h4><em>Gluten-Free Petronella</em> (becket L)</h4>
   <p><strong>A1</strong>: bal. the ring and spin right</p>
@@ -75,18 +114,19 @@ Here are a handful of dances that I've written, with more to come soon! (I've go
   <p>half hey (ladies passing R)</p>
   <p><strong>B2</strong>: partner balance and swing</p>
   <p><em><strong>Notes</strong>: Written Winter '16 as an alternative to Chris Ricciotti's "Greenfield Petronella"; I wanted to preserve the balance-y feel of the dance and the CA twirl --> new neighbor swing, but wanted a single progression. (This variation has a Nevada twirl instead--just a California twirl that starts with the gent on the right/lady on the left.) First called at Mt. Airy in May '16.</em></p></div>
+<!-- hack to make comments work -->
 
 <div class="dance" id="happyjewqueer">
-<h4><em>Happy Jew Queer</em> (becket L)</h4>
-  <p><strong>A1</strong>: yearn L w/ partner (4), gents fall back and ladies turn R 1/2, gents courtesy turn neighbor (6)</p>
-  <p>(w/ N) promenade across (to lady's home side) (6)</p>
+<h4><em>Happy Jew Queer</em> (becket L, 2x prog.)</h4>
+  <p><strong>A1</strong>: ladies chain across (to N)</p> 
+  <p>(w/ N) promenade across (to lady's home side)</p>
   <p><strong>A2</strong>: circle R 3/4 and ladies roll partner away</p>
   <p>ladies chain on L diagonal (to next N)
   <p><strong>B1</strong>: ladies chain on R diagonal (to shadow #2)</p>
   <p>circle L 1x with shadow #1 (turn <em>away</em> from the one you just chained with)</p>
   <p><strong>B2</strong>: gents roll shadow away (4)</p>
   <p>partner swing (12)</p>
-  <p><em><strong>Notes</strong>: Written for Zoë Madonna around New Years 2016 because she wanted a dance with a roll-away into a swing, and workshopped by some lovely dancers at NEFFA '16. All roll-aways include a half-sashay. At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. Asymmetrical phrase in A1 should be called as if it's 8/8 and let the dancers sort out the timing.</em></p></div>
+  <p><em><strong>Notes</strong>: Written for Zoë Madonna around New Years 2016 because she wanted a dance with a roll-away into a swing, and workshopped by some lovely dancers at NEFFA '16. All roll-aways include a half-sashay. At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. Emphasize that the circle right in A2 must be fast so that partner rollaway can happen and leave the ladies ready to chain at the next phrase (perhaps prompting the circle early, as promenades out of a courtesy turn take less than 8 beats). In A1, chain with the neighbors straight across (these will be new neighbors).</em></p></div>
 
 <div class="dance" id="toomanyjoshes">
 <h4><em>Too Many Joshes</em> (improper)</h4>

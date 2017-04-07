@@ -8,20 +8,17 @@ footer: true
 ---
 <h3 class="horizline">Upcoming Gigs</h3>
 
-#### Friday, January 20th --- [Brooklyn Contra](//www.brooklyncontra.org/), band TBA
-Dance away the winter chill with some warm company and aerobic exercise!
+#### Saturday, March 4th --- [CDNY](//cdny.org) with guest caller Chloe Levine and Contrapositive
+Chloe and I bring you free-flowin' and foot-stompin' contras to the sweet sounds of local band Contrapositive. (I called with them recently and can attest to the fact that they are RAD.)
 
-#### Saturday, January 21st --- [CDNY](//cdny.org) with Brooklyn Swing Ensemble
-Come dance to the local, home-grown tunes of Brooklyn's groovin'-est band. They've got "swing" right in the name!!
+#### Saturday, April 22nd at 4:00PM --- Cutting Edge Contras at [NEFFA](//www.neffa.org/What_is_Festival.html)
+I'll be calling the hottest new contradances, fresh off the presses. Be the first to dance some of these future crowd favorites!
 
-#### Thursday, January 26th --- [Thursday Contra at the Concord Scout House](//www.neffa.org/Thurs.html) (Concord, MA), band TBA
-Winter in New England can be rough, so some warm your bones with some contra and good company!
+#### Friday, April 28th --- [Swarthmore College Contra Dance](http://www.sccs.swarthmore.edu/org/folkdance/) with Switching Protocols 
+Let's show the next generation of contradancers a good time!
 
-#### Saturday, January 28th --- [Boston Gender-Free (Jamaica Plain)](//lcfd.org/jp/) with McKinley James, Maura Scanlin & Dan Klingsburg
-Contradance: now with 50% fewer social constructs!
-
-#### Friday, February 10th --- [Village Contra](///www.villagecontra.org) (NYC gender-free), band TBA
-Shake off your gender for a bit and come dance the night away with Village Contra!
+#### Saturday, April 29th --- [CDNY](//cdny.org) with Switching Protocols
+These fine Bay Area musicians have come all the way over from the West Coast to blow your brains with an evening of fabulous contra music.
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ujcjbnqd00sm2krhbn2b8vg14k%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="450" frameborder="0" scrolling="no"></iframe>
 
@@ -29,10 +26,12 @@ Shake off your gender for a bit and come dance the night away with Village Contr
 <h3 class="horizline">Dances/Events Called (selected)</h3>
 
 * [The NEFFA Festival](//www.neffa.org/What_is_Festival.html) (Mansfield, MA)
+* [Concord Scout House (Thursday)](//www.neffa.org/Thurs.html) (Concord, MA)
+* [Concord Scout House (Monday)](//mondaycontras.com/) (Concord, MA) 
+* [BIDA](//bidadance.org/) (Cambridge, MA)
+* [Boston Gender Free Contra Dance (Jamaica Plain)](//lcfd.org/jp/)
 * [Glen Echo (Friday Night Dance)](//fridaynightdance.org/) (Glen Echo, MD)
 * [Glen Echo (Sunday)](//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1) (Glen Echo, MD)
-* [BIDA](//bidadance.org/) (Boston, MA)
-* [Concord Scout House (Monday)](//mondaycontras.com/) (Concord, MA)
 * [Downtown Amherst Contra](//amherstcontra.org/Amherst_Contradance/Home.html) (Amherst, MA)
 * [CDNY](//cdny.org/) (New York, NY)
 * [Brooklyn Contra](//brooklyncontra.wordpress.com/) (Brooklyn, NY)
