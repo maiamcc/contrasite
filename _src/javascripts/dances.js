@@ -1,10 +1,29 @@
 $(function() {
+  var SECTIONS = ['a1', 'a2', 'b1', 'b2'];
+  
   function slugify_title(title) {
     return title.replace(/ /g,'').toLowerCase();
   }
 
+  function new_paragraph(html) {
+    return $('<p>' + html + '</p>');
+  }
+
   function make_choreo_html(choreo) {
-    return 'choreography!';
+    var elem_to_fill = $('<span></span<');
+    SECTIONS.forEach(function(sect) {
+      var sect_label = '<strong>' + sect.toUpperCase() + '</strong>: ';
+      for (var i = 0; i < choreo[sect].length; i++) {
+        var line
+        if (i === 0) {
+          line = sect_label + choreo[sect][i]
+        } else {
+          line = choreo[sect][i]
+        }
+        elem_to_fill.append(new_paragraph(line));
+      }
+    });
+    return elem_to_fill;  
   }
 
   function insert_dances(dances) {
@@ -15,22 +34,23 @@ $(function() {
       new_dance.attr('id', slugify_title(dance.title));
       console.log(dance.title);
       
-      template.find('.dance-title').text(dance.title);
-      template.find('.dance-formation').text(dance.formation);
-      // template.find('.dance-difficulty').text(dance.difficulty);
-      template.find('.dance-notes').text(dance.notes); 
+      new_dance.find('.dance-title').text(dance.title);
+      new_dance.find('.dance-formation').text(dance.formation);
+      // new_dance.find('.dance-difficulty').text(dance.difficulty);
+      new_dance.find('.dance-notes').text(dance.notes); 
       
       if (dance.starts) {
         // put in the thing and unhide
-        // template.find('.dance-starts').text(dance.starts);    
+        // new_dance.find('.dance-starts').text(dance.starts);    
       }
       if (dance.video_link) {
         // put in the thing and make it pretty
-        // template.find('.dance-video_link').text(dance.video_link);
+        // new_dance.find('.dance-video_link').text(dance.video_link);
       }
-           
-      template.find('.dance-choreo').html(make_choreo_html(dance.choreo));
-       
+      
+      var choreo = make_choreo_html(dance.choreo, choreo);
+      new_dance.find('.dance-choreo').replaceWith(choreo);
+      
       // unhide elem.
       new_dance.css('display', '');
 
@@ -235,18 +255,18 @@ $(function() {
       date_written: '201507',
       video_link: '',
       choreo: {
-	A1: [
+	a1: [
 	  'bal. the ring and spin right, spinning extra to face new neighbors',
 	  'swing new neighbor',
 	],
-	A2: [
+	a2: [
 	  'bal. the ring and spin right (2x)',
 	],
-	B1: [
+	b1: [
 	  'bal. ring and gents roll neighbor lady away with a half-sashay',
 	  'gents pull by R (2), allemande shadow L 1x-ish (6)',
 	],
-	B2: [
+	b2: [
 	  'look for partner, spiral and swing',
 	],
       },
