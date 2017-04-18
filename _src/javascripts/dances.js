@@ -166,7 +166,7 @@ $(function() {
       formation: 'becket L, 2x. prog.',
       difficulty: 'gnarly',
       starts: '',
-      notes: 'written for Zoë Madonna around New Years 2016 because she wanted a dance with a roll-away into a swing, and workshopped by some lovely dancers at NEFFA ‘16. All roll-aways include a half-sashay. At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. Emphasize that the circle right in A2 must be fast so that partner rollaway can happen and leave the ladies ready to chain at the next phrase (perhaps prompting the circle early, as promenades out of a courtesy turn take less than 8 beats). In A1, chain with the neighbors straight across (these will be new neighbors).',
+      notes: 'written for Zoë Madonna around New Years 2016 because she wanted a dance with a roll-away into a swing, and workshopped by some lovely dancers at NEFFA ‘16. All roll-aways include a half-sashay. At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. Encourage dancers to take their time with the promenade in A1, as promenades out of a courtesy turn take less time than usual. In A1, chain with the neighbors straight across (these will be new neighbors).',
       date_written: '201601',
       blurb: 'a disorientintly smooth dance with double-shadow interaction and rollaway into a swing',
       choreo: {
