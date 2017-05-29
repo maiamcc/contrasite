@@ -8,14 +8,8 @@ footer: true
 ---
 <h3 class="horizline">Upcoming Gigs</h3>
 
-#### Saturday, April 22nd at 4:00PM --- Cutting Edge Contras at [NEFFA](//www.neffa.org/What_is_Festival.html)
-I'll be calling the hottest new contradances, fresh off the presses. Be the first to dance some of these future crowd favorites!
-
-#### Friday, April 28th --- [Swarthmore College Contra Dance](http://www.sccs.swarthmore.edu/org/folkdance/) with Switching Protocols 
-Let's show the next generation of contradancers a good time!
-
-#### Saturday, April 29th --- [CDNY](//cdny.org) with Switching Protocols
-These fine Bay Area musicians have come all the way over from the West Coast to blow your brains with an evening of fabulous contra music---let's give them a proper New York welcome!
+#### Friday, Sept. 29 -- Sunday, Oct. 1 --- [Youth Dance Weekend](//youthdanceweekend.org)
+I am so incredibly stoked to be calling this fabulous weekend alongside Dan Blim (English) and rad-tastic bands [Sassafras Stomp](//sassafrasstomp.com), [The Ripples](//theripplesband.com), and DJ Beats and Tea. The weekend is held in scenic Weston, VT and is full of incredible dancing and stimulating, important conversation about how to keep improving our dance communities. And [**registration is open**](//youthdanceweekend.org/ydw-2017/sign-up/) until June 13th, so get yourself into that lottery (it's non-binding, you want to register now and give yourself a chance of attending) and come be a part of this magical weekend!
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ujcjbnqd00sm2krhbn2b8vg14k%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="450" frameborder="0" scrolling="no"></iframe>
 

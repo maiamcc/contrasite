@@ -329,7 +329,7 @@ $(function() {
 
     {
       title: 'Train Delay',
-      formation: 'becket R',
+      formation: 'becket L',
       difficulty: 'accessible',
       starts: '',
       notes: 'written on a stuck train to Princeton, NJ, late 2014, and first called March 2015 in Silver Spring, MD. In the second half of B1, pull by R at the start of the do-si-do for some extra momentum.',
@@ -338,7 +338,7 @@ $(function() {
       video_link: '',
       choreo: {
         a1: [
-          '(ladies look on R diagonal for a new lady) ladies allemande R 1 1/2',
+          '(slide left to) circle L 3/4',
           'neighbor swing',
         ],
         a2: [
