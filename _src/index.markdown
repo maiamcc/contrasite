@@ -18,10 +18,10 @@ Read on for media samples, check out my [upcoming](/gigs.html) and [past gigs](/
     <iframe  width="420" height="315" src="//www.youtube.com/embed/Gj1FlDrlbB8" frameborder="0" allowfullscreen></iframe>
   </li>
   <li>
-    <iframe  width="420" height="315" src="//www.youtube.com/embed/lzDv8pCk2QY" frameborder="0" allowfullscreen></iframe>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/KrJ5dhFUvHo" frameborder="0" allowfullscreen></iframe>
   </li>
   <li>
-    <iframe  width="420" height="315" src="//www.youtube.com/embed/76UDIuTvrG0" frameborder="0" allowfullscreen></iframe>
+    <iframe  width="420" height="315" src="//www.youtube.com/embed/lzDv8pCk2QY" frameborder="0" allowfullscreen></iframe>
   </li>
   <li>
     <iframe  width="420" height="315" src="//www.youtube.com/embed/cRcgfyDaLuQ" frameborder="0" allowfullscreen></iframe>
