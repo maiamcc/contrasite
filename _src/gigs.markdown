@@ -9,7 +9,15 @@ footer: true
 <h3 class="horizline">Upcoming Gigs</h3>
 
 #### Friday, Sept. 29 -- Sunday, Oct. 1 --- [Youth Dance Weekend](//youthdanceweekend.org)
-I am so incredibly stoked to be calling this fabulous weekend alongside Dan Blim (English) and rad-tastic bands [Sassafras Stomp](//sassafrasstomp.com), [The Ripples](//theripplesband.com), and DJ Beats and Tea. The weekend is held in scenic Weston, VT and is full of incredible dancing and stimulating, important conversation about how to keep improving our dance communities. And [**registration is open**](//youthdanceweekend.org/ydw-2017/sign-up/) until June 13th, so get yourself into that lottery (it's non-binding, you want to register now and give yourself a chance of attending) and come be a part of this magical weekend!
+I am so incredibly stoked to be calling this fabulous weekend alongside Dan Blim (English) and rad-tastic bands [Sassafras Stomp](//sassafrasstomp.com), [The Ripples](//theripplesband.com), and DJ Beats and Tea. The weekend is held in scenic Weston, VT and is full of incredible dancing and stimulating, important conversation about how to keep improving our dance communities. I hope you come dance with us!
+
+#### Thursday, Nov. 2 --- [Old Farmer's Ball](//oldfarmersball.com) (Ashville, NC) with Switching Protocols
+
+#### Friday, Nov. 2 --- [River Falls Advanced Dance](//www.harvestmoonfolk.org/index.php) (Taylors, SC) with Switching Protocols
+
+#### Sunday, Nov. 5 --- [Glen Echo, MD](//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1) with Switching Protocols
+
+#### Saturday, Jan. 27 --- [CDNY](//cdny.org) (New York, NY), band TBA
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ujcjbnqd00sm2krhbn2b8vg14k%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="450" frameborder="0" scrolling="no"></iframe>
 
@@ -33,16 +41,6 @@ I am so incredibly stoked to be calling this fabulous weekend alongside Dan Blim
 * [New Haven/Branford](//www.ctcontra.com/nhcd/) (Branford, CT)
 * [Swingin' Tern](//folkproject.org/swtern/swtern.shtml) (East Hanover, NJ)
 * Albany, NY
-* Woodstock, NY
 * [Bennington, VT](//www.benningtondance.org/)
 * Silver Spring, MD (see the [FSGW website](//fsgw.org/myorgnet/public.php))
-* [Wicked Faire](//wickedfaire.com/)
-* Caretaker Farm Barn Dance (Williamstown, MA)
-* Northern Berkshire Contradance (Williamstown, MA)
 * [Round Hill](//www.roundhill.net/) (Stamford, CT)
-* Petersburgh, NY
-* [Greenfield, MA](//www.guidingstargrange.org/events) (guest spot)
-* [YDW](//www.youthdanceweekend.org) (guest spot)
-* Berkeley, CA (guest spot)
-* Waltz workshop at Brooklyn Contra/Village Contra's Holiday Contra and Waltz Ball
-* Waltz workshop at Williams College
