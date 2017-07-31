@@ -35,15 +35,16 @@ $(function() {
       
       new_dance.find('.dance-title').text(dance.title);
       new_dance.find('.dance-formation').text(dance.formation);
+      // TODO: show difficulty in each dance
       // new_dance.find('.dance-difficulty').text(dance.difficulty);
       new_dance.find('.dance-notes').text(dance.notes); 
       
       if (dance.starts) {
-        // put in the thing and unhide
+        // TODO: put in the thing and unhide
         // new_dance.find('.dance-starts').text(dance.starts);    
       }
       if (dance.video_link) {
-        // put in the thing and make it pretty
+        // TODO: put in the thing and make it pretty
         // new_dance.find('.dance-video_link').text(dance.video_link);
       }
       
@@ -108,7 +109,7 @@ $(function() {
     {
       title: 'Faking Communion',
       formation: 'becket L',
-      difficulty: '"interesting"',
+      difficulty: 'advanced',
       starts: '',
       notes: 'written May 2015, premiered at CDNY March 2016. So named because this dance is full of fake-outs. The part that trips everyone up is the star in B1–it doesn\'t turn as far as you expect. When teaching, emphasize that it\'s the GENTS\' responsability to end the star by turning back to spiral P.',
       date_written: '201505',
@@ -136,7 +137,7 @@ $(function() {
     {
       title: 'Gimmie the Good Stuff',
       formation: 'becket L',
-      difficulty: 'gnarly',
+      difficulty: 'expert',
       starts: '',
       notes: 'written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers. With the swing>swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you\'re waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right).',
       date_written: '201509',
@@ -164,7 +165,7 @@ $(function() {
     {
       title: 'Happy Jew Queer',
       formation: 'becket L, 2x. prog.',
-      difficulty: 'gnarly',
+      difficulty: 'expert',
       starts: '',
       notes: 'written for Zoë Madonna around New Years 2016 because she wanted a dance with a roll-away into a swing, and workshopped by some lovely dancers at NEFFA ‘16. All roll-aways include a half-sashay. At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. Encourage dancers to take their time with the promenade in A1, as promenades out of a courtesy turn take less time than usual. In A1, chain with the neighbors straight across (these will be new neighbors).',
       date_written: '201601',
@@ -218,8 +219,8 @@ $(function() {
 
     {
       title: 'Life in Boxes II',
-      formation: 'improper',
-      difficulty: 'gnarly',
+      formation: 'reverse indecent',
+      difficulty: 'expert',
       starts: '',
       notes: 'written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor, N2 = next neighbor, N0 = previous. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the very end of B2 (current N alle. L 1/2).',
       date_written: '201606',
@@ -246,7 +247,7 @@ $(function() {
     {
       title: 'Message from the Future',
       formation: 'becket L',
-      difficulty: '"interesting"',
+      difficulty: 'advanced',
       starts: '',
       notes: 'written summer 2014 (while I was on vacation in Europe and my sweetie at the time was in Australia--I believe the title was in reference to time differences?), first called January 2016 at the Downtown Amherst contradance. Teaching note: emphasize that the chain in A1 is to your neighbor (there’s a lot of circling and not-quite-square phrases and it’s useful to have that point of reference).',
       date_written: '201506',
@@ -274,7 +275,7 @@ $(function() {
     {
       title: 'Pink Martini',
       formation: 'becket R',
-      difficulty: '"interesting"',
+      difficulty: 'advanced',
       starts: '',
       notes: 'locate your shadow at the start of the dance: look along your side of the set past your partner, shadow will be the first opposite-role person you see. Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter SWAPPED (i.e., lady on the left, gent on the right). Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance.',
       date_written: '201507',
@@ -301,7 +302,7 @@ $(function() {
     {
       title: 'Too Many Joshes',
       formation: 'improper',
-      difficulty: 'gnarly',
+      difficulty: 'expert',
       starts: 'Starts with a wavy line of gents in the center',
       notes: '',
       date_written: '201602',

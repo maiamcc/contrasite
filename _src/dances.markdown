@@ -11,6 +11,14 @@ sidebar: false
 
 Here are a handful of dances that I've written, with more to come soon! (I've got more on the back-burner, but I only post dances here once they've been tested and vetted.) If any of these dances strike your fancy, _please do call them_, spread them around, etc.! I ask only that (if you feel like it) you [drop me a line](/contact.html) and let me know how it went. Feedback is always welcome, as are requests.
 
+<!-- TODO: style this better
+A note on dance difficulties:
+
+* `accessible`: interesting and enjoyable for experienced dancers, but accessible for beginners, hard to mess up
+* `advanced`: a little trickier, better suited to later in the evening or more experienced halls
+* `expert`: you should probably only call these to a very experienced hall or at an advanced dance
+--!>
+
 <div id="blurb-container">
   <p id="blurb-template" style="display:none;">
     <strong><a class="dance-title">*TITLE*</a></strong> [<span class="dance-difficulty">difficulty</span>] - <span class="dance-blurb">blurb</span>
