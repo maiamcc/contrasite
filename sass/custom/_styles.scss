@@ -6,6 +6,14 @@ ul {
   list-style-type: circle; 
 }
 
+#flashmob-how-to .level-1 {
+  list-style-type: disc;
+  font-weight: bold;
+  ul {
+    font-weight: normal;
+  }  
+}
+
 .horizline {
   border-bottom: 1px solid black;
   margin-bottom: 10px !important;
