@@ -107,6 +107,31 @@ $(function() {
 
   var dances = [
     {
+      title: 'Barack Me, Obamadeus',
+      formation: 'improper',
+      difficulty: 'accessible',
+      starts: '',
+      notes: 'Written for Brooklyn Contra on 8/4/17, which is Obama\'s birthday, hence the title. Smooth dance with a hey-like figure up/down the set and a satisfying promenade --> circle right transition.',
+      date_written: '201708',
+      blurb: 'smooth, hey-like figure up/down the set, satisfying promenade --> circle right transition',
+      choreo: {
+	a1: [
+	  'N spiral (R sh.) and swing',
+	],
+	a2: [
+    'gents alle. L 1 1/2',
+    'half hey (pass P by R sh.)',
+	],
+	b1: [
+    'P spiral (R sh.) and swing',
+	],
+	b2: [
+    'promenade across',
+    'circle R 3/4 and pass through by L sh.',
+	],
+    },
+    },
+    {
       title: 'Faking Communion',
       formation: 'becket L',
       difficulty: 'advanced',
