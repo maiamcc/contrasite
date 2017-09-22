@@ -87,6 +87,7 @@ $(function() {
       starts: '',
       notes: '',
       date_written: '',
+      blurb: '',
       video_link: '',
       choreo: {
         a1: [
@@ -185,6 +186,34 @@ $(function() {
           'swing P (12)',
         ],
       },
+    },
+
+    {
+      title: 'Good Fences',
+      formation: 'improper',
+      difficulty: 'accessible',
+      starts: '',
+      notes: 'Written for a workshop at YDW \'17 to practice communication with neighbors.',
+      date_written: '201709',
+      blurb: 'two swings with same neighbor',
+      video_link: '',
+      choreo: {
+        a1: [
+          'long lines forward and back',
+          '(new) neighbor swing',
+        ],
+        a2: [
+          'ladies chain (to P)',
+          'half hey (ladies pass R)',
+        ],
+        b1: [
+          'partner balance and swing',
+        ],
+        b2: [
+          'gents alle. L 1 1/2',
+          '(same) neighbor swing',
+        ]
+      }
     },
 
     {
