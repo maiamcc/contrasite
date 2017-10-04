@@ -37,7 +37,12 @@ $(function() {
       new_dance.find('.dance-formation').text(dance.formation);
       // TODO: show difficulty in each dance
       // new_dance.find('.dance-difficulty').text(dance.difficulty);
-      new_dance.find('.dance-notes').text(dance.notes); 
+      var notes = new_dance.find('.dance-notes');
+      if (dance.notes) {
+        notes.text(dance.notes);
+      } else {
+        notes.closest('p').css('display', 'none');
+      }
       
       if (dance.starts) {
         // TODO: put in the thing and unhide
@@ -117,14 +122,14 @@ $(function() {
       blurb: 'smooth, hey-like figure up/down the set, satisfying promenade --> circle right transition',
       choreo: {
 	a1: [
-	  'N spiral (R sh.) and swing',
+	  'N walk-around (R sh.) and swing',
 	],
 	a2: [
     'gents alle. L 1 1/2',
     'half hey (pass P by R sh.)',
 	],
 	b1: [
-    'P spiral (R sh.) and swing',
+    'P walk-around (R sh.) and swing',
 	],
 	b2: [
     'promenade across',
@@ -137,7 +142,7 @@ $(function() {
       formation: 'becket L',
       difficulty: 'advanced',
       starts: '',
-      notes: 'written May 2015, premiered at CDNY March 2016. So named because this dance is full of fake-outs. The part that trips everyone up is the star in B1–it doesn\'t turn as far as you expect. When teaching, emphasize that it\'s the GENTS\' responsability to end the star by turning back to spiral P.',
+      notes: 'written May 2015, premiered at CDNY March 2016, B section rewritten and called at YDW \'17. So named because this dance is full of fake-outs.',
       date_written: '201505',
       blurb: 'smooth line-weaving dance with lots of fake-outs',
       choreo: {
@@ -146,12 +151,12 @@ $(function() {
 	  '(gents in lead) zig L, zag R, zig L (passing N2 to meet N3)',
 	],
 	a2: [
-	  'spiral N3 by R 1x',
+	  'walk-around N3 by R 1x',
 	  'turn back to swing N2 (your new N1–dance restarts in hands-4 with them)',
 	],
 	b1: [
-	  'star L 3/4 (until opposite home with P)',
-	  'gents turn back over R sh to spiral P 1 3/4',
+    'circle L 1/2 and ladies swap places by R shoulder',
+    'P walk-around',
 	],
 	b2: [
 	  'gents start half hey (by L) to home side',
@@ -162,7 +167,7 @@ $(function() {
 
     {
       title: 'Gimmie the Good Stuff',
-      formation: 'becket L',
+      formation: 'becket L, 2x prog',
       difficulty: 'expert',
       starts: '',
       notes: 'written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers. With the swing>swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you\'re waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right).',
@@ -189,36 +194,8 @@ $(function() {
     },
 
     {
-      title: 'Good Fences',
-      formation: 'improper',
-      difficulty: 'accessible',
-      starts: '',
-      notes: 'Written for a workshop at YDW \'17 to practice communication with neighbors.',
-      date_written: '201709',
-      blurb: 'two swings with same neighbor',
-      video_link: '',
-      choreo: {
-        a1: [
-          'long lines forward and back',
-          '(new) neighbor swing',
-        ],
-        a2: [
-          'ladies chain (to P)',
-          'half hey (ladies pass R)',
-        ],
-        b1: [
-          'partner balance and swing',
-        ],
-        b2: [
-          'gents alle. L 1 1/2',
-          '(same) neighbor swing',
-        ]
-      }
-    },
-
-    {
       title: 'Happy Jew Queer',
-      formation: 'becket L, 2x. prog.',
+      formation: 'becket L, 2x prog.',
       difficulty: 'expert',
       starts: '',
       notes: 'written for Zoë Madonna around New Years 2016 because she wanted a dance with a roll-away into a swing, and workshopped by some lovely dancers at NEFFA ‘16. All roll-aways include a half-sashay. At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. Encourage dancers to take their time with the promenade in A1, as promenades out of a courtesy turn take less time than usual. In A1, chain with the neighbors straight across (these will be new neighbors).',
@@ -276,7 +253,7 @@ $(function() {
       formation: 'reverse indecent',
       difficulty: 'expert',
       starts: '',
-      notes: 'written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor, N2 = next neighbor, N0 = previous. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the very end of B2 (current N alle. L 1/2).',
+      notes: 'written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor, N2 = next neighbor, N0 = previous. Hardest part is the off-beat balance and box; warn the dancers and/or ask the band for an extra kick on the balance at the end of A1. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the very end of B2 (current N alle. L 1/2).',
       date_written: '201606',
       blurb: 'visiting past and future neighbors; lots of gnat-boxing',
       choreo: {
@@ -314,10 +291,10 @@ $(function() {
         ],
         a2: [
           'ladies pass R to start a 3/4 hey (LR, PL, GR, NL, LR, PL)',
-          'when gents meet in the middle for the second time, spiral R 1x',
+          'when gents meet in the middle for the second time, walk-around R 1x',
         ],
         b1: [
-          'partner spiral and swing (opposite home side)',
+          'partner walk-around and swing (opposite home side)',
         ],
         b2: [
           'circle L 1/2 and slide L to new neighbors (6)',
@@ -327,11 +304,40 @@ $(function() {
     },
 
     {
+      title: 'Neighbor, Neighbor On the Wall',
+      formation: 'improper',
+      difficulty: 'accessible',
+      starts: '',
+      notes: 'Written for a workshop at YDW \'17 to practice communication with neighbors.',
+      date_written: '201709',
+      blurb: 'two swings with same neighbor',
+      video_link: '',
+      choreo: {
+        a1: [
+          'long lines forward and back',
+          '(new) neighbor swing',
+        ],
+        a2: [
+          'ladies chain (to P)',
+          'half hey (ladies pass R)',
+        ],
+        b1: [
+          'partner balance and swing',
+        ],
+        b2: [
+          'gents alle. L 1 1/2',
+          '(same) neighbor swing',
+        ]
+      },
+    },
+
+
+    {
       title: 'Pink Martini',
       formation: 'becket R',
       difficulty: 'advanced',
       starts: '',
-      notes: 'locate your shadow at the start of the dance: look along your side of the set past your partner, shadow will be the first opposite-role person you see. Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter SWAPPED (i.e., lady on the left, gent on the right). Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance.',
+      notes: 'at beginning, shadow is beyond your partner. Depending on tune bounciness, can call B2 as either balance and swing or walk-around and swing (or leave it as dancers\' choice). Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., lady on the left, gent on the right). Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance.',
       date_written: '201507',
       blurb: 'stompy fun; Petronella turns (incl. Petronella turn to swing a new N) and a little shadow time',
       video_link: '',
@@ -348,7 +354,7 @@ $(function() {
           'gents pull by R (2), allemande shadow L 1x-ish (6)',
         ],
         b2: [
-          'look for partner, spiral and swing',
+          'look for partner, [balance/walk-around] and swing',
         ],
       },
     },
@@ -358,7 +364,7 @@ $(function() {
       formation: 'improper',
       difficulty: 'expert',
       starts: 'Starts with a wavy line of gents in the center',
-      notes: '',
+      notes: 'Written for Michal Richardson, a nod to the state of the NYC contradance scene. The constraints given were "lots of action for the gents, as confusing and counter-intuitive as possible while still being a good dance."',
       date_written: '201602',
       blurb: 'gents chaining by ALL THE HANDS!',
       video_link: '',
@@ -421,14 +427,14 @@ $(function() {
       video_link: '',
       choreo: {
         a1: [
-          'N spiral & swing',
+          'N walk-around & swing',
         ],
         a2: [
           'circle L 3/4',
           'P swing',
         ],
         b1: [
-          'ladies cross (passing R), N spiral L 1x',
+          'ladies cross (passing R), N walk-around L 1x',
           'ladies chain (to P)',
         ],
         b2: [
