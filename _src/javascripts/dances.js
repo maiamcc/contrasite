@@ -1,8 +1,9 @@
 $(function() {
   var SECTIONS = ['a1', 'a2', 'b1', 'b2'];
     
+  // Strip title of all non-alphanumeric chars to make a url slug
   function slugify_title(title) {
-    return title.replace(/ /g,'').toLowerCase();
+    return title.replace(/[^a-zA-Z\d]/g,'').toLowerCase();
   }
 
   function new_paragraph(html) {
@@ -68,7 +69,6 @@ $(function() {
     var template = $('#blurb-template');
     var blurb_container = $('#blurb-container');
     dances.forEach(function(dance) {
-      console.log('blurbin\'', dance.title)
       var new_blurb = template.clone();
       
       new_blurb.find('.dance-title').attr('href', '#' + slugify_title(dance.title)).text(dance.title);
