@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://contra.maiamccormick.com/sitemap.xml 
