@@ -8,12 +8,6 @@ footer: true
 ---
 <h3 class="horizline">Upcoming Gigs</h3>
 
-#### Thursday, Nov. 2 --- [Old Farmer's Ball](//oldfarmersball.com) (Ashville, NC) with Switching Protocols
-
-#### Friday, Nov. 2 --- [River Falls Advanced Dance](//www.harvestmoonfolk.org/index.php) (Taylors, SC) with Switching Protocols
-
-#### Sunday, Nov. 5 --- [Glen Echo, MD](//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1) with Switching Protocols
-
 #### Saturday, Jan. 27 --- [CDNY](//cdny.org) (New York, NY) with Grand Picnic 
 
 #### Friday, May 4 -- Sunday, May 6 --- [LCFD Spring Dance Camp 2018](//lcfd.org/lcfd/) with [The Free Raisins](//www.freeraisins.com)
