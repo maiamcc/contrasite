@@ -471,6 +471,34 @@ $(function() {
         ],
       },
     },
+    {
+      title: 'Where Gnome Ann Has Gone Before',
+      formation: 'improper',
+      difficulty: 'advanced',
+      starts: '',
+      notes: 'all roll-aways include a half-sashay. Loosely inspired by Don Flaherty\'s "Clipper" and premiered at Brooklyn Contra on 12/15/17. The title is a reference to <a href="https://xkcd.com/1704/">this xkcd</a>.',
+      date_written: '201712',
+      blurb: 'circles + roll-aways flowing nicely together, with both roles getting to do some rolling',
+      video_link: '',
+      choreo: {
+        a1: [
+          'ladies cross the set (by R sh.) to swing neighbor'
+        ],
+        a2: [
+          'circle L all the way (8)',
+          '(across the set) gents roll partner away (4)',
+          'w/ partner, zig L and zag R to meet new neighbors'
+        ],
+        b1: [
+          '(with new neighbors) circle R 1/2 (4)',
+          '(on the side) ladies roll their neighbor away (4)',
+          'ladies allemande R 1 1/2'
+        ],
+        b2: [
+          'partner balance and swing'
+        ]
+      }
+    },
   ];
 
   insert_blurbs(dances);
