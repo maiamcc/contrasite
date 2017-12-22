@@ -40,7 +40,7 @@ $(function() {
       // new_dance.find('.dance-difficulty').text(dance.difficulty);
       var notes = new_dance.find('.dance-notes');
       if (dance.notes) {
-        notes.text(dance.notes);
+        notes.html(dance.notes);
       } else {
         notes.closest('p').css('display', 'none');
       }
