@@ -8,10 +8,6 @@ footer: true
 ---
 <h3 class="horizline">Upcoming Gigs</h3>
 
-#### Saturday, Jan. 27 --- [CDNY](//cdny.org) (New York, NY) with Grand Picnic 
-
-#### Friday, May 4 -- Sunday, May 6 --- [LCFD Spring Dance Camp 2018](//lcfd.org/lcfd/) with [The Free Raisins](//www.freeraisins.com)
-
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ujcjbnqd00sm2krhbn2b8vg14k%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="450" frameborder="0" scrolling="no"></iframe>
 
 <a id="past"></a>
