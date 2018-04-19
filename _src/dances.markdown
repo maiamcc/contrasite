@@ -29,7 +29,7 @@ A note on dance difficulties:
 
   <!-- TEMPLATE -->
   <div class="dance" id="dance-template" style="display:none;">
-    <h4><em><span class="dance-title">*TITLE*</span></em> (<span class="dance-formation">formation</span>)<span class="video_link"></span></h4>
+    <h4><em><span class="dance-title">*TITLE*</span></em> (<span class="dance-formation">formation</span>)<span class="video-link"></span></h4>
       <span class="dance-choreo">
 	      <p><strong>A1</strong>:</p>
 	      <p></p>

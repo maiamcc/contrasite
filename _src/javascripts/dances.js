@@ -50,8 +50,8 @@ $(function() {
         // new_dance.find('.dance-starts').text(dance.starts);    
       }
       if (dance.video_link) {
-        // TODO: put in the thing and make it pretty
-        // new_dance.find('.dance-video_link').text(dance.video_link);
+        console.log('link is:', dance.video_link)
+        new_dance.find('.video-link').html(' [<a href="' + dance.video_link + '" target="_blank">VIDEO</a>]');
       }
       
       var choreo = make_choreo_html(dance.choreo, choreo);
@@ -117,9 +117,9 @@ $(function() {
       formation: 'improper',
       difficulty: 'accessible',
       starts: '',
-      notes: 'Written for Brooklyn Contra on 8/4/17, which is Obama\'s birthday, hence the title. Smooth dance with a hey-like figure up/down the set and a satisfying promenade --> circle right transition.',
+      notes: 'Written for Brooklyn Contra on 8/4/17, which is Obama\'s birthday, hence the title. Smooth dance with a hey-like figure up/down the set and a satisfying promenade > circle right transition.',
       date_written: '201708',
-      blurb: 'smooth, hey-like figure up/down the set, satisfying promenade --> circle right transition',
+      blurb: 'smooth, hey-like figure up/down the set, satisfying promenade > circle right transition',
       choreo: {
 	a1: [
 	  'N walk-around (R sh.) and swing',
@@ -165,33 +165,33 @@ $(function() {
       },
     },
 
-    {
-      title: 'Gimmie the Good Stuff',
-      formation: 'becket L, 2x prog',
-      difficulty: 'expert',
-      starts: '',
-      notes: 'written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers. With the swing>swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you\'re waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right).',
-      date_written: '201509',
-      blurb: 'leave your partner; swing > swing transitions',
-      choreo: {
-        a1: [
-          'circle L 3/4',
-          '(with N, lady in the lead) slice L, lady roll neighbor gent away on the way back',
-        ],
-        a2: [
-          'ladies chain across (to shadow)',
-          'ladies alle. R 1 1/2',
-        ],
-        b1: [
-          'swing N1 (the one you yearned with)',
-          'swing N2',
-        ],
-        b2: [
-          'ladies pull by on R diag. (4)',
-          'swing P (12)',
-        ],
-      },
-    },
+//    {
+//      title: 'Gimmie the Good Stuff',
+//      formation: 'becket L, 2x prog',
+//      difficulty: 'expert',
+//      starts: '',
+//      notes: 'written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers. With the swing>swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you\'re waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right).',
+//      date_written: '201509',
+//      blurb: 'leave your partner; swing > swing transitions',
+//      choreo: {
+//        a1: [
+//          'circle L 3/4',
+//          '(with N, lady in the lead) slice L, lady roll neighbor gent away on the way back',
+//        ],
+//        a2: [
+//          'ladies chain across (to shadow)',
+//          'ladies alle. R 1 1/2',
+//        ],
+//        b1: [
+//          'swing N1 (the one you yearned with)',
+//          'swing N2',
+//        ],
+//        b2: [
+//          'ladies pull by on R diag. (4)',
+//          'swing P (12)',
+//        ],
+//      },
+//    },
 
     {
       title: 'Happy Jew Queer',
@@ -226,7 +226,7 @@ $(function() {
       formation: 'improper',
       difficulty: 'accessible',
       starts: '',
-      notes: 'written January 2017, called shortly thereafter at Brooklyn Contra. I wanted a dance with a gents\' right-hand chain that was otherwise dead easy, and this is what I came up with. Note that the allemande in B2 is with your CURRENT neighbor, i.e. the one you starred with (this is the biggest point of confusion for experienced dancers used to looking for new neighbors out of a left-hand star).',
+      notes: 'written January 2017, called shortly thereafter at Brooklyn Contra. I wanted a dance with a gents\' right-hand chain to a neighbor that was otherwise dead easy, and this is what I came up with. (There are lots of great dances with a gents\' right-hand chain to their partner, but chaining to a neighbor lets dancers practice the move with lots of different folks.) Note that the allemande in B2 is with your CURRENT neighbor, i.e. the one you starred with (this is the biggest point of confusion for experienced dancers used to looking for new neighbors out of a left-hand star).',
       date_written: '201701',
       blurb: 'gents\' right-hand chain to N in an otherwise dead-easy dance',
       choreo: {
@@ -249,13 +249,14 @@ $(function() {
     },
 
     {
-      title: 'Life in Boxes II',
+      title: 'Life in Boxes',
       formation: 'reverse indecent',
       difficulty: 'expert',
       starts: '',
       notes: 'written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor, N2 = next neighbor, N0 = previous. Hardest part is the off-beat balance and box; warn the dancers and/or ask the band for an extra kick on the balance at the end of A1. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the very end of B2 (current N alle. L 1/2).',
       date_written: '201606',
       blurb: 'visiting past and future neighbors; lots of gnat-boxing',
+      video_link: 'https://www.youtube.com/watch?v=Pdjr-8WMw4s',
       choreo: {
         a1: [
           'w/ N2, bal. (4) & box the gnat (4)',
@@ -395,8 +396,8 @@ $(function() {
       starts: '',
       notes: 'written on a stuck train to Princeton, NJ, late 2014, and first called March 2015 in Silver Spring, MD. In the second half of B1, pull by R at the start of the do-si-do for some extra momentum.',
       date_written: '201412',
-      blurb: 'an accessible and energetic shadow dance',
-      video_link: '',
+      blurb: 'an accessible and energetic shadow dance (also a good closer)',
+      video_link: 'https://www.youtube.com/watch?v=QsFkcDFBOsM',
       choreo: {
         a1: [
           '(slide left to) circle L 3/4',
@@ -473,12 +474,12 @@ $(function() {
     },
     {
       title: 'Where Gnome Ann Has Gone Before',
-      formation: 'improper',
+      formation: 'becket R',
       difficulty: 'advanced',
       starts: '',
       notes: 'all roll-aways include a half-sashay. Loosely inspired by Don Flaherty\'s "Clipper" and premiered at Brooklyn Contra on 12/15/17. The title is a reference to <a href="https://xkcd.com/1704/">this xkcd</a>.',
       date_written: '201712',
-      blurb: 'circles + roll-aways flowing nicely together, with both roles getting to do some rolling',
+      blurb: 'circles + roll-aways flowing nicely together, with rolls for both roles',
       video_link: '',
       choreo: {
         a1: [
