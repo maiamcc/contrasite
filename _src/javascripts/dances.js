@@ -31,6 +31,9 @@ $(function() {
     var template = $('#dance-template');
     var dance_container = $('#dance-container');
     dances.forEach(function(dance) {
+      if (dance.hide) {
+        return;
+      }
       var new_dance = template.clone();
       new_dance.attr('id', slugify_title(dance.title));
       
@@ -50,7 +53,6 @@ $(function() {
         // new_dance.find('.dance-starts').text(dance.starts);    
       }
       if (dance.video_link) {
-        console.log('link is:', dance.video_link)
         new_dance.find('.video-link').html(' [<a href="' + dance.video_link + '" target="_blank">VIDEO</a>]');
       }
       
@@ -69,6 +71,10 @@ $(function() {
     var template = $('#blurb-template');
     var blurb_container = $('#blurb-container');
     dances.forEach(function(dance) {
+      if (dance.hide) {
+        return;
+      }
+
       var new_blurb = template.clone();
       
       new_blurb.find('.dance-title').attr('href', '#' + slugify_title(dance.title)).text(dance.title);
@@ -121,21 +127,21 @@ $(function() {
       date_written: '201708',
       blurb: 'smooth, hey-like figure up/down the set, satisfying promenade > circle right transition',
       choreo: {
-	a1: [
-	  'N walk-around (R sh.) and swing',
-	],
-	a2: [
-    'gents alle. L 1 1/2',
-    'half hey (pass P by R sh.)',
-	],
-	b1: [
-    'P walk-around (R sh.) and swing',
-	],
-	b2: [
-    'promenade across',
-    'circle R 3/4 and pass through by L sh.',
-	],
-    },
+	      a1: [
+	        'N walk-around (R sh.) and swing',
+	      ],
+	      a2: [
+          'gents alle. L 1 1/2',
+          'half hey (pass P by R sh.)',
+	      ],
+	      b1: [
+          'P walk-around (R sh.) and swing',
+	      ],
+	      b2: [
+          'promenade across',
+          'circle R 3/4 and pass through by L sh.',
+	      ],
+      },
     },
     {
       title: 'Faking Communion',
@@ -165,33 +171,34 @@ $(function() {
       },
     },
 
-//    {
-//      title: 'Gimmie the Good Stuff',
-//      formation: 'becket L, 2x prog',
-//      difficulty: 'expert',
-//      starts: '',
-//      notes: 'written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers. With the swing>swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you\'re waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right).',
-//      date_written: '201509',
-//      blurb: 'leave your partner; swing > swing transitions',
-//      choreo: {
-//        a1: [
-//          'circle L 3/4',
-//          '(with N, lady in the lead) slice L, lady roll neighbor gent away on the way back',
-//        ],
-//        a2: [
-//          'ladies chain across (to shadow)',
-//          'ladies alle. R 1 1/2',
-//        ],
-//        b1: [
-//          'swing N1 (the one you yearned with)',
-//          'swing N2',
-//        ],
-//        b2: [
-//          'ladies pull by on R diag. (4)',
-//          'swing P (12)',
-//        ],
-//      },
-//    },
+    {
+      title: 'Gimmie the Good Stuff',
+      hide: true,
+      formation: 'becket L, 2x prog',
+      difficulty: 'expert',
+      starts: '',
+      notes: 'written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers. With the swing>swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you\'re waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right).',
+      date_written: '201509',
+      blurb: 'leave your partner; swing > swing transitions',
+      choreo: {
+        a1: [
+          'circle L 3/4',
+          '(with N, lady in the lead) slice L, lady roll neighbor gent away on the way back',
+        ],
+        a2: [
+          'ladies chain across (to shadow)',
+          'ladies alle. R 1 1/2',
+        ],
+        b1: [
+          'swing N1 (the one you yearned with)',
+          'swing N2',
+        ],
+        b2: [
+          'ladies pull by on R diag. (4)',
+          'swing P (12)',
+        ],
+      },
+    },
 
     {
       title: 'Happy Jew Queer',
@@ -362,6 +369,7 @@ $(function() {
 
     {
       title: 'Too Many Joshes',
+      hide: true,
       formation: 'improper',
       difficulty: 'expert',
       starts: 'Starts with a wavy line of gents in the center',
@@ -419,6 +427,7 @@ $(function() {
 
     {
       title: 'Train to Trenton',
+      hide: true,
       formation: 'improper',
       difficulty: 'accessible',
       starts: '',

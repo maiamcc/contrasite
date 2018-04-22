@@ -7,7 +7,7 @@ sharing: true
 footer: false
 sidebar: false
 ---
-Here you can see some tunes I've written (most alone, some with collaborators). Enjoy!
+I don't pretend to be a real contra musician (though if there's an open band around, sometimes I'll jump in and muddle along on my melodica). That said, I am a classical musician and sometimes-composer in my other life, and adore contra music, so naturally I took a crack at writing some tunes, which you can find below. Enjoy!
 
 <h3 class="horizline" id="contra">Contra Tunes</h3>
 

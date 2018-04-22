@@ -9,7 +9,7 @@ sidebar: false
 ---
 <script src="javascripts/dances.js"></script>
 
-Here are a handful of dances that I've written, with more to come soon! (I've got more on the back-burner, but I only post dances here once they've been tested and vetted.) If any of these dances strike your fancy, _please do call them_, spread them around, etc.! I ask only that (if you feel like it) you [drop me a line](/contact.html) and let me know how it went. Feedback is always welcome, as are requests.
+Here are a handful of dances that I've written, with more always on the way. If any of these dances strike your fancy, please do call them and spread them around! Feedback is always welcome; feel free to [drop me a line](/contact.html).
 
 <!-- TODO: style this better
 A note on dance difficulties:
@@ -18,6 +18,8 @@ A note on dance difficulties:
 * `advanced`: a little trickier, better suited to later in the evening or more experienced halls
 * `expert`: you should probably only call these to a very experienced hall or at an advanced dance
 --!>
+
+<!-- TODO: role terms (larks/ravens) (and maybe a button to toggle ladies/gents?) -->
 
 <div id="blurb-container">
   <p id="blurb-template" style="display:none;">
