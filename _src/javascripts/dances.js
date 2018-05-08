@@ -477,9 +477,35 @@ $(function() {
           'neighbor swing',
         ],
         b2: [
-          'square through (RH to P across, bal. and pull by across, pull by L with N on side, repeat, look along side for a new N)',
+          'square through (RH to P across, balance and pull by across, pull by L with N on side, repeat, look along side for a new N)',
         ],
       },
+    },
+    {
+      title: 'Violet Ice',
+      formation: 'becket L',
+      difficulty: 'advanced',
+      notes: 'in B2, "ladies flip" by turning over R sh. to face the same direction as their P. Timing in the A is mushy (pousette takes less than 8 beats so mad robin starts before the beginning of A2)–encourage dancers to follow the movement rather than trying to fit it into the music, and use B1 to get everyone back together. This dance allows for almost constant eye contact with partner. Inspired by Will Mentor\'s "Lavender Snow", premiered at LCFD Spring Dance Camp 2018.',
+      date_written: '201805',
+      blurb: 'pousette, mad robin, lots of eye contact with partner',
+      choreo: {
+        a1: [
+          'circle L 3/4',
+          'half pousette w/ P (gents backing up first)',
+        ],
+        a2: [
+          'mad robin (gents in front first)',
+          '5/8 hey (gents L, PR, ladies L, NR, gents L)',
+        ],
+        b1: [
+          'P walk-around and swing',
+        ],
+        b2: [
+          'circle L all the way',
+          'P allemande R 1x (4)',
+          'ladies flip to face in, partners slide L to meet new Ns (4)',
+        ]
+      }
     },
     {
       title: 'Where Gnome Ann Has Gone Before',
