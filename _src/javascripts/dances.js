@@ -131,7 +131,7 @@ $(function() {
 	        'N walk-around (R sh.) and swing',
 	      ],
 	      a2: [
-          'gents alle. L 1 1/2',
+          'gents allemande L 1 1/2',
           'half hey (pass P by R sh.)',
 	      ],
 	      b1: [
@@ -187,7 +187,7 @@ $(function() {
         ],
         a2: [
           'ladies chain across (to shadow)',
-          'ladies alle. R 1 1/2',
+          'ladies allemande R 1 1/2',
         ],
         b1: [
           'swing N1 (the one you yearned with)',
@@ -241,7 +241,7 @@ $(function() {
           'neighbor balance and swing',
         ],
         a2: [
-          'gents alle. L 1 1/2',
+          'gents allemande L 1 1/2',
           'partner swing',
         ],
         b1: [
@@ -250,7 +250,7 @@ $(function() {
         ],
         b2: [
           'left-hand star 1x',
-          'current neighbor alle. L 1 1/2',
+          'current neighbor allemande L 1 1/2',
         ],
       },
     },
@@ -258,15 +258,15 @@ $(function() {
     {
       title: 'Life in Boxes',
       formation: 'reverse indecent',
-      difficulty: 'expert',
+      difficulty: 'advanced',
       starts: '',
-      notes: 'written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor, N2 = next neighbor, N0 = previous. Hardest part is the off-beat balance and box; warn the dancers and/or ask the band for an extra kick on the balance at the end of A1. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the very end of B2 (current N alle. L 1/2).',
+      notes: 'written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor, N2 = next neighbor, N0 = previous. Hardest part is the off-beat balance and box; warn the dancers and/or ask the band for an extra kick on the balance at the end of A1. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the very end of B2 (current N allemande L 1/2).',
       date_written: '201606',
       blurb: 'visiting past and future neighbors; lots of gnat-boxing',
       video_link: 'https://www.youtube.com/watch?v=Pdjr-8WMw4s',
       choreo: {
         a1: [
-          'w/ N2, bal. (4) & box the gnat (4)',
+          'w/ N2, balance (4) & box the gnat (4)',
           'pull by N2 by R (2), N1 by L (2), right-hand balance N0 (4)',
         ],
         a2: [
@@ -278,7 +278,7 @@ $(function() {
         ],
         b2: [
           'circle L 3/4',
-          'current N alle. R 1/2, new N alle. L 1/2 (this is your new N1)',
+          'current N right-hand balance & pull by, new N allemande L 1/2 (this is your new N1)',
         ],
       },
     },
@@ -288,7 +288,7 @@ $(function() {
       formation: 'becket L',
       difficulty: 'advanced',
       starts: '',
-      notes: 'written summer 2014 (while I was on vacation in Europe and my sweetie at the time was in Australia--I believe the title was in reference to time differences?), first called January 2016 at the Downtown Amherst contradance. Teaching note: emphasize that the chain in A1 is to your neighbor (there’s a lot of circling and not-quite-square phrases and it’s useful to have that point of reference).',
+      notes: 'written summer 2014 (while I was on vacation in Europe and my sweetie at the time was in Australia–I believe the title was in reference to time differences?), first called January 2016 at the Downtown Amherst contradance. Teaching note: emphasize that the chain in A1 is to your neighbor (there’s a lot of circling and not-quite-square phrases and it’s useful to have that point of reference).',
       date_written: '201506',
       blurb: 'lots of eye contact and flowing motion',
       video_link: 'https://www.youtube.com/watch?v=Gj1FlDrlbB8',
@@ -333,7 +333,7 @@ $(function() {
           'partner balance and swing',
         ],
         b2: [
-          'gents alle. L 1 1/2',
+          'gents allemande L 1 1/2',
           '(same) neighbor swing',
         ]
       },
@@ -351,14 +351,14 @@ $(function() {
       video_link: '',
       choreo: {
         a1: [
-          'bal. the ring and spin right, spinning extra to face new neighbors',
+          'balance the ring and spin right, spinning extra to face new neighbors',
           'swing new neighbor',
         ],
         a2: [
-          'bal. the ring and spin right (2x)',
+          'balance the ring and spin right (2x)',
         ],
         b1: [
-          'bal. ring and gents roll neighbor lady away with a half-sashay',
+          'balance ring and gents roll neighbor lady away with a half-sashay',
           'gents pull by R (2), allemande shadow L 1x-ish (6)',
         ],
         b2: [
@@ -379,7 +379,7 @@ $(function() {
       video_link: '',
       choreo: {
         a1: [
-          'gents bal. L then R, allemande L 3/4',
+          'gents balance L then R, allemande L 3/4',
           'neighbor swing',
         ],
         a2: [
@@ -416,7 +416,7 @@ $(function() {
           'left-hand star 1x',
         ],
         b1: [
-          'w/ shadow, bal. and box the gnat',
+          'w/ shadow, balance and box the gnat',
           'do-si-do shadow 1 1/2',
         ],
         b2: [
@@ -465,7 +465,7 @@ $(function() {
       video_link: '',
       choreo: {
         a1: [
-          'neighbor RH bal. and box the gnat',
+          'neighbor RH balance and box the gnat',
           'gents allemande L 1 1/2',
         ],
         a2: [
