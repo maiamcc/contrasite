@@ -1,4 +1,4 @@
-// TODO: reorder technical notes vs context notes (and can but <br>'s in notes)
+// TODO: reorder technical notes vs context notes (and can put <br>'s in notes)
 
 $(function() {
   var SECTIONS = ['a1', 'a2', 'b1', 'b2'];
@@ -203,6 +203,34 @@ $(function() {
     },
 
     {
+      title: 'Gluten-Free Petronella',
+      formation: 'becket L',
+      difficulty: 'accessible',
+      starts: '',
+      notes: 'written winter \'16 as an alternative to Chris Ricciotti’s "Greenfield Petronella"; I wanted to preserve the balance-y feel of the dance and the CA twirl –> new neighbor swing, but wanted a single progression. (This variation has a Nevada twirl instead–just a California twirl that starts with the gent on the right/lady on the left.) First called at Mt. Airy in May \'16.',
+      date_written: '201611',
+      blurb: 'lots of ring balances, partner twirl into new neighbor swing',
+      video_link: '',
+      choreo: {
+        a1: [
+          'balance the ring and spin right',
+          'balance the ring and gent roll neighbor lady away (with a half-sashay)'
+        ],
+        a2: [
+          'balance the ring and Nevada twirl partner (to face new Ns)',
+          'swing this new N'
+        ],
+        b1: [
+          'ladies chain (to P)',
+          'half hey (ladies passing R)',
+        ],
+        b2: [
+          'partner balance and swing'
+        ]
+      }
+    },
+
+    {
       title: 'Happy Jew Queer',
       formation: 'becket L, 2x prog.',
       difficulty: 'expert',
@@ -259,20 +287,20 @@ $(function() {
 
     {
       title: 'Life in Boxes',
-      formation: 'reverse indecent',
+      formation: 'improper',
       difficulty: 'advanced',
       starts: '',
-      notes: 'written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor, N2 = next neighbor, N0 = previous. Hardest part is the off-beat balance and box; warn the dancers and/or ask the band for an extra kick on the balance at the end of A1. This dance is technically reverse indecent, but teach improper and start/end the walkthrough with the very end of B2 (current N allemande L 1/2).',
+      notes: 'written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor (start the dance with them), N0 = previous (the one you swing), N-1 = previous previous neighbor. Hardest part is the off-beat balance and box; warn the dancers and/or ask the band for an extra kick on the balance at the end of A1.',
       date_written: '201606',
-      blurb: 'visiting past and future neighbors; lots of gnat-boxing',
+      blurb: 'visiting neighbors up and down the line; lots of gnat-boxing',
       video_link: 'https://www.youtube.com/watch?v=Pdjr-8WMw4s',
       choreo: {
         a1: [
-          'w/ N2, balance (4) & box the gnat (4)',
-          'pull by N2 by R (2), N1 by L (2), right-hand balance N0 (4)',
+          'w/ N1, balance (4) & box the gnat (4)',
+          'pull by N1 by R (2), N0 by L (2), right-hand balance N-1 (4)',
         ],
         a2: [
-          'N0 box the gnat (4), pull by to swing N1',
+          'N-1 box the gnat (4), pull by to swing N0',
         ],
         b1: [
           'circle L 3/4',
@@ -280,7 +308,7 @@ $(function() {
         ],
         b2: [
           'circle L 3/4',
-          'current N right-hand balance & pull by, new N allemande L 1/2 (this is your new N1)',
+          'N0 right-hand balance & pull by, N1 allemande L 1/2 (you\'ll swing them next time through the dance) and give RH to next (new N1)',
         ],
       },
     },
@@ -422,18 +450,17 @@ $(function() {
           'do-si-do shadow 1 1/2',
         ],
         b2: [
-          'partner b&s',
+          'partner balance and swing',
         ],
       },
     },
 
     {
       title: 'Train to Trenton',
-      hide: true,
       formation: 'improper',
       difficulty: 'accessible',
       starts: '',
-      notes: 'written on (surprise) a train to Trenton (en route to Contracopia) fall ‘16, first called soon after at Princeton. Satisfying hey-like figure along the sides at end/beginning, a promenade that actually flows (b/c it comes out of a courtesy turn), and a promenade –> circle R transition. Promenade may take much less time than dancers are used to b/c of the momentum coming out of a courtesy turn, but this leaves time for a leisurely circle R and pass-through.',
+      notes: 'written on (surprise) a train to Trenton (en route to Contracopia) fall ‘16, first called soon after at Princeton. Satisfying hey-like figure along the sides at end/beginning, a promenade that actually flows (b/c it comes out of a courtesy turn), and a promenade –> circle R transition. Promenade may take much less time than dancers are used to b/c of the momentum coming out of a courtesy turn, but this leaves time for a leisurely circle R and pass-through. Emphasize to dancers that the first move of B1 is a cross (no hands!) and NOT a chain.',
       date_written: '201611',
       blurb: 'slick, smooth, extremely flowy; promenade and circle R transitions that I actually feel good about',
       video_link: '',
