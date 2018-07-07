@@ -18,9 +18,9 @@ Here are some notes I've written up about my personal approach to planning Contr
             Send out a survey with a sampling of dates/times to get a general sense of availability
             <ul>
                <li><a href="//doodle.com/">Doodle</a> is great for this, esp. their <a href="//support.doodle.com/customer/en/portal/articles/645364-how-do-i-create-a-yes-no-ifneedbe-poll-">yes/no/if-need-be</a> functionality.</li>
+               <li>But honestly, only a subset of people fills out the poll anyway, and many will change their plans to be at the selected date. So do your best to pick a date that works for as many folks as possible, but if you plan it, they will come</li>
             </ul>
          </li>
-         <li>But honestly, only a subset of people fills out the poll anyway, and many will change their plans to be at the selected date. So do your best to pick a date that works for as many folks as possible, but if you plan it, they will come</li>
          <li>In picking a time, be aware of sundown; try not to be dancing in the dark, or even dusk, as it makes photos/video harder.</li>
       </ul>
    </li>
@@ -29,7 +29,7 @@ Here are some notes I've written up about my personal approach to planning Contr
       <ul>
          <li>Should be accessible via mass transit</li>
          <li>Is it legal for you to dance there? Will you get hassled by security?</li>
-         <li>Will you conflict with another event? (Either in your space, or nearby enough to be loud, draw part of the crowd away, etc.)</li>
+         <li>Will you conflict with another event, performer, etc.? (Either in your space, or nearby enough to be loud, draw part of the crowd away, etc.)</li>
       </ul>
    </li>
    <li class="level-1">
@@ -86,7 +86,7 @@ Here are some notes I've written up about my personal approach to planning Contr
          <li>
             Considerations for choosing the dance:
             <ul>
-               <li>Intuitive (so it’s easy to memorize): no weird move transitions, standard-length phrases, etc.</li>
+               <li>Intuitive (so it’s easy to memorize): standard-length phrases, no weird move transitions, etc.</li>
                <li>Lots of together movement (e.g. long lines, waves, ring balances) makes it harder to mess up, and potentially more satisfying for onlookers</li>
             </ul>
          </li>
@@ -103,7 +103,7 @@ Here are some notes I've written up about my personal approach to planning Contr
       Fliers for local dances
       <ul>
          <li>Remind organizers to bring their fliers</li>
-         <li>Make a flier of all NYC dances? (Print your own, or enlist someone?)</li>
+         <li>Make a flier of all dances in the area?</li>
       </ul>
    </li>
    <li class="level-1">
