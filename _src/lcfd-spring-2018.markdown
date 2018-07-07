@@ -12,7 +12,7 @@ footer: true
 + **Summer of ’84 (var.)** (Gene Hubert & Steve Schnur) -- simple waves and shadows
 + [**Wrinkled Ribbon**](http://www.maxellute.net/wrinkled.html) (Melanie Axel-Lute) -- full hey, promenade & circle right
 + **Susie’s Send-Off** (Scott Higgs) -- short wave to long wave, box circulate to swing partner
-+ **Luke, You’re Not My Father** (May the Fours Be With You) (Bob Green) -- 4-face-4 with a grand square (obligatory May 4th dance)
++ **Luke, You’re Not My Father (May the Fours Be With You)** (Bob Green) -- 4-face-4 with a grand square (obligatory May 4th dance)
 + **Square Thru to You** (Bob Isaacs) -- square through, lose & find your partner
 
 <h3 class="horizline">Saturday afternoon ("Brain-Bending Contras")</h3>
@@ -26,7 +26,7 @@ footer: true
 + No-walk medley:
   + **Triassic Poetry** ([Lindsey Miller Dono](https://lindseydono.com/2015/12/29/choreography/)) -- visit future N via weaving figure on the side`
   + [**Barack Me, Obamadeus**](http://contra.maiamccormick.com/dances.html#barackmeobamadeus) (Maia McCormick) -- hey-like passing on the sides, prom. across > circle R
-  + **Becky’s Brouhaha** (Rhiannon (Giddens) Laffan) -- visit previous neighbor
+  + **Becky’s Brouhaha** (Rhiannon Giddens) -- visit previous neighbor
   + **Return 2 Sender** (Bob Isaacs) -- full hey ending in box the gnat
 + [**Violet Ice**](http://contra.maiamccormick.com/dances.html#violetice) (Maia McCormick) -- pousette, mad robin, lots of eye contact with partner
 + [**Pink Martini**](http://contra.maiamccormick.com/dances.html#pinkmartini) (Maia McCormick) -- petronella to swing someone new, petronellas forever, allemande shadow, find P

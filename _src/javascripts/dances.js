@@ -1,3 +1,5 @@
+// TODO: reorder technical notes vs context notes (and can but <br>'s in notes)
+
 $(function() {
   var SECTIONS = ['a1', 'a2', 'b1', 'b2'];
     
