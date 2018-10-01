@@ -1,8 +1,8 @@
 // TODO: reorder technical notes vs context notes (and can put <br>'s in notes)
 
 $(function() {
-  var SECTIONS = ['a1', 'a2', 'b1', 'b2'];
-    
+  var SECTIONS = ['a1', 'a2', 'b1', 'b2', 'c1', 'c2'];
+
   // Strip title of all non-alphanumeric chars to make a url slug
   function slugify_title(title) {
     return title.replace(/[^a-zA-Z\d]/g,'').toLowerCase();
@@ -12,9 +12,12 @@ $(function() {
     return $('<p>' + html + '</p>');
   }
 
-  function make_choreo_html(choreo) { 
+  function make_choreo_html(choreo) {
     var elem_to_fill = $('<span></span<');
     SECTIONS.forEach(function(sect) {
+      if (!choreo[sect]) {
+        return
+      }
       var sect_label = '<strong>' + sect.toUpperCase() + '</strong>: ';
       for (var i = 0; i < choreo[sect].length; i++) {
         var line
@@ -26,7 +29,7 @@ $(function() {
         elem_to_fill.append(new_paragraph(line));
       }
     });
-    return elem_to_fill;  
+    return elem_to_fill;
   }
 
   function insert_dances(dances) {
@@ -38,7 +41,7 @@ $(function() {
       }
       var new_dance = template.clone();
       new_dance.attr('id', slugify_title(dance.title));
-      
+
       new_dance.find('.dance-title').text(dance.title);
       new_dance.find('.dance-formation').text(dance.formation);
       // TODO: show difficulty in each dance
@@ -49,18 +52,18 @@ $(function() {
       } else {
         notes.closest('p').css('display', 'none');
       }
-      
+
       if (dance.starts) {
         // TODO: put in the thing and unhide
-        // new_dance.find('.dance-starts').text(dance.starts);    
+        // new_dance.find('.dance-starts').text(dance.starts);
       }
       if (dance.video_link) {
         new_dance.find('.video-link').html(' [<a href="' + dance.video_link + '" target="_blank">VIDEO</a>]');
       }
-      
+
       var choreo = make_choreo_html(dance.choreo, choreo);
       new_dance.find('.dance-choreo').replaceWith(choreo);
-      
+
       // unhide elem.
       new_dance.css('display', '');
 
@@ -68,7 +71,7 @@ $(function() {
       dance_container.append(new_dance);
     });
   }
-  
+
   function insert_blurbs(dances) {
     var template = $('#blurb-template');
     var blurb_container = $('#blurb-container');
@@ -78,7 +81,7 @@ $(function() {
       }
 
       var new_blurb = template.clone();
-      
+
       new_blurb.find('.dance-title').attr('href', '#' + slugify_title(dance.title)).text(dance.title);
       new_blurb.find('.dance-difficulty').text(dance.difficulty);
       new_blurb.find('.dance-blurb').text(dance.blurb);
@@ -89,7 +92,7 @@ $(function() {
       // add to DOM
       blurb_container.append(new_blurb);
 
-    });  
+    });
   }
 
   /* TEMPLATE
@@ -147,6 +150,7 @@ $(function() {
     },
     {
       title: 'Faking Communion',
+      hide: true,
       formation: 'becket L',
       difficulty: 'advanced',
       starts: '',
@@ -395,6 +399,39 @@ $(function() {
           'look for partner, [balance/walk-around] and swing',
         ],
       },
+    },
+
+    {
+      title: 'Poly Wanna Corner?',
+      formation: 'improper',
+      difficulty: 'expert',
+      starts: '',
+      notes: 'Active roles alternate; directions in brackets are for [ ladies / gents ] active, respectively. In the transition into CC, one of the actives will have an awkward hand transition – it’s up to the neighbor gating them to pass their right hand into the allemande. In CC, one of your corners is your partner, don’t be alarmed. C2 chain is always done by the actives (by the hand they\'re used to chaining by: RH for ladies, LH for gents).',
+      date_written: '201809', // originally Fall 2017
+      blurb: 'AABBCC dance with same-role contra corners',
+      video_link: '',
+      choreo: {
+        a1: [
+          'neighbor balance and swing, end facing down the hall',
+        ],
+        a2: [
+          'down the hall four in line, [ right / left ] side turn as couple/other side turn alone (puts the [ ladies / gents ] (actives) in the middle)',
+          'come back, [ gents / ladies ] (on the outside) gate their neighbor up and around to face across'
+        ],
+        b1: [
+          '[ ladies / gents ] turn same role contra-corners',
+        ],
+        b2: [
+          'same role balance and swing',
+        ],
+        c1: [
+          '(roll out of swing for) partner balance and swing',
+        ],
+        c2: [
+          '[ ladies / gents ] [ RH / LH ] chain across',
+          '[ left / right ] hand star 1x to new neighbors',
+        ]
+      }
     },
 
     {
