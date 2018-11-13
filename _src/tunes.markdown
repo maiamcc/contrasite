@@ -17,20 +17,24 @@ I don't pretend to be a real contra musician (though if there's an open band aro
   <a class="fancybox" rel="tune" href="scores/lava.pdf"><img src="thumbs/lava_thumb.png" width="150" height="194" alt="" /></a>
   <a class="fancybox" rel="tune" href="scores/classy.pdf"><img src="thumbs/classy_thumb.png" width="150" height="194" alt="" /></a>
   <a class="fancybox" rel="tune" href="scores/chaste.pdf"><img src="thumbs/chaste_thumb.png" width="150" height="194" alt="" /></a>
-  <!--<a class="fancybox" rel="tune" href="scores/paddle.pdf"><img src="thumbs/paddle_thumb.png" width="150" height="194" alt="" /></a><!-- -->
-  <!--<a class="fancybox" rel="tune" href="scores/midnight.pdf"><img src="thumbs/midnight_thumb.png" width="150" height="194" alt="" /></a><!-- -->
+
+  <!--<a class="fancybox" rel="tune" href="scores/paddle.pdf"><img src="thumbs/paddle_thumb.png" width="150" height="194" alt="" /></a>
+  <a class="fancybox" rel="tune" href="scores/midnight.pdf"><img src="thumbs/midnight_thumb.png" width="150" height="194" alt="" /></a><!-- -->
+
 </div>
 
 <h3 class="horizline" id="waltzes">Waltzes</h3>
 
 <div class="forceleft">
   <a class="fancybox" rel="waltz" href="scores/wonder.pdf"><img src="thumbs/wonder_thumb.png" width="150" height="194" alt="" /></a>
-  <a class="fancybox" rel="waltz" href="scores/nonesuch.pdf"><img src="thumbs/nonesuch_thumb.png" class="new"  width="150" height="194" alt="" /></a>
+  <a class="fancybox" rel="waltz" href="scores/nonesuch.pdf"><img src="thumbs/nonesuch_thumb.png"  width="150" height="194" alt="" /></a>
   <a class="fancybox" rel="waltz" href="scores/lazy.pdf"><img src="thumbs/lazy_thumb.png" width="150" height="194" alt="" /></a>
   <a class="fancybox" rel="waltz" href="scores/breakfast.pdf"><img src="thumbs/breakfast_thumb.png" width="150" height="194" alt="" /></a>
   <a class="fancybox" rel="waltz" href="scores/green.pdf"><img src="thumbs/green_thumb.png" width="150" height="194" alt="" /></a>
+  <a class="fancybox" rel="waltz" href="scores/kensington.pdf"><img src="thumbs/kensington_thumb.png" width="150" height="194" alt="" /></a>
+
   <!--<a class="fancybox" rel="waltz" href="scores/fauxmenco.pdf"><img src="thumbs/fauxmenco_thumb.png" width="150" height="194" alt="" /></a><!-- -->
-  <!--<a class="fancybox" rel="waltz" href="scores/kensington.pdf"><img src="thumbs/kensington_thumb.png" width="150" height="194" alt="" /></a><!-- -->
+
 </div>
 
 <h3 class="horizline" id="misc">Misc.</h3>
