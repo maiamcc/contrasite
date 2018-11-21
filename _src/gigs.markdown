@@ -14,14 +14,16 @@ footer: true
 <h3 class="horizline">Dances/Events Called (selected)</h3>
 
 * [Youth Dance Weekend](//youthdanceweekend.org)
+* [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/)
 * [The NEFFA Festival](//www.neffa.org/What_is_Festival.html) (Mansfield, MA)
 * [Concord Scout House (Thursday)](//www.neffa.org/Thurs.html) (Concord, MA)
-* [Concord Scout House (Monday)](//mondaycontras.com/) (Concord, MA) 
+* [Concord Scout House (Monday)](//mondaycontras.com/) (Concord, MA)
 * [BIDA](//bidadance.org/) (Cambridge, MA)
 * [Boston Gender Free Contra Dance (Jamaica Plain)](//lcfd.org/jp/)
 * [Glen Echo (Friday Night Dance)](//fridaynightdance.org/) (Glen Echo, MD)
 * [Glen Echo (Sunday)](//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1) (Glen Echo, MD)
 * [Downtown Amherst Contra](//amherstcontra.org/Amherst_Contradance/Home.html) (Amherst, MA)
+* [Old Farmer's Ball](//oldfarmersball.com/) (Asheville, NC)
 * [CDNY](//cdny.org/) (New York, NY)
 * [Brooklyn Contra](//brooklyncontra.wordpress.com/) (Brooklyn, NY)
 * [Village Contra](//www.villagecontra.org/) [Gender-Free] (New York, NY)
@@ -30,7 +32,3 @@ footer: true
 * [Baltimore Wednesday Night Contra Dance](//www.bfms.org/squarecontra.php)
 * [New Haven/Branford](//www.ctcontra.com/nhcd/) (Branford, CT)
 * [Swingin' Tern](//folkproject.org/swtern/swtern.shtml) (East Hanover, NJ)
-* Albany, NY
-* [Bennington, VT](//www.benningtondance.org/)
-* Silver Spring, MD (see the [FSGW website](//fsgw.org/myorgnet/public.php))
-* [Round Hill](//www.roundhill.net/) (Stamford, CT)
