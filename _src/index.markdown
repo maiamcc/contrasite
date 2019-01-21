@@ -6,9 +6,11 @@ sharing: true
 footer: false
 sidebar: false
 ---
-I am a contradance caller and [choreographer](/dances.html) (as well as a singer and sometimes-musician) based in New York City. I've called at venues/events including [Youth Dance Weekend](//youthdanceweekend.org), [the NEFFA festival](//www.neffa.org/What_is_Festival.html), the [Concord Scout House](//www.neffa.org/Thurs.html), [BIDA](//bidadance.org/), [Glen Echo](//fridaynightdance.org), and [Downtown Amherst Contra](//amherstcontra.org/Amherst_Contradance/Home.html), with bands like [The Free Raisins](//www.freeraisins.com/), [The Moving Violations](//www.themovingviolations.com), [The Ripples](//theripplesband.com), [Sassafras Stomp](//sassafrasstomp.com), and [Ensoleil](//ensoleilband.com). (See also: [selected gig history](/gigs.html). References available on request.) Also, [I organize contradance flash mobs sometimes](#flash-mobs).
+I am a contradance caller and [choreographer](/dances.html) based in New York City. [See where I'm calling next!](#calendar)
 
-See below for some calling samples, check out my [upcoming](/gigs.html) and [past gigs](/gigs.html#past), or look at some [tunes](/tunes.html) or [dances I've written](/dances.html).
+I call around the Northeast and beyond, at festivals, weekends, and regular dances alike (including, lately: [Youth Dance Weekend](//youthdanceweekend.org), [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/lcfd-spring-dance-camp/), and [the NEFFA festival](//www.neffa.org/What_is_Festival.html)). (You can find a selected gig history [here](/gigs.html#past).)
+
+As a choreographer, I strive to write dances that are both compelling and idiomatic. My dances have made it into some other people's collections, and have been called as far afield as California and Alaska, so that's pretty rad! Check them out [on my choreo page](/dances.html).
 
 <h3 class="horizline">Calling samples</h3>
 <ul class="media-samples">
@@ -25,3 +27,9 @@ See below for some calling samples, check out my [upcoming](/gigs.html) and [pas
     <iframe  width="420" height="315" src="//www.youtube.com/embed/lzDv8pCk2QY" frameborder="0" allowfullscreen></iframe>
   </li>
 </ul>
+
+<a id="calendar"></a>
+<h3 class="horizline">Upcoming Gigs</h3>
+
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ujcjbnqd00sm2krhbn2b8vg14k%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="450" frameb order="0" scrolling="no"></iframe>
+
