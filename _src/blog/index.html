@@ -5,23 +5,9 @@ sidebar: true
 ---
 
 <div class="blog-index">
-  <article class="foo">
+  <article id="blogintro">
     Look here for (very) occasional blog posts about observations from calling and dancing, musings on the dance world, ramblings on my dance philosophy, programs from evenings I've called, and possibly some bad puns.
   </article>
-
-  <div id="blognav">
-    <ul>
-      <li>
-        <a href="#foo">Programs</a>
-      </li>
-      <li>
-        <a href="#foo">On Dance</a>
-      </li>
-      <li>
-        <a href="/blog/archives/">Archives</a>
-      </li>
-    </ul>
-  </div>
 
   {% assign index = true %}
   {% for post in paginator.posts %}
@@ -34,7 +20,7 @@ sidebar: true
     {% if paginator.next_page %}
       <a class="prev" href="{{paginator.next_page_path}}">&larr; Older</a>
     {% endif %}
-    
+
     <a class="arch" href="/blog/archives">-- Archives --</a>
 
     {% if paginator.previous_page %}

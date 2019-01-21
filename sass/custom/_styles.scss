@@ -2,8 +2,13 @@
 // Add styles here to make changes without digging in too much
 @import "footnote";
 
+em { /* make italics a little bolder */
+  font-style: italic;
+  font-weight: 400;
+}
+
 ul {
-  list-style-type: circle; 
+  list-style-type: circle;
 }
 
 #flashmob-how-to .level-1 {
@@ -11,7 +16,7 @@ ul {
   font-weight: bold;
   ul {
     font-weight: normal;
-  }  
+  }
 }
 
 .horizline {
@@ -54,6 +59,10 @@ ul {
 a.prev {float:left;}
 a.next {float:right;}
 
+article#blogintro {
+  margin-bottom: 1em;
+}
+
 #blognav {
   margin: 10px 0 10px 0;
   text-align: center;
@@ -70,22 +79,28 @@ a.next {float:right;}
     list-style-type: none;
     li {
       display: inline;
-      &:last-of-type { 
+      &:last-of-type {
         &:after {
 	  content: '';
-	  padding: 0;	
+	  padding: 0;
  	}
-      } 
+      }
       &:after {
 	content: '*';
 	padding: 0 10px 0 10px;
       }
-    } 
+    }
   }
 }
 
+.credit {
+  font-style: italic;
+  font-size: 90%;
+  text-align: right;
+}
+
 .blogpost {
-  margin-bottom: 1.5em; 
+  margin-bottom: 1.5em;
   &:not(:last-of-type) {border-bottom: 2px dotted #3498db;}
 }
 
@@ -119,14 +134,14 @@ a.next {float:right;}
     float: left;
     width: 48%;
     padding: 1%;
-    
-    @media screen and (max-width: 885px) { 
+
+    @media screen and (max-width: 885px) {
       width: 70%;
       padding: 5px 15%;
     }
     @media screen and (max-width: 640px) {
       width: 100%;
-      padding: 5px 0; 
+      padding: 5px 0;
     }
   }
 }
