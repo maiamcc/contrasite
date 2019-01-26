@@ -2,14 +2,17 @@
 layout: default
 single: true
 ---
+{% if page.comments == true %}
+  {% include custom/facebook-init.html %}
+{% endif %}
 
 <article class="post">{% include article.html %}</article>
 {% unless page.sharing == false %}
 	{% include post/sharing.html %}
 {% endunless %}
-{% if site.disqus_short_name and page.comments == true %}
+{% if page.comments == true %}
 <section id="comment">
     <h2 class="title">Comments</h2>
-    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+    <div class="fb-comments" data-href="http://contra.maiamccormick.com{{ page.url }}" data-colorscheme="light" data-num-posts="6" data-width="706"></div>
 </section>
 {% endif %}
