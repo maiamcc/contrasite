@@ -32,6 +32,8 @@ source: _src
 destination: _pub
 plugins: plugins
 code_dir: downloads/code
+gems:
+    - jekyll-feed
 category_dir: blog/categories
 markdown: rdiscount
 rdiscount:
