@@ -1,5 +1,7 @@
 <!DOCTYPE HTML>
-<html lang="en-GB">
+<html lang="en-GB"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#">
 <head>
 	<meta charset="utf-8">
 	<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
@@ -7,6 +9,7 @@
 	<meta name="author" content="{% if site.author %}{{ site.author }}{% else %}{{ site.title }}{% endif %}">
 {% capture description %}{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{%else%}{{ content | raw_content }}{% endif %}{% endcapture %}
 <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}"> {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{%else%}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
+<meta property="og:image" content="http://contra.maiamccormick.com/images/calling_headshot.jpg" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
