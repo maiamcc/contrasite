@@ -84,7 +84,7 @@ $(function() {
 
       new_blurb.find('.dance-title').attr('href', '#' + slugify_title(dance.title)).text(dance.title);
       new_blurb.find('.dance-difficulty').text(dance.difficulty);
-      new_blurb.find('.dance-blurb').text(dance.blurb);
+      new_blurb.find('.dance-blurb').html(dance.blurb);
 
       // unhide elem.
       new_blurb.css('display', '');
@@ -432,6 +432,33 @@ $(function() {
         c2: [
           '[ ravens / larks ] [ RH / LH ] chain across',
           '[ left / right ] hand star 1x to new neighbors',
+        ]
+      }
+    },
+
+    {
+      title: 'Star Trek: the Next Generation',
+      formation: 'becket R',
+      difficulty: 'advanced',
+      starts: '',
+      notes: 'A loving re-imagination of Mike Richardson\'s <a href="https://www.cambridgefolk.org.uk/contra/dances/mike_richardson/star_trek.html" target="_blank">Star Trek</a>, premiered at Brooklyn Contra in March 2019. Before the B2 star, note direction of progression (i.e. to the RIGHT); dancers walk along the set single file in this direction.',
+      date_written: '201812',
+      blurb: 'Mike Richardson\'s <a href="https://www.cambridgefolk.org.uk/contra/dances/mike_richardson/star_trek.html" target="_blank">Star Trek</a>, re-imagined.',
+      video_link: '',
+      choreo: {
+        a1: [
+          'hands-across left-hand star 1x',
+          'larks LH chain (to N)',
+        ],
+        a2: [
+          'full hey (larks pass L) and ravens ricochet',
+        ],
+        b1: [
+          'P walk-around and swing',
+        ],
+        b2: [
+          'promenade across',
+          'left-hand star 1x and walk along the set (ravens in the lead) to progress',
         ]
       }
     },
