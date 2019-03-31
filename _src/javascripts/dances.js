@@ -292,6 +292,33 @@ $(function() {
     },
 
     {
+      title: 'I\'ll Hold You In My Arms',
+      formation: 'improper',
+      difficulty: 'accessible',
+      starts: '',
+      notes: 'Written March 2019 to pair with a track by DJ Flourish -- I wanted Petronellas in the B but needed a dance besides Tica Tica Timing.',
+      date_written: '20190330',
+      blurb: 'Easy Petronellas-in-the-B dance',
+      video_link: '',
+      choreo: {
+        a1: [
+          '(new) larks allemande L 1 1/4',
+          'partner swing',
+        ],
+        a2: [
+          'long lines forward and back',
+          'ravens chain (to N)',
+        ],
+        b1: [
+          'balance the ring and spin right (2x)',
+        ],
+        b2: [
+          'neighbor balance and swing (and look on slight left diagonal for new larks)',
+        ]
+      }
+    },
+
+    {
       title: 'Life in Boxes',
       formation: 'improper',
       difficulty: 'advanced',
