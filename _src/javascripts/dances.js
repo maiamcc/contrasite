@@ -348,6 +348,34 @@ $(function() {
     },
 
     {
+      title: 'Muppets and Mazels',
+      formation: 'becket R',
+      difficulty: 'advanced',
+      starts: '',
+      notes: 'For best results, don\'t clap after the second Petronella spin -- just keep spinning into the new neighbor seesaw. (To line up with next neighbor, ravens spin wide/larks stop a little short). Written March 2019 as a wedding gift for the utterly delightful Michal Richardson and Josh Marantz (so that Michal could spin as much as possible).',
+      date_written: '20190329',
+      blurb: 'Petronellas and lots of spinning',
+      video_link: '',
+      choreo: {
+        a1: [
+          'give and take (larks take your N home)',
+          'neighbor swing',
+        ],
+        a2: [
+          'balance the ring and spin right',
+          'balance the ring and spin right, spinning extra to face new neighbors',
+        ],
+        b1: [
+          'new neighbor seesaw 1 1/4',
+          'larks allemande R 1 1/2',
+        ],
+        b2: [
+          'partner balance and swing',
+        ]
+      }
+    },
+
+    {
       title: 'Neighbor, Neighbor On the Wall',
       formation: 'improper',
       difficulty: 'accessible',
