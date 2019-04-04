@@ -296,7 +296,7 @@ $(function() {
       formation: 'improper',
       difficulty: 'accessible',
       starts: '',
-      notes: 'Written March 2019 to pair with a track by DJ Flourish -- I wanted Petronellas in the B but needed a dance besides Tica Tica Timing.',
+      notes: 'Written March 2019 to pair with DJ Flourish\'s mix <a href="https://www.mixcloud.com/DJ_Flourish/4-in-my-arms-mix/">In My Arms</a> -- I wanted Petronellas in the B but needed a dance besides Tica Tica Timing.',
       date_written: '20190330',
       blurb: 'Easy Petronellas-in-the-B dance',
       video_link: '',
