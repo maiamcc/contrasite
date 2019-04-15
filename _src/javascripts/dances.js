@@ -635,9 +635,9 @@ $(function() {
       title: 'Violet Ice',
       formation: 'becket L',
       difficulty: 'advanced',
-      notes: 'in B2, "ravens flip" by turning over R sh. to face the same direction as their P. Timing in the A is mushy (pousette takes less than 8 beats so mad robin starts before the beginning of A2)–encourage dancers to follow the movement rather than trying to fit it into the music, and use B1 to get everyone back together. This dance allows for almost constant eye contact with partner. Inspired by Will Mentor\'s "Lavender Snow", premiered at LCFD Spring Dance Camp 2018.',
+      notes: 'in B2, "ravens flip" by turning over R sh. to face the same direction as their P. Timing in the A is mushy; both the mad robin and the pousette take about 6 counts, so the mad robin starts a little before A2, and the 5/8 hey finishes just about at the end of the A2. Encourage dancers to follow the movement rather than trying to fit it into the music (i.e. DON\'T do the English dance thing of trying to make the moves fill the phrase), and use B1 to get everyone back together. This dance allows for almost constant eye contact with partner. Inspired by Will Mentor\'s "Lavender Snow", premiered at LCFD Spring Dance Camp 2018.',
       date_written: '201805',
-      blurb: 'pousette, mad robin, lots of eye contact with partner',
+      blurb: 'mad robin / pousette. Smooth and English-y, lots of eye contact with partner',
       choreo: {
         a1: [
           'circle L 3/4',
