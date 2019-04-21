@@ -23,6 +23,7 @@ Got a resource that you think should be listed here? [Contact me](/contact.html)
 * Downtown Amherst Contra [role terms survey results](https://docs.google.com/spreadsheets/d/16U1n32U7oD8WNzQ2kdsGha6emzkhOgIR6BwFA0sSqH8/edit#gid=1311388201), June 2018
 * Emerald City Contra (Seattle) [role terms survey results](https://docs.google.com/forms/d/e/1FAIpQLScxLiOxpcyhM_S6FXL0ah1eVPN3569iVh1_Fn6A25cyGFW3Eg/viewanalytics?fbclid=IwAR3HzYdRsLkx-asrD8ZfOzQuit9SSIZrIjg46gTz3dyykHlIA7I6PQe2oyI) for dancers who tried Larks/Ravens
 * Montpelier VT Contra [role terms survey](/static/montpelier-rl-survey-march2019.pdf) (questionnaire only, no results)
+* BIDA (Boston, MA) [blog post on switching to Larks/Ravens](https://blog.bidadance.org/2017/06/switching-to-larks-and-ravens.html) (including survey results)
 
 #### Writings
 * [Larks and Ravens: A Report from the Field](https://www.cdss.org/images/newsletter_archives/articles/CDSS_News_Spring_2019_Larks_and_Ravens_A_Report_from_the_Field.pdf) by Dela and Dugan Murphy
