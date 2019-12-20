@@ -14,6 +14,8 @@ footer: true
 <h3 class="horizline">Dances/Events Called (selected)</h3>
 
 * [Youth Dance Weekend](//youthdanceweekend.org)
+* [Dawn Dance](//dawndance.org/)
+* [Contracopia](//www.thursdaycontra.com/contracopia/)
 * [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/)
 * [The NEFFA Festival](//www.neffa.org/What_is_Festival.html) (Mansfield, MA)
 * [Concord Scout House (Thursday)](//www.neffa.org/Thurs.html) (Concord, MA)
