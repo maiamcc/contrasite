@@ -2,7 +2,9 @@
 
 set -ex
 
-syslog-ng
+rsyslogd
+
+logger "starting nginx ..."
 
 nginx
 
