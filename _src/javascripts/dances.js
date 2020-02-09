@@ -612,7 +612,7 @@ $(function() {
       notes: 'A1 is from James Hutson’s “Treasure of the Sierra Madre”. This dance was tested at Soda Bar in Brooklyn, hence the title, and first called at Glen Echo FND in August 2016.',
       date_written: '201606',
       blurb: 'square through dance with A1 taken from James Hutson\'s Treasure of the Sierra Madre',
-      video_link: '',
+      video_link: 'https://www.youtube.com/watch?v=17BOcvKaQzA',
       choreo: {
         a1: [
           'neighbor RH balance and box the gnat',
