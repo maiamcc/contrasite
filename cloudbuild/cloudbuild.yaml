@@ -19,5 +19,5 @@ steps:
         kubectl set image deployment/maiamcc-contrasite "maiamcc-contrasite=gcr.io/$PROJECT_ID/maiamcc-contrasite:$COMMIT_SHA" --namespace=application && \
         gcloud container clusters update production --enable-master-authorized-networks --master-authorized-networks $(gcloud container clusters describe production --region us-east4 --format="csv[no-heading](masterAuthorizedNetworksConfig.cidrBlocks.cidrBlock)" | sed -e "s|;|,|g;s|,\?$(curl ifconfig.io/ip)/32\(,\?\)|\1|g")
     env:
-      - 'CLOUDSDK_COMPUTE_ZONE=us-east4'
+      - 'CLOUDSDK_COMPUTE_ZONE=us-east4-c'
       - 'CLOUDSDK_CONTAINER_CLUSTER=production'
