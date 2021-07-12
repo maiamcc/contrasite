@@ -1,0 +1,30 @@
+<!-- Add fancyBox -->
+<link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(".fancybox").fancybox();
+        $(".fancybox").fancybox({
+    width  : 600,
+    height : 300,
+    type   :'iframe'
+    });
+
+});
+</script>
+
+<!-- Add FitVids for responsive video embedding -->
+<script src="/javascripts/jquery.fitvids.js"></script>
+<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(".media-samples").fitVids();
+  });
+</script>
+
+
+
+
+
+

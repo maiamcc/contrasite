@@ -1,0 +1,18 @@
+---
+layout: default
+single: true
+---
+{% if page.comments == true %}
+  {% include custom/facebook-init.html %}
+{% endif %}
+
+<article class="post">{% include article.html %}</article>
+{% unless page.sharing == false %}
+	{% include post/sharing.html %}
+{% endunless %}
+{% if page.comments == true %}
+<section id="comment">
+    <h2 class="title">Comments</h2>
+    <div class="fb-comments" data-href="http://contra.maiamccormick.com{{ page.url }}" data-colorscheme="light" data-num-posts="6" data-width="706"></div>
+</section>
+{% endif %}

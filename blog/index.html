@@ -1,0 +1,43 @@
+---
+title: Blog
+layout: default
+sidebar: true
+---
+
+<div class="blog-index">
+  <div id="rss-link">
+    <a href="/feed.xml">
+      <img src="/images/rss-contrasite.png">
+    </a>
+  </div>
+  <article id="blogintro">
+    Look here for (very) occasional blog posts about observations from calling and dancing, musings on the dance world, ramblings on my dance philosophy, programs from evenings I've called, and possibly some bad puns.
+  </article>
+
+  {% assign index = true %}
+  {% for post in paginator.posts %}
+  {% assign content = post.content %}
+    <article class="blogpost">
+      {% include article.html %}
+    </article>
+  {% endfor %}
+  <div class="pagination">
+    {% if paginator.next_page %}
+      <a class="prev" href="{{paginator.next_page_path}}">&larr; Older</a>
+    {% endif %}
+
+    <a class="arch" href="/blog/archives">-- Archives --</a>
+
+    {% if paginator.previous_page %}
+    <a class="next" href="{{paginator.previous_page_path}}">Newer &rarr;</a>
+    {% endif %}
+  </div>
+</div>
+<!-- NO SIDEBAR FOR NOW
+<aside class="sidebar">
+  {% if site.blog_index_asides.size %}
+    {% include_array blog_index_asides %}
+  {% else %}
+    {% include_array default_asides %}
+  {% endif %}
+</aside> <!-- hack to make comments work -->
