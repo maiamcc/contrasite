@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Program: ESCape 2021"
-date: 2021-07-21 22:31:14 +0000
+date: 2021-07-12 22:31:14 +0000
 comments: true
 categories: programs
 ---
@@ -46,8 +46,7 @@ I'm thrilled beyond belief that I got to go to Pinewoods this summer, and dance,
 * **Mad Robin Landing** (Will Mentor)
 * **Train Delay** (Maia McCormick)
 
-<h3 class="horizline">Thursday Morning ("It Don’t Mean a Thing (If It Ain’t Got That </
-	Swing)")
+<h3 class="horizline">Thursday Morning ("It Don’t Mean a Thing (If It Ain’t Got That Swing)")</h3>
 * **Neighbor, Neighbor On the Wall** (Maia McCormick)
 * **A Thing of Trust** (Chris Page)
 * **Melody’s Madness** (David Glick)
@@ -55,7 +54,7 @@ I'm thrilled beyond belief that I got to go to Pinewoods this summer, and dance,
 * **Zombies of Sugar Hill** (Gene Hubert)
 * **Uplift** (Chris Page)
 
-<h3 class="horizline">Thursday Evening</Swing)")>
+<h3 class="horizline">Thursday Evening</h3>
 
 * **Maliza’s Magical Mystery Motion** (Cary Ravitz)
 * **Barack Me, Obamadeus** (Maia McCormick)
