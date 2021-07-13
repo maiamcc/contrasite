@@ -28,7 +28,7 @@
 			line-height: 200;
 			a{
 				color: $color-gray02;
-				@include transition(0.3s);
+				transition: 0.3s;
 				&:hover{
 					color: $color-gray01;
 				}

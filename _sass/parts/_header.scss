@@ -22,7 +22,7 @@ $header-height: 30px;
     
 	a{
 		color: $color-blog-title;
-		@include transition(color 0.3s);
+		transition: color 0.3s;
 		&:hover{
 			color: $color-blog-title-h;
 			border-bottom:none;
