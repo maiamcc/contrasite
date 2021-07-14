@@ -78,7 +78,7 @@ $header-height: 30px;
                         }
 			
                         margin-left: 50px;
-                        @include inline-block;
+                        display: inline-block;
                         @media screen and (max-width: 1040px){
                                 margin-left: 0;
                                 margin-right: 50px;
