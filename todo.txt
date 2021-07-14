@@ -1,0 +1,11 @@
+jekyll migration TODOs:
+[] "read more" divider
+[] tags display correctly spaced
+[] category pages for tags
+
+---
+
+choreo to-do:
+  - use YAML to store my dances instead of awkward JS??
+blog to-do:
+  - sidebar with recent posts? (look at formatting in partials/sidebar.scss, which currently isn't imported)
