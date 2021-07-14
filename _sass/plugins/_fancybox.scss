@@ -19,7 +19,7 @@
 	background: #f9f9f9;
 	color: #444;
 	text-shadow: none;
-	@include border-radius(4px);
+	border-radius: 4px;
 }
 
 .fancybox-opened {
@@ -27,7 +27,7 @@
 }
 
 .fancybox-opened .fancybox-skin {
-	@include box-shadow(0 10px 25px rgba(0, 0, 0, 0.5));
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
 }
 
 .fancybox-outer, .fancybox-inner {
@@ -204,7 +204,7 @@
 	font-weight: bold;
 	line-height: 24px;
 	white-space: nowrap;
-	@include border-radius(15px);
+	border-radius: 15px;
 }
 
 .fancybox-title-outside-wrap {
