@@ -20,12 +20,12 @@ RUN cd /usr/src/site && \
     bundle config set path 'vendor/bundle' && \
     bundle config set with 'development' && \
     bundle install && \
-    bundle exec rake generate
+    bundle exec jekyll build
 
 USER root
 WORKDIR /
 
-RUN mv /usr/src/site/_pub /srv/http && \
+RUN mv /usr/src/site/_site /srv/http && \
     mv /usr/src/site/cloudbuild/nginx.conf /etc/nginx/nginx.conf && \
     mv /usr/src/site/cloudbuild/entry-point.sh /usr/local/sbin/entry-point.sh && \
     chown -R www-data:www-data /srv/http && \
