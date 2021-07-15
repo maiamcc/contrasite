@@ -1,0 +1,10 @@
+<div class="meta">
+  <div>
+    <strong>Published:</strong> {% include post/date.html %}{{ time }}
+  </div>
+  {% if post.categories.size > 0 or page.categories.size > 0 %}
+    <div>
+      <span class="tags"><strong>Tags:</strong> {% include post/tags.html %}</span>
+    </div>
+  {% endif %}
+</div>

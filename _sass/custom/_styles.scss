@@ -175,7 +175,8 @@ article#blogintro {
   li {
     display: inline;
     &::after {
-      content: " | ";
+      content: ", ";
+      margin-left: -0.25em;
     }
     &:last-child::after {
       content: "";
