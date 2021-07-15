@@ -110,6 +110,10 @@ article#blogintro {
   }
 }
 
+.category {
+  text-align: center;
+}
+
 .credit {
   font-style: italic;
   font-size: 90%;
@@ -159,6 +163,22 @@ article#blogintro {
     @media screen and (max-width: 640px) {
       width: 100%;
       padding: 5px 0;
+    }
+  }
+}
+
+.comma-list {
+  display: inline;
+  list-style: none;
+  padding: 0px;
+
+  li {
+    display: inline;
+    &::after {
+      content: " | ";
+    }
+    &:last-child::after {
+      content: "";
     }
   }
 }

@@ -1,8 +1,17 @@
-{% capture category %}{% if post %}{{ post.categories | category_links | size }}{% else %}{{ page.categories | category_links | size }}{% endif %}{% endcapture %}
 {% unless category == '0' %}
+<ul class="comma-list">
 {% if post %}
-	{{ post.categories | category_links }}
+	{% for category in post.categories%}
+		<li>
+			<a class="category" href="/blog/categories/{{category}}">{{ category }}</a>
+		</li>
+	{% endfor %}
 {% else %}
-	{{ page.categories | category_links }}
+	{% for category in page.categories%}
+		<li>
+			<a class="category" href="/blog/categories/{{category}}">{{ category }}</a>
+		</li>
+	{% endfor %}
 {% endif %}
+</ul>
 {% endunless %}
