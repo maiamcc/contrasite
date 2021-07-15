@@ -6,5 +6,5 @@ comments: true
 sharing: true
 footer: true
 ---
-<meta http-equiv="refresh" content="0; url=http://konradpodgorski.com/blog/2013/10/21/how-i-migrated-my-blog-from-wordpress-to-octopress/">
-<link rel="canonical" href="http://konradpodgorski.com/blog/2013/10/21/how-i-migrated-my-blog-from-wordpress-to-octopress/" />
+<meta http-equiv="refresh" content="0; url=/blog/2017/10/05/ydw-program/">
+<link rel="canonical" href="/blog/2017/10/05/ydw-program/" />

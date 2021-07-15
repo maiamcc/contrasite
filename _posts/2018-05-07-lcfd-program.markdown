@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "LCFD Spring Dance Camp 2018 Program"
+title: "Program: LCFD Spring Dance Camp 2018"
 date: 2018-05-07 16:53
 comments: true
 sharing: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "YDW 2017 Program"
+title: "Program: Youth Dance Weekend 2017"
 date: 2017-10-05 16:53
 comments: true
 sharing: true
