@@ -1,0 +1,23 @@
+steps:
+  - id: build-image
+    name: 'gcr.io/cloud-builders/docker'
+    args: [ 'build', '-t', 'gcr.io/$PROJECT_ID/maiamcc-contrasite:$COMMIT_SHA', '-f', 'cloudbuild/Dockerfile', '.']
+
+  - id: push-image
+    name: 'gcr.io/cloud-builders/docker'
+    args: [ 'push', 'gcr.io/$PROJECT_ID/maiamcc-contrasite:$COMMIT_SHA' ]
+
+  - id: deploy-image
+    name: 'gcr.io/cloud-builders/kubectl'
+    entrypoint: '/bin/bash'
+    args:
+      - '-x'
+      - '-c'
+      - |
+        gcloud container clusters update "production" --enable-master-authorized-networks --master-authorized-networks $(gcloud container clusters describe "production" --zone "us-east4-c" --format="csv[no-heading](masterAuthorizedNetworksConfig.cidrBlocks.cidrBlock)" | sed -e's/;/,/g'),$(curl ifconfig.io/ip)/32 && \
+        gcloud container clusters get-credentials --project="$PROJECT_ID" --zone="us-east4-c" "production" && \
+        kubectl set image deployment/maiamcc-contrasite "maiamcc-contrasite=gcr.io/$PROJECT_ID/maiamcc-contrasite:$COMMIT_SHA" --namespace=application && \
+        gcloud container clusters update "production" --enable-master-authorized-networks --master-authorized-networks $(gcloud container clusters describe "production" --zone "us-east4-c" --format="csv[no-heading](masterAuthorizedNetworksConfig.cidrBlocks.cidrBlock)" | sed -e "s|;|,|g;s|,\?$(curl ifconfig.io/ip)/32\(,\?\)|\1|g")
+    env:
+      - 'CLOUDSDK_COMPUTE_ZONE=us-east4-c'
+      - 'CLOUDSDK_CONTAINER_CLUSTER=production'
