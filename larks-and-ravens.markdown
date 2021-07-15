@@ -19,7 +19,7 @@ Got a resource that you think should be listed here? [Contact me](/contact.html)
 * [A Video History of LGBT Gender-Free Contra & Folk Dancing Around Boston](https://www.youtube.com/watch?v=3CfSjadrL14), by Chris Ricciotti
 
 #### Language and Surveys
-* [Compilation and comparison of various role terms](http://amherstcontra.org/ContraDanceRoleTerms.pdf) by the Hampshire College Contra Dance & Ron T. Blechner
+* [Compilation and comparison of various role terms](https://amherstcontra.org/ContraDanceRoleTerms.pdf) by the Hampshire College Contra Dance & Ron T. Blechner
 * Downtown Amherst Contra [role terms survey results](https://docs.google.com/spreadsheets/d/16U1n32U7oD8WNzQ2kdsGha6emzkhOgIR6BwFA0sSqH8/edit#gid=1311388201), June 2018
 * Emerald City Contra (Seattle) [role terms survey results](https://docs.google.com/forms/d/e/1FAIpQLScxLiOxpcyhM_S6FXL0ah1eVPN3569iVh1_Fn6A25cyGFW3Eg/viewanalytics?fbclid=IwAR3HzYdRsLkx-asrD8ZfOzQuit9SSIZrIjg46gTz3dyykHlIA7I6PQe2oyI) for dancers who tried Larks/Ravens
 * Montpelier VT Contra [role terms survey](/static/montpelier-rl-survey-march2019.pdf) (questionnaire only, no results)

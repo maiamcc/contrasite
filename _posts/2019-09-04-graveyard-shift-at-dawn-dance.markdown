@@ -9,18 +9,18 @@ I would say I'm alllmost recovered from the all-nighter I pulled this weekend ca
 
 <!--more-->
 
-1. [50/50](http://dancevideos.childgrove.org/contra/contra-modern/545-50-50-by-bob-isaacs-becket) --- Bob Isaacs
+1. [50/50](https://dancevideos.childgrove.org/contra/contra-modern/545-50-50-by-bob-isaacs-becket) --- Bob Isaacs
 2. Fiddler’s Fling --- Cary Ravitz (Will Mentor var.)
 3. [Maliza’s Magical Mystery Motion](https://www.dance.ravitz.us/#mmm) --- Cary Ravitz
-4. [Rollin’ to the Grey Eagle](http://dancevideos.childgrove.org/contra/contra-modern/236-rollin-to-the-grey-eagle) --- Hank Morris
+4. [Rollin’ to the Grey Eagle](https://dancevideos.childgrove.org/contra/contra-modern/236-rollin-to-the-grey-eagle) --- Hank Morris
 5. [Read Between the Lines](https://www.youtube.com/watch?v=sP3_4HZEUWY) --- Bob Isaacs
-6. [The Young Adult Rose](http://lists.sharedweight.net/pipermail/callers-sharedweight.net/2016-March/001399.html) --- David Kaynor
+6. [The Young Adult Rose](https://lists.sharedweight.net/pipermail/callers-sharedweight.net/2016-March/001399.html) --- David Kaynor
 7. [Treasure of the Soda Bar](https://contra.maiamccormick.com/dances.html#treasureofthesodabar) --- Maia McCormick
-8. [Cheat Lake Twirl](http://dancevideos.childgrove.org/contra/contra-modern/516-cheat-lake-twirl-by-perry-shafran-duple-improper) --- Perry Shafran
+8. [Cheat Lake Twirl](https://dancevideos.childgrove.org/contra/contra-modern/516-cheat-lake-twirl-by-perry-shafran-duple-improper) --- Perry Shafran
 9. [Heart of Glass](https://www.dance.ravitz.us/#hg) --- Cary Ravitz
 10. [Susie's Send-Off](https://www.youtube.com/watch?v=apCecIT5zlQ) --- Scott Higgs (LIGHTS OFF!)
 11. [Neighbor, Neighbor On the Wall](https://contra.maiamccormick.com/dances.html#neighborneighboronthewall) --- Maia McCormick
-12. [Rock Creek Reel](http://www.folkdancecamp.org/assets/Contra-RockCreekReelSFDC2014.pdf) --- David Harris
+12. [Rock Creek Reel](https://www.folkdancecamp.org/assets/Contra-RockCreekReelSFDC2014.pdf) --- David Harris
 13. [Train Delay](https://contra.maiamccormick.com/dances.html#traindelay) --- Maia McCormick
 
 If you should find yourself calling the stupid-o'clock slot at Dawn Dance (or elsewhere), here's some of the stuff that I did that I found super useful (with thanks to past late-night callers Luke Donforth and Alex Deis-Lauby for their advice):

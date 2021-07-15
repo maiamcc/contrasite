@@ -14,6 +14,6 @@ Other hats I wear, in case you're curious:
 		I conduct the <a href="https://www.chamberchoirs.nyc/welcome" target="_blank">New York Chamber Choir</a>; have a listen!
 	</li>
 	<li>
-		I make my living as a programmer; check out my <a href="http://code.maiamccormick.com" target="_blank">infrequently updated programming website</a>!
+		I make my living as a programmer; check out my <a href="https://code.maiamccormick.com" target="_blank">infrequently updated programming website</a>!
 	</li>
 </ul>
