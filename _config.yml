@@ -34,6 +34,7 @@ plugins:
 
 
 # Blog settings
+permalink: /blog/:year/:month/:day/:title/
 paginate: 10          # Posts per page on the blog index
 paginate_path: "blog/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
