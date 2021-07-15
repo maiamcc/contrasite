@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-For the past few years, I've been organizing summer contradance flash mobs in NYC. We've danced in such locations as Grand Central, Union Square, Washington Square Park, and Madison Square Park. We usually draw a sizable crowd of onlookers, we hopefully get some folks interested in contra, we occasionally get hassled by law enforcement (that only happened once!), and we always have a blast!
+For a few years, I organized summer contradance flash mobs in NYC. We've danced in such locations as Grand Central, Union Square, Washington Square Park, and Madison Square Park. We usually draw a sizable crowd of onlookers, we hopefully get some folks interested in contra, we occasionally get hassled by law enforcement (that only happened once!), and we always have a blast!
 
 If you're wondering what goes into a contradance flash mob, or want to put on your very own, check out my [Contradance Flash Mob How-To](/flashmobs/how-to.html), i.e. some notes from my experience organizing flash mobs that may be useful to others.
 
