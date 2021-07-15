@@ -1,7 +1,10 @@
 jekyll migration TODOs:
-[] "read more" divider
-[] tags display correctly spaced
-[] category pages for tags
+[x] "read more" divider
+[x] tags display correctly spaced
+[x] category pages for tags
+[ ] .../xyz.html and .../xyz/ both work
+[ ] redirects for ydw/lcfd programs
+[ ] tune thumbs/make sure all images are working
 
 ---
 
