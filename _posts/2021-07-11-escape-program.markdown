@@ -5,9 +5,12 @@ date: 2021-07-12 22:31:14 +0000
 comments: true
 categories: programs
 ---
-I'm thrilled beyond belief that I got to go to Pinewoods this summer, and dance, and hug all my friends, swim in Long Pond and eat pot de créme on the porch. Being on the mic again after all this bullshit was such a damn delight (and I even remembered which end to talk into!). So many thanks to the organizers who scrambled on 8 weeks' notice to put together this incredible week. Here's my program:
+I'm thrilled beyond belief that I got to go to Pinewoods this summer, and dance, and hug all my friends, swim in Long Pond and eat pot de créme on the porch. Being on the mic again after all this bullshit was such a damn delight (and I even remembered which end to talk into!). So many thanks to the organizers who scrambled on 8 weeks' notice to put together this incredible week.<!-- more -->
 
-<!-- more -->
+I taught a workshop on contradance choreography, and you can download my handouts on [contradance figures and timing](/assets/pdfs/esc-choreo-figures.pdf) and on [dance seeds](/assets/pdfs/esc-choreo-seeds.pdf).
+
+But anyway, here's my program:
+
 ### Monday Evening
 
 * **Salmonella Evening** (Steve Zakon-Anderson)
