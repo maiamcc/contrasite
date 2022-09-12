@@ -1,0 +1,62 @@
+stuff:
+  - hello
+  - goodbye
+  - stuff
+  # - title: 'Barack Me, Obamadeus'
+  #   formation: 'improper'
+  #   difficulty: 'accessible'
+  #   video_link: 'https://www.youtube.com/watch?v=O7nYculG2EI'
+  #   notes: 'Written for Brooklyn Contra on 8/4/17, which is Obama\'s birthday, hence the title. Smooth dance with a hey-like figure up/down the set and a satisfying promenade > circle right transition.'
+  #   date_written: '201708'
+  #   blurb: 'smooth, hey-like figure up/down the set, satisfying promenade > circle right transition'
+  #   # choreo:
+  #   #   a1:
+  #   #     - 'N walk-around (R sh.) and swing'
+  #   #   a2:
+  #   #     - 'larks allemande L 1 1/2'
+  #   #     - 'half hey (pass P by R sh.)'
+  #   #   b1:
+  #   #     - 'P walk-around (R sh.) and swing'
+  #   #   b2:
+  #   #     - 'promenade across'
+  #   #     - 'circle R 3/4 and pass through by L sh.'
+  # - title: 'Faking Communion',
+  #   hide: true,
+  #   formation: 'becket L'
+  #   difficulty: 'advanced'
+  #   notes: 'written May 2015, premiered at CDNY March 2016, B section rewritten and called at YDW \'17. So named because this dance is full of fake-outs.'
+  #   date_written: '201505'
+  #   blurb: 'smooth line-weaving dance with lots of fake-outs'
+  #   # choreo:
+  #   #   a1:
+  #   #     - 'circle L 3/4 (in a ring with N1)'
+  #   #     - '(larks in lead) zig L, zag R, zig L (passing N2 to meet N3)'
+  #   #   a2:
+  #   #     - 'walk-around N3 by R 1x'
+  #   #     - 'turn back to swing N2 (your new N1–dance restarts in hands-4 with them)'
+  #   #   b1:
+  #   #     - 'circle L 1/2 and ravens swap places by R shoulder'
+  #   #     - 'P walk-around'
+  #   #   b2:
+  #   #     - 'larks start half hey (by L) to home side'
+  #   #     - 'P swing'
+  # - title: 'Gimmie the Good Stuff'
+  #   hide: true
+  #   formation: 'becket L, 2x prog'
+  #   difficulty: 'expert'
+  #   notes: 'written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers. With the swing>swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you\'re waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right).'
+  #   date_written: '201509'
+  #   blurb: 'leave your partner; swing > swing transitions'
+  #   # choreo:
+  #   #   a1:
+  #   #     - 'circle L 3/4'
+  #   #     - '(with N, raven in the lead) slice L, lady roll neighbor lark away on the way back'
+  #   #   a2:
+  #   #     - 'ravens chain across (to shadow)'
+  #   #     - 'ravens allemande R 1 1/2'
+  #   #   b1:
+  #   #     - 'swing N1 (the one you yearned with)'
+  #   #     - 'swing N2'
+  #   #   b2:
+  #   #     - 'ravens pull by on R diag. (4)'
+  #   #     - 'swing P (12)'
