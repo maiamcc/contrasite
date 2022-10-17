@@ -37,7 +37,7 @@ You need a second dance for a hall that’s not ready for anything super complic
 
 ## Move intros
 
-When you need to introduce a hey but your dance card for Butter is in tatters because of how many times you’ve called it.
+When you need to introduce a hey but your dance card for [Butter](https://contradb.com/dances/94) (perhaps the prototypical hey intro dance) is in tatters because of how many times you’ve called it.
 
 * [*The Carousel* by Tom Hinds](https://www.folkopieds.ch/app/download/11508427193/The%20Carousel%20En.pdf?t=1580217159) — a perfectly cromulent hey intro that’s not butter
 * [*Wrinkled Ribbon* by Melanie Axel-Lute](http://www.maxellute.net/wrinkled.html) — a slightly more interesting hey intro than Butter. Good for a hall with a smaller proportion of beginners, to give the experienced dancers something interesting while teaching the newbies the hey. Works best if you’ve already done a promenade.
