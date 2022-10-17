@@ -1,14 +1,6 @@
-jekyll migration TODOs:
-[x] "read more" divider
-[x] tags display correctly spaced
-[x] category pages for tags
-[x] .../xyz.html and .../xyz/ both work
-[x] redirects for ydw/lcfd programs
-[x] tune thumbs/make sure all images are working
-
----
-
 choreo to-do:
   - use YAML to store my dances instead of awkward JS??
 blog to-do:
+  - post-specific description texts to show up on fb previews etc.
+  - collapsible choreo elements
   - sidebar with recent posts? (look at formatting in partials/sidebar.scss, which currently isn't imported)
