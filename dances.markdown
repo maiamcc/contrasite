@@ -5,6 +5,7 @@ date: 2014-08-16 22:12
 comments: false
 sharing: true
 footer: false
+description: "Contra choreography by Maia McCormick"
 sidebar: false
 ---
 <script src="javascripts/dances.js"></script>
@@ -19,8 +20,6 @@ A note on dance difficulties:
 * `advanced`: a little trickier, better suited to later in the evening or more experienced halls
 * `expert`: you should probably only call these to a very experienced hall or at an advanced dance
 --!>
-
-<!-- TODO: role terms (larks/ravens) (and maybe a button to toggle ladies/gents?) -->
 
 <div id="blurb-container">
   <p id="blurb-template" style="display:none;">

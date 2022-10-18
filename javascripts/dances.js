@@ -635,7 +635,7 @@ $(function() {
       title: 'Violet Ice',
       formation: 'becket L',
       difficulty: 'advanced',
-      notes: 'Timing in the A is mushy; both the mad robin and the pousette take about 6 counts, so the mad robin starts a little before A2, and the 5/8 hey finishes just about at the end of the A2. Encourage dancers to follow the movement rather than trying to fit it into the music (i.e. DON\'T do the English dance thing of trying to make the moves fill the phrase), and use B1 to get everyone back together. This dance allows for almost constant eye contact with partner. Inspired by Will Mentor\'s "Lavender Snow", premiered at LCFD Spring Dance Camp 2018.',
+      notes: 'Timing in the A is mushy; both the mad robin and the pousette take about 6 counts, so the mad robin starts a little before A2, and the 5/8 hey finishes just about at the end of the A2. Encourage dancers to follow the movement rather than trying to fit it into the music (i.e. DON\'T do the English dance thing of trying to make the moves fill the phrase), and use B1 to get everyone back together. This dance allows for almost constant eye contact with partner. Inspired by Will Mentor\'s "Lavender Snow", premiered at LCFD Spring Dance Camp 2018. The two-hand turn in B2 was a later addition, suggested by Shoshana Silverman (fall 2022).',
       date_written: '201805',
       blurb: 'mad robin / pousette. Smooth and English-y, lots of eye contact with partner',
       choreo: {
@@ -652,8 +652,8 @@ $(function() {
         ],
         b2: [
           'circle L all the way',
-          'P allemande R 1x (4)',
-          'ravens turn over R shoulder to face in, partners slide L to meet new Ns (4)',
+          'P two-hand turn 1x (4)',
+          'open up to face across, slide L to meet new Ns (4)',
         ]
       }
     },
