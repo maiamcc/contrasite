@@ -5,7 +5,7 @@ date: 2022-10-16 21:08
 comments: true
 sharing: true
 footer: true
-description: Some great dances to have in your caller's box, and some insight into how I think about dance categories.
+description: "Some great dances to have in your caller's box, and some insight into how I think about dance categories."
 categories: calling beginners teaching programming
 ---
 A friend was recently asking for dances to build up their collection, as they were getting back into calling and their dance box had a lot of weird nonsense in it. (You know, that one dance you collected and wrote down but never actually tested, and then you try to call it and a hole opens up in the space-time continuum. Who hasn’t been there?)
