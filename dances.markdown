@@ -13,13 +13,13 @@ As a choreographer, I strive to write dances that are both compelling and idioma
 
 Here are a handful of dances that I've written, with more always on the way. I know at least a few of these have made it into others' collections, and been called as far afield as California and Alaska, so that's pretty cool! Feedback is always welcome (as are requests!)--feel free to [drop me a line](/contact.html).
 
-<!-- TODO: style this better
+<!-- TODO: style this better (and maybe have toggles/filters?!)
 A note on dance difficulties:
 
 * `accessible`: interesting and enjoyable for experienced dancers, but accessible for beginners, hard to mess up
 * `advanced`: a little trickier, better suited to later in the evening or more experienced halls
 * `expert`: you should probably only call these to a very experienced hall or at an advanced dance
---!>
+-->
 
 <div id="blurb-container">
   <p id="blurb-template" style="display:none;">
