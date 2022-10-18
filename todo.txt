@@ -1,6 +1,5 @@
 choreo to-do:
   - use YAML to store my dances instead of awkward JS??
 blog to-do:
-  - post-specific description texts to show up on fb previews etc.
   - collapsible choreo elements - https://www.w3schools.com/howto/howto_js_collapsible.asp
   - sidebar with recent posts? (look at formatting in partials/sidebar.scss, which currently isn't imported)
