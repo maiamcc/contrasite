@@ -3,6 +3,7 @@ layout: post
 title: "Improve Your Community With This One Weird Trick!"
 date: 2019-01-31 03:57:39 +0000
 comments: true
+description: "If experienced dancers model being quiet and paying attenttention to the walkthrough, it makes a world of difference."
 categories: beginners teaching
 ---
 Hey experienced contradancers! Have you been looking for a new way to contribute to your dance community? Here's one that I've been trying. It's really small, and has the potential to make a really big impact on the quality of our dances, especially as more and more of us get on board with it. Ready? Here it is:
