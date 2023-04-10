@@ -686,6 +686,33 @@ $(function() {
         ]
       }
     },
+    {
+      title: 'Not a Fever Dream',
+      formation: 'improper',
+      difficulty: 'accessible',
+      starts: '',
+      notes: 'Written while half-napping in the car en route to Queer Contra Dance Camp 2023 and tested under the redwoods, and miraculously, it worked out of the box!',
+      date_written: '202304',
+      blurb: 'simple larks left-hand chain dance with good flow',
+      video_link: '',
+      choreo: {
+        a1: [
+          '(new) neighbor allemande L 1 3/4',
+          'half hey (robins by R sh.)',
+        ],
+        a2: [
+          'neighbor balance and swing'
+        ],
+        b1: [
+          'robins allemande R 1 1/2',
+          'partner swing'
+        ],
+        b2: [
+          'larks left-hand chain (to neighbor)',
+          'right-hand star 1x'
+        ]
+      }
+    },
   ];
 
   insert_blurbs(dances);
