@@ -168,7 +168,7 @@ $(function() {
 	  'turn back to swing N2 (your new N1–dance restarts in hands-4 with them)',
 	],
 	b1: [
-    'circle L 1/2 and ravens swap places by R shoulder',
+    'circle L 1/2 and robins swap places by R shoulder',
     'P walk-around',
 	],
 	b2: [
@@ -190,18 +190,18 @@ $(function() {
       choreo: {
         a1: [
           'circle L 3/4',
-          '(with N, raven in the lead) slice L, lady roll neighbor lark away on the way back',
+          '(with N, robin in the lead) slice L, lady roll neighbor lark away on the way back',
         ],
         a2: [
-          'ravens chain across (to shadow)',
-          'ravens allemande R 1 1/2',
+          'robins chain across (to shadow)',
+          'robins allemande R 1 1/2',
         ],
         b1: [
           'swing N1 (the one you yearned with)',
           'swing N2',
         ],
         b2: [
-          'ravens pull by on R diag. (4)',
+          'robins pull by on R diag. (4)',
           'swing P (12)',
         ],
       },
@@ -212,22 +212,22 @@ $(function() {
       formation: 'becket L',
       difficulty: 'accessible',
       starts: '',
-      notes: 'written winter \'16 as an alternative to Chris Ricciotti’s "Greenfield Petronella"; I wanted to preserve the balance-y feel of the dance and the CA twirl –> new neighbor swing, but wanted a single progression. (This variation has a Nevada twirl instead–just a California twirl that starts with the lark on the right/raven on the left.) First called at Mt. Airy in May \'16.',
+      notes: 'written winter \'16 as an alternative to Chris Ricciotti’s "Greenfield Petronella"; I wanted to preserve the balance-y feel of the dance and the CA twirl –> new neighbor swing, but wanted a single progression. (This variation has a Nevada twirl instead–just a California twirl that starts with the lark on the right/robin on the left.) First called at Mt. Airy in May \'16.',
       date_written: '201611',
       blurb: 'lots of ring balances, partner twirl into new neighbor swing',
       video_link: '',
       choreo: {
         a1: [
           'balance the ring and spin right',
-          'balance the ring and lark roll neighbor raven away (with a half-sashay)'
+          'balance the ring and lark roll neighbor robin away (with a half-sashay)'
         ],
         a2: [
           'balance the ring and Nevada twirl partner (to face new Ns)',
           'swing this new N'
         ],
         b1: [
-          'ravens chain (to P)',
-          'half hey (ravens passing R)',
+          'robins chain (to P)',
+          'half hey (robins passing R)',
         ],
         b2: [
           'partner balance and swing'
@@ -246,15 +246,15 @@ $(function() {
       blurb: 'a disorientintly smooth dance with double-shadow interaction and rollaway into a swing',
       choreo: {
         a1: [
-          'ravens chain across (to N)',
-          '(w/ N) promenade across (to raven\'s home side)',
+          'robins chain across (to N)',
+          '(w/ N) promenade across (to robin\'s home side)',
         ],
         a2: [
-          'circle R 3/4 and ravens roll partner away',
-          'ravens chain on L diagonal (to next N)',
+          'circle R 3/4 and robins roll partner away',
+          'robins chain on L diagonal (to next N)',
         ],
         b1: [
-          'ravens chain on R diagonal (to shadow #2)',
+          'robins chain on R diagonal (to shadow #2)',
           'circle L 1x with shadow #1 (turn away from the one you just chained with)',
         ],
         b2: [
@@ -308,7 +308,7 @@ $(function() {
         ],
         a2: [
           'long lines forward and back',
-          'ravens chain (to N)',
+          'robins chain (to N)',
         ],
         b1: [
           'balance the ring and spin right (2x)',
@@ -358,11 +358,11 @@ $(function() {
       video_link: 'https://www.youtube.com/watch?v=Gj1FlDrlbB8',
       choreo: {
         a1: [
-          'ravens chain to neighbor',
-          'mad robin, ravens in front first (i.e. CCW)',
+          'robins chain to neighbor',
+          'mad robin, robins in front first (i.e. CCW)',
         ],
         a2: [
-          'ravens pass R to start a 3/4 hey (LR, PL, GR, NL, LR, PL)',
+          'robins pass R to start a 3/4 hey (LR, PL, GR, NL, LR, PL)',
           'when larks meet in the middle for the second time, walk-around R 1x',
         ],
         b1: [
@@ -380,7 +380,7 @@ $(function() {
       formation: 'becket R',
       difficulty: 'advanced',
       starts: '',
-      notes: 'For best results, don\'t clap after the second Petronella spin -- just keep spinning into the new neighbor seesaw. (To line up with next neighbor, ravens spin wide/larks stop a little short). Written March 2019 as a wedding gift for the utterly delightful Michal Richardson and Josh Marantz (so that Michal could spin as much as possible).',
+      notes: 'For best results, don\'t clap after the second Petronella spin -- just keep spinning into the new neighbor seesaw. (To line up with next neighbor, robins spin wide/larks stop a little short). Written March 2019 as a wedding gift for the utterly delightful Michal Richardson and Josh Marantz (so that Michal could spin as much as possible).',
       date_written: '20190329',
       blurb: 'Petronellas and lots of spinning',
       video_link: '',
@@ -418,8 +418,8 @@ $(function() {
           '(new) neighbor swing',
         ],
         a2: [
-          'ravens chain (to P)',
-          'half hey (ravens pass R)',
+          'robins chain (to P)',
+          'half hey (robins pass R)',
         ],
         b1: [
           'partner balance and swing',
@@ -437,7 +437,7 @@ $(function() {
       formation: 'becket R',
       difficulty: 'advanced',
       starts: '',
-      notes: 'at beginning, shadow is beyond your partner. Depending on tune bounciness, can call B2 as either balance and swing or walk-around and swing (or leave it as dancers\' choice). Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., raven on the left, lark on the right). Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance.',
+      notes: 'at beginning, shadow is beyond your partner. Depending on tune bounciness, can call B2 as either balance and swing or walk-around and swing (or leave it as dancers\' choice). Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., robin on the left, lark on the right). Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance.',
       date_written: '201507',
       blurb: 'stompy fun; Petronella turns (incl. Petronella turn to swing a new N) and a little shadow time',
       video_link: '',
@@ -450,7 +450,7 @@ $(function() {
           'balance the ring and spin right (2x)',
         ],
         b1: [
-          'balance ring and larks roll neighbor raven away with a half-sashay',
+          'balance ring and larks roll neighbor robin away with a half-sashay',
           'larks pull by R (2), allemande shadow L 1x-ish (6)',
         ],
         b2: [
@@ -464,7 +464,7 @@ $(function() {
       formation: 'improper',
       difficulty: 'expert',
       starts: '',
-      notes: 'Active roles alternate; directions in brackets are for [ ravens / larks ] active, respectively. In the transition into CC, one of the actives will have an awkward hand transition – it’s up to the neighbor gating them to pass their right hand into the allemande. In CC, one of your corners is your partner, don’t be alarmed. C2 chain is always done by the actives (by the hand they\'re used to chaining by: RH for ravens, LH for larks).',
+      notes: 'Active roles alternate; directions in brackets are for [ robins / larks ] active, respectively. In the transition into CC, one of the actives will have an awkward hand transition – it’s up to the neighbor gating them to pass their right hand into the allemande. In CC, one of your corners is your partner, don’t be alarmed. C2 chain is always done by the actives (by the hand they\'re used to chaining by: RH for robins, LH for larks).',
       date_written: '201809', // originally Fall 2017
       blurb: 'AABBCC dance with same-role contra corners',
       video_link: '',
@@ -473,11 +473,11 @@ $(function() {
           'neighbor balance and swing, end facing down the hall',
         ],
         a2: [
-          'down the hall four in line, [ right / left ] side turn as couple/other side turn alone (puts the [ ravens / larks ] (actives) in the middle)',
-          'come back, [ larks / ravens ] (on the outside) gate their neighbor up and around to face across'
+          'down the hall four in line, [ right / left ] side turn as couple/other side turn alone (puts the [ robins / larks ] (actives) in the middle)',
+          'come back, [ larks / robins ] (on the outside) gate their neighbor up and around to face across'
         ],
         b1: [
-          '[ ravens / larks ] turn same role contra-corners',
+          '[ robins / larks ] turn same role contra-corners',
         ],
         b2: [
           'same role balance and swing',
@@ -486,7 +486,7 @@ $(function() {
           '(roll out of swing for) partner balance and swing',
         ],
         c2: [
-          '[ ravens / larks ] [ RH / LH ] chain across',
+          '[ robins / larks ] [ RH / LH ] chain across',
           '[ left / right ] hand star 1x to new neighbors',
         ]
       }
@@ -507,14 +507,14 @@ $(function() {
           'larks LH chain (to N)',
         ],
         a2: [
-          'full hey (larks pass L) and ravens ricochet',
+          'full hey (larks pass L) and robins ricochet',
         ],
         b1: [
           'P walk-around and swing',
         ],
         b2: [
           'promenade across',
-          'left-hand star 1x and walk along the set (ravens in the lead) to progress',
+          'left-hand star 1x and walk along the set (robins in the lead) to progress',
         ]
       }
     },
@@ -535,7 +535,7 @@ $(function() {
           'neighbor swing',
         ],
         a2: [
-          'ravens allemande R 1 1/2',
+          'robins allemande R 1 1/2',
           'partner swing',
         ],
         b1: [
@@ -564,7 +564,7 @@ $(function() {
           'neighbor swing',
         ],
         a2: [
-          'ravens chain to partner',
+          'robins chain to partner',
           'left-hand star 1x',
         ],
         b1: [
@@ -595,8 +595,8 @@ $(function() {
           'P swing',
         ],
         b1: [
-          'ravens cross (passing R), N walk-around L 1x',
-          'ravens chain (to P)',
+          'robins cross (passing R), N walk-around L 1x',
+          'robins chain (to P)',
         ],
         b2: [
           'promenade across (w/ P)',
@@ -646,7 +646,7 @@ $(function() {
         ],
         a2: [
           'mad robin (larks in front first)',
-          '5/8 hey (larks L, PR, ravens L, NR, larks L)',
+          '5/8 hey (larks L, PR, robins L, NR, larks L)',
         ],
         b1: [
           'P walk-around and swing',
@@ -669,7 +669,7 @@ $(function() {
       video_link: '',
       choreo: {
         a1: [
-          'ravens cross the set (by R sh.) to swing neighbor'
+          'robins cross the set (by R sh.) to swing neighbor'
         ],
         a2: [
           'circle L all the way (8)',
@@ -678,8 +678,8 @@ $(function() {
         ],
         b1: [
           '(with new neighbors) circle R 1/2 (4)',
-          '(on the side) ravens roll their neighbor away (4)',
-          'ravens allemande R 1 1/2'
+          '(on the side) robins roll their neighbor away (4)',
+          'robins allemande R 1 1/2'
         ],
         b2: [
           'partner balance and swing'
