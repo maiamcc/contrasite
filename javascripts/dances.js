@@ -122,7 +122,7 @@ $(function() {
     }
   */
 
-  var dances = [
+  var dances_raw = [
     {
       title: 'Barack Me, Obamadeus',
       formation: 'improper',
@@ -714,6 +714,10 @@ $(function() {
       }
     },
   ];
+
+  // NB: this sort function doesn't account for leading "a" / "the". But that's
+  //     not a problem until I write a dance with that in the title whee!
+  var dances = dances_raw.sort((a,b) => (a.title > b.title) ? 1 : ((b.title > a.title) ? -1 : 0));
 
   insert_blurbs(dances);
   insert_dances(dances);
