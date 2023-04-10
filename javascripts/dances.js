@@ -237,6 +237,7 @@ $(function() {
 
     {
       title: 'Happy Jew Queer',
+      hide: true,
       formation: 'becket L, 2x prog.',
       difficulty: 'expert',
       starts: '',
