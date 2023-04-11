@@ -2,6 +2,9 @@ steps:
   - id: build-image
     name: 'gcr.io/cloud-builders/docker'
     args: [ 'build', '-t', 'gcr.io/$PROJECT_ID/maiamcc-contrasite:$COMMIT_SHA', '-f', 'cloudbuild/Dockerfile', '.']
+    env:
+      - 'BUILDKIT_PROGRESS=plain'
+      - 'DOCKER_BUILDKIT=1'
 
   - id: push-image
     name: 'gcr.io/cloud-builders/docker'
