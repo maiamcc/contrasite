@@ -27,7 +27,7 @@ categories: programs
 + [Nonsense calls] **A Dance for Dan** (Bill Olson) -- box the gnat > hey > swing
 + [Asking people for things] **Neighbor, Neighbor On the Wall** (Maia McCormick) -- 2x swings with same N
 + [Twirl communication] **Apogee** (Chris Page) -- symmetrical chain > allemande/orbit > swing dance
-+ [Pause and debrief] **Trip to Saratoga** (Ryan Carollo) -- pousette > facing star, real slick
++ [Pause and debrief] **Trip to Saratoga** (Ryan Carollo) -- poussette > facing star, real slick
 + [Band-led dance] **Tica Tica Timing** (Dean Snipes) -- quintessential petronella dance
 
 ### Saturday evening
@@ -53,7 +53,7 @@ categories: programs
 + **Winter in Summerland** (James Hutson & Jeff Spero) -- pass the ocean, walk fwd. to start hey
 
 ### Sunday afternoon
-+ **Cupid’s Clout** (Susan Petrick) -- pousette > hey
++ **Cupid’s Clout** (Susan Petrick) -- poussette > hey
 + **Turn Everyone** (Al Olson) -- actives look L to join left-hand star, turn contracorners up/down
 + **Ellie’s Pumpkin Show** (Bill Olson) -- wavy line of (larks/ravens), walk forward to walk around P 3/4 (the super groovy one where + the band was ROCKING Summertime)
 + **The Zen of Dance** (Chris Page) -- square through 3 (no balance) > R/L through (+ The Lion Sleeps Tonight)

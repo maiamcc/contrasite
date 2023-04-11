@@ -28,7 +28,7 @@ categories: programs
   + [**Barack Me, Obamadeus**](https://contra.maiamccormick.com/dances.html#barackmeobamadeus) (Maia McCormick) -- hey-like passing on the sides, prom. across > circle R
   + **Becky’s Brouhaha** (Rhiannon Giddens) -- visit previous neighbor
   + **Return 2 Sender** (Bob Isaacs) -- full hey ending in box the gnat
-+ [**Violet Ice**](https://contra.maiamccormick.com/dances.html#violetice) (Maia McCormick) -- pousette, mad robin, lots of eye contact with partner
++ [**Violet Ice**](https://contra.maiamccormick.com/dances.html#violetice) (Maia McCormick) -- poussette, mad robin, lots of eye contact with partner
 + [**Pink Martini**](https://contra.maiamccormick.com/dances.html#pinkmartini) (Maia McCormick) -- petronella to swing someone new, petronellas forever, allemande shadow, find P
 + [**Out of Circulation**](https://chrispagecontra.awardspace.us/dances/dlist2.htm#out-of-circulation) (Chris Page) -- box circulate to a full hey
 + [**Ellie’s Pumpkin Show**](https://www.billolsondance.com/newdances.html) (Bill Olson) -- wavy line of (larks/ravens), walk forward to walk around P
@@ -43,7 +43,7 @@ categories: programs
 
 ### Sunday afternoon
 + [**Playground Stomp**](https://contradances.tumblr.com/post/117812007820/playground-stomp) (Ron T. Blechner) -- Rory O'Moore and box circulate
-+ **Cupid’s Clout** (Susan Petrick) -– pousette > hey
++ **Cupid’s Clout** (Susan Petrick) -– poussette > hey
 + **Robins on a Wire** (Will Mentor) -– mad robin > wavy line of (larks/ravens); ravens cross set and partner follow
 + **Hume Fogg Reel** (Susan Kevra) -– asymmetrical allemandes (4/8/4)
 
