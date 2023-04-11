@@ -8,7 +8,6 @@ footer: false
 description: "Contra choreography by Maia McCormick"
 sidebar: false
 ---
-<script src="javascripts/dances.js"></script>
 As a choreographer, I strive to write dances that are both compelling and idiomatic--the coolest dance in the world isn't worth anything if it doesn't flow well enough for people to get the hang of it.
 
 Here are a handful of dances that I've written, with more always on the way. I know at least a few of these have made it into others' collections, and been called as far afield as California and Alaska, so that's pretty cool! Feedback is always welcome (as are requests!)--feel free to [drop me a line](/contact.html).
