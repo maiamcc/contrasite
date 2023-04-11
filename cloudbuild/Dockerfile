@@ -1,39 +1,55 @@
-## -*- docker-image-name: "contrasite" -*-
+### -*- docker-image-name: "contrasite"
 
-FROM debian:testing-slim
 
-MAINTAINER Zachary Elliott <contact@zell.io>
+ARG debian_version='bullseye-slim'
+ARG nginx_version='mainline-alpine'
+ARG rbenv_version='1.2.0'
+ARG ruby_build_version='20230330'
+ARG ruby_version='3.1.2'
 
-RUN apt-get update && \
-    apt-get install -y nginx rsyslog ruby build-essential ruby-dev && \
-    gem install --no-document bundler && \
-    useradd --home-dir /var/lib/builder --user-group --create-home --system --uid 999 --shell /bin/false builder
 
-ADD . /usr/src/site
+FROM debian:${debian_version} AS ruby-source
 
-RUN chown -R builder:builder /var/lib/builder /usr/src/site
+RUN apt-get update
+RUN apt-get install --no-install-recommends --yes curl ca-certificates clang make perl libz-dev
 
-USER builder
-WORKDIR /usr/src/site
+ARG ruby_build_version
+ADD "https://github.com/rbenv/ruby-build/archive/refs/tags/v${ruby_build_version}.tar.gz" /usr/local/src/ruby-build.tar.gz
+RUN tar xzf /usr/local/src/ruby-build.tar.gz -C /usr/local/src
+RUN "/usr/local/src/ruby-build-${ruby_build_version}/install.sh"
 
-RUN cd /usr/src/site && \
-    bundle config set path 'vendor/bundle' && \
-    bundle config set with 'development' && \
-    bundle install && \
-    bundle exec jekyll build
+ENV \
+    TERM='xterm' \
+    DEBIAN_FRONTEND='noninteractive' \
+    CC=clang \
+    CXX=clang++
 
-USER root
-WORKDIR /
+ARG ruby_version
+RUN ruby-build "${ruby_version}" "/opt/ruby/${ruby_version}"
 
-RUN mv /usr/src/site/_site /srv/http && \
-    mv /usr/src/site/cloudbuild/nginx.conf /etc/nginx/nginx.conf && \
-    mv /usr/src/site/cloudbuild/entry-point.sh /usr/local/sbin/entry-point.sh && \
-    chown -R www-data:www-data /srv/http && \
-    chmod -R uoga-w /srv/http && \
-    rm -R /usr/src/site && \
-    apt-get -y purge ruby build-essential ruby-dev && \
-    apt-get -y autoremove
+ENV PATH="/opt/ruby/${ruby_version}/bin:$PATH"
 
-EXPOSE 80
 
-ENTRYPOINT [ "/usr/local/sbin/entry-point.sh" ]
+FROM ruby-source AS build
+
+ADD Gemfile Gemfile.lock /usr/local/src/contrasite/
+
+WORKDIR /usr/local/src/contrasite
+
+RUN bundle config set path 'vendor/bundle'
+RUN bundle config set with 'development'
+RUN bundle install
+
+ADD . .
+
+RUN bundle exec jekyll build
+
+RUN cd _site; \
+    find . -type f -exec install -D '{}' '/image-root/usr/share/nginx/html/{}' \;
+
+RUN install -D cloudbuild/nginx.conf /image-root/etc/nginx/conf.d/contrasite.conf
+
+
+FROM nginx:${nginx_version} AS image
+
+COPY --from=build /image-root/ /
