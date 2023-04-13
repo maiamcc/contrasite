@@ -13,10 +13,13 @@ footer: true
 <a id="past"></a>
 <h3 class="horizline">Dances/Events Called (selected)</h3>
 
-* [Youth Dance Weekend](//youthdanceweekend.org)
-* [Dawn Dance](//dawndance.org/)
-* [Contracopia](//www.thursdaycontra.com/contracopia/)
-* [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/)
+* [Queer Contra Dance Camp](//www.queercontradance.org/queercamp.html) (Aptos, CA)
+* [ESC Week at Pinewoods](//www.facebook.com/ESCPinewoods/) (Plymouth, MA)
+* [Contrashock](//contrashock.org/) (New York, NY)
+* [Youth Dance Weekend](//youthdanceweekend.org) (Weston, VT)
+* [Dawn Dance](//dawndance.org/) (Brattleboro, VT)
+* [Contracopia](//www.thursdaycontra.com/contracopia/) (Philadelphia, PA)
+* [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/) (Woodstock Valley, CT)
 * [The NEFFA Festival](//www.neffa.org/What_is_Festival.html) (Mansfield, MA)
 * [Concord Scout House (Thursday)](//www.neffa.org/Thurs.html) (Concord, MA)
 * [Concord Scout House (Monday)](//mondaycontras.com/) (Concord, MA)

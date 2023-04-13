@@ -8,7 +8,7 @@ sidebar: false
 ---
 I am a contradance caller and [choreographer](/dances.html) based in New York City. [See where I'm calling next!](#calendar)
 
-I call around the Northeast and beyond, at festivals, weekends, and regular dances alike (including, lately: [Youth Dance Weekend](//youthdanceweekend.org), [Dawn Dance](//dawndance.org/), [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/lcfd-spring-dance-camp/), and [the NEFFA festival](//www.neffa.org/What_is_Festival.html)). (You can find a selected gig history [here](/gigs.html#past).)
+I call around the Northeast and beyond, at festivals, dance camps/weekends, and regular dances alike (including, to name a few: [Queer Contra Dance Camp](//www.queercontradance.org/queercamp.html), [ESC Week at Pinewoods](//www.facebook.com/ESCPinewoods/), [Youth Dance Weekend](//youthdanceweekend.org), [Dawn Dance](//dawndance.org/), [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/lcfd-spring-dance-camp/), and [the NEFFA festival](//www.neffa.org/What_is_Festival.html)). (You can find a selected gig history [here](/gigs.html#past).)
 
 As a choreographer, I strive to write dances that are both compelling and idiomatic. My dances have made it into some other people's collections, and have been called as far afield as California and Alaska, so that's pretty rad! Check them out [on my choreo page](/dances.html).
 
