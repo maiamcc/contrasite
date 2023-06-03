@@ -37,7 +37,7 @@ I think Beth's tactic is especially effective because of its reminder of the com
 
 ## Helping From the Floor
 
-So what can you do as a dancer to help your caller out, make sure they never have to pull the Bell Molaro Maneuver, and keep the dance more enjoyable for everyone? I’d advise against literally shushing people---loud angry "shh's" may bet the job done, but they seldom go over well, and dampen the atmosphere of the whole hall. Dancers get just as defensive when being called out by other dancers as when being called out by the caller, so keep it light and polite if you’re trying to help quiet people down.
+So what can you do as a dancer to help your caller out, make sure they never have to pull the Beth Molaro Maneuver, and keep the dance more enjoyable for everyone? I’d advise against literally shushing people---loud angry "shh's" may bet the job done, but they seldom go over well, and dampen the atmosphere of the whole hall. Dancers get just as defensive when being called out by other dancers as when being called out by the caller, so keep it light and polite if you’re trying to help quiet people down.
 
 I tend to not use words at all in this situation, to avoid adding to the clamor. Instead, I’ll very deliberately take hands-four and turn my body towards the caller; smile politely but not respond when people try to chat at me; and catch the eye of others in my foursome with a nod towards the top of the hall to redirect their attention. Just by setting a good example---being quiet and doing what you’re supposed to---you’re a force for good on the dance floor, and I think I speak for all callers when I say, thank you for your service.
 
