@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Closing Contras"
 date: 2023-07-05 12:10
 comments: true
