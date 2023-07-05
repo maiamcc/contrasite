@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "My Go-To Dances"
 date: 2022-10-16 21:08
 comments: true
