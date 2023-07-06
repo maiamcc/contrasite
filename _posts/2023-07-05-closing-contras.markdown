@@ -54,4 +54,4 @@ Those are some of my go-to closers; what are yours?
 
 [^5]: I would personally only do this if the band were _especially_ hot. All dance bands work hard and deserve the love and appreciation of their communities, but interrupting the end of the last dance for 20 seconds of cheering feels excessive to me unless the band has really gone above and beyond. IMHO this move is most appropriate at the end of a weekend/other Big Dance Event™, or _maybe_ at the end of a regular dance series evening if the band is really spectacular; I would be particularly confused to see it employed at the end of a session in the middle of a weekend/event, where there’s a lot more of this same band in store for the dancers.
 
-[^6]: I collected this dance from Fannie Marr, who closed out Contracopia 2016(??) with it. This was my closer at Queer Contra Dance Camp ‘23, and Lisa Greenleaf’s at Beantown Stomp ‘23; what more recommendation do you need?!
+[^6]: I collected this dance from Frannie Marr, who closed out Contracopia 2016(??) with it. This was my closer at Queer Contra Dance Camp ‘23, and Lisa Greenleaf’s at Beantown Stomp ‘23; what more recommendation do you need?!
