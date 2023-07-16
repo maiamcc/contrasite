@@ -10,9 +10,9 @@ I would say I'm alllmost recovered from the all-nighter I pulled this weekend ca
 <!--more-->
 
 1. [50/50](https://dancevideos.childgrove.org/contra/contra-modern/545-50-50-by-bob-isaacs-becket) --- Bob Isaacs
-2. Fiddler’s Fling --- Cary Ravitz (Will Mentor var.)
-3. [Maliza’s Magical Mystery Motion](https://www.dance.ravitz.us/#mmm) --- Cary Ravitz
-4. [Rollin’ to the Grey Eagle](https://dancevideos.childgrove.org/contra/contra-modern/236-rollin-to-the-grey-eagle) --- Hank Morris
+2. Fiddler's Fling --- Cary Ravitz (Will Mentor var.)
+3. [Maliza's Magical Mystery Motion](https://www.dance.ravitz.us/#mmm) --- Cary Ravitz
+4. [Rollin' to the Grey Eagle](https://dancevideos.childgrove.org/contra/contra-modern/236-rollin-to-the-grey-eagle) --- Hank Morris
 5. [Read Between the Lines](https://www.youtube.com/watch?v=sP3_4HZEUWY) --- Bob Isaacs
 6. [The Young Adult Rose](https://lists.sharedweight.net/pipermail/callers-sharedweight.net/2016-March/001399.html) --- David Kaynor
 7. [Treasure of the Soda Bar](https://contra.maiamccormick.com/dances.html#treasureofthesodabar) --- Maia McCormick

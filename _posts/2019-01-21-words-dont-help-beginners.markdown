@@ -6,7 +6,7 @@ comments: true
 description: "Prompting struggling dancers with your words helps less than you think!"
 categories: teaching beginners
 ---
-I've been contradancing for over eight years, and can jump into even the most complex and falling-apart of contras and still have some idea of what’s going on. But last summer at [English-Scottish-Contra Week](https://rscdsboston.org/pinewoods-esc.html) at Pinewoods, I tried Scottish Country Dance for the first time and I had an experience I haven't had for quite a while: I was completely at sea in a set dance.
+I've been contradancing for over eight years, and can jump into even the most complex and falling-apart of contras and still have some idea of what's going on. But last summer at [English-Scottish-Contra Week](https://rscdsboston.org/pinewoods-esc.html) at Pinewoods, I tried Scottish Country Dance for the first time and I had an experience I haven't had for quite a while: I was completely at sea in a set dance.
 
 <!-- more -->
 
@@ -14,7 +14,7 @@ Scottish isn't too different from contra and English, and I got along okay when 
 
 Namely: almost universally, _prompting me with the name of a figure was useless_. And that's me, an experienced dancer. Given a moment to think, I know exactly what you mean when you say "turn over your right shoulder"; however, in the thick of the dance, that moment is a moment too many.
 
-If you're an experienced contradancer, you probably respond automatically to move names at this point. When someone calls a "ladies’ chain", you probably stick out your right hand without a second thought. However, a newer dancer, even if they intellectually know what a "ladies' chain" is, doesn't have that automatic response; they're still translating move names to actions in their head, and in the middle of a dance, that translation is just not fast enough yet.
+If you're an experienced contradancer, you probably respond automatically to move names at this point. When someone calls a "ladies' chain", you probably stick out your right hand without a second thought. However, a newer dancer, even if they intellectually know what a "ladies' chain" is, doesn't have that automatic response; they're still translating move names to actions in their head, and in the middle of a dance, that translation is just not fast enough yet.
 
 So how to help that poor new dancer who doesn't know what move is coming next, if you can't just tell them "chain across"? You can use simpler words that are more descriptive than jargony--for instance, "right hand" or "that way!" accompanied by frantic pointing.
 
@@ -24,4 +24,4 @@ This was certainly my experience with Pinewoods Reel. Scottish terminology was s
 
 <div class="credit">Thanks to Clara Stefanov-Wagner for edits and insights!</div>
 
-[^1]: Scottish, like contra or ECD, has a set vocabulary of moves, but unlike contra or ECD, these moves aren’t prompted during the dance, and you very seldom get a walkthrough beforehand. Instead, you get a _talkthrough_ ("do X, then look to your left and do Y, and find your partner and Z"), in which the teacher explains the sequence of moves, and you just need to visualize and internalize them.
+[^1]: Scottish, like contra or ECD, has a set vocabulary of moves, but unlike contra or ECD, these moves aren't prompted during the dance, and you very seldom get a walkthrough beforehand. Instead, you get a _talkthrough_ ("do X, then look to your left and do Y, and find your partner and Z"), in which the teacher explains the sequence of moves, and you just need to visualize and internalize them.

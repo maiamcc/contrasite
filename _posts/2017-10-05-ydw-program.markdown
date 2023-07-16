@@ -39,13 +39,13 @@ categories: programs
 + **Shadowy Affaire** (Bob Isaacs) -- lose your partner, square through
 + **Path to the Past** (Chris Page) -- same-role R/L through
 + **The Easily Led Lad** (Jim Hemphill) -- facing star
-+ **Sue’s Cruise** (Rick Mohr) -- real smooth and flowing; hey > P walk around > larks lead circle R; 1/4 hey > P swing
++ **Sue's Cruise** (Rick Mohr) -- real smooth and flowing; hey > P walk around > larks lead circle R; 1/4 hey > P swing
 + **Hume Fogg Reel** (Susan Kevra) -- asymmetrical allemandes (4/8/4)
 
 ### Sunday morning
 + No-walk medley:
   + **Barack Me, Obamadeus** (Maia McCormick) -- hey-like passing on the sides, prom. across > circle R
-  + **Rockin’ Robin** (Rick Mohr) -- full hey, zig-zag to circle R with new N's
+  + **Rockin' Robin** (Rick Mohr) -- full hey, zig-zag to circle R with new N's
 + **High Seas** (Diane Silver) -- Rory slide to swing N; Rory slide and larks pass two to allemande. (Also, "yo-ho!")
 + **Scooter** (Tom Hinds) -- ravens chain and larks scoot R to courtesy turn someone new
 + **Gimmie the Good Stuff** (Maia McCormick) -- 2x prog., slice L with N, swing > swing transition
@@ -53,9 +53,9 @@ categories: programs
 + **Winter in Summerland** (James Hutson & Jeff Spero) -- pass the ocean, walk fwd. to start hey
 
 ### Sunday afternoon
-+ **Cupid’s Clout** (Susan Petrick) -- poussette > hey
++ **Cupid's Clout** (Susan Petrick) -- poussette > hey
 + **Turn Everyone** (Al Olson) -- actives look L to join left-hand star, turn contracorners up/down
-+ **Ellie’s Pumpkin Show** (Bill Olson) -- wavy line of (larks/ravens), walk forward to walk around P 3/4 (the super groovy one where + the band was ROCKING Summertime)
++ **Ellie's Pumpkin Show** (Bill Olson) -- wavy line of (larks/ravens), walk forward to walk around P 3/4 (the super groovy one where + the band was ROCKING Summertime)
 + **The Zen of Dance** (Chris Page) -- square through 3 (no balance) > R/L through (+ The Lion Sleeps Tonight)
 + **Astral Navigation** (Ron T. Blechner) -- box circulate & Rory O'Moore
 
