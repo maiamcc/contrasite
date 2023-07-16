@@ -6,5 +6,5 @@ comments: true
 sharing: true
 footer: true
 ---
-<meta http-equiv="refresh" content="0; url=/blog/2017/10/05/ydw-program/">
-<link rel="canonical" href="/blog/2017/10/05/ydw-program/" />
+<meta http-equiv="refresh" content="0; url=/blog/2017/10/05/ydw-program.html">
+<link rel="canonical" href="/blog/2017/10/05/ydw-program.html" />
