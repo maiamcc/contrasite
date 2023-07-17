@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://contra.maiamccormick.com" # the base hostname & protocol for your site, e.g. http://example.com
 subscribe_rss: /atom.xml
 twitter_username: maia_mcc
+author: Maia McCormick
 
 # Build settings
 theme: minima

@@ -3,13 +3,13 @@ title: Feed
 layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[{{ site.title }}]]></title>
-  <link href="https://{{ site.url }}/atom.xml" rel="self"/>
-  <link href="https://{{ site.url }}/"/>
+  <link href="{{ site.url }}/atom.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>https://{{ site.url }}/</id>
+  <id>{{ site.url }}/</id>
   <author>
     <name><![CDATA[{{ site.author | strip_html }}]]></name>
     {% if site.email %}<email><![CDATA[{{ site.email }}]]></email>{% endif %}
@@ -25,7 +25,7 @@ layout: null
     <link href="{{ site.url }}{{ post.url }}"/>
     {% endif%}
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>https://{{ site.url }}{{ post.id }}</id>
+    <id>{{ site.url }}{{ post.id }}</id>
     {% if post.external-url %}
       <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}<a rel="full-article" href="{{ post.url }}"><font size = "4">&#8629;</font></a>]]></content>
       {% else %}
