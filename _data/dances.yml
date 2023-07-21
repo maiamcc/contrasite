@@ -440,3 +440,25 @@
     b2:
       - larks allemande L 1 1/2
       - neighbor swing
+
+- title: Brooklyn Transfer
+  foo: barrrr
+  coauthor: "<a href=\"http://www.michaelkarchercalling.com/\" target=\"_blank\">Michael Karcher</a>"
+  formation: becket L
+  difficulty: accessible
+  notes: "Michael mashed up my dance <a href=\"#traindelay\">Train Delay</a> with Bob Isaac's <a href=\"https://www.ibiblio.org/contradance/thecallersbox/dance.php?id=10851\" target=\"_blank\">United We Dance</a> and premiered it at Brooklyn Contra when I happened to be in the crowd; I riffed on his riff to add the spin-and-catch-partner, and the result was this."
+  date_written: 202306
+  blurb: Mashup of a mashup; Rory O'Moore with a spin to catch partner and swing.
+  choreo:
+    a1:
+      - (slide left to) circle L 3/4
+      - neighbor swing
+    a2:
+      - long lines forward and back
+      - robins chain to partner
+    b1:
+      - left-hand star 1x and make long waves (LH with partner, RH with shadow)
+      - waves balance (R, L), slide R (past shadow)
+    b2:
+      - waves balance (L, R), slide L (past shadow)
+      - (catch partner) partner swing

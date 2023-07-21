@@ -38,7 +38,7 @@ A note on dance difficulties:
   {% for dance in dances %}
     {% if dance.hide != true %}
       <div class="dance" id="{{ dance.title | slugify | replace: '-', '' }}">
-        <h4>{{ dance.title }}{% if dance.fave %}*{% endif %} <em>({{ dance.formation}})
+        <h4>{{ dance.title }}{% if dance.fave %}*{% endif %}{% if dance.coauthor %} <em class="coauthor">with {{ dance.coauthor }}</em>{% endif %} <em>({{ dance.formation}})
           {% if dance.video_link %} [<a href="{{ dance.video_link }}" target="_blank">VIDEO</a>]{% endif %}
         </em></h4>
         {% if dance.starts %}
