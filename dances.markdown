@@ -53,7 +53,12 @@ A note on dance difficulties:
             {% endif %}
           {% endfor %}
         {% endfor %}
-        <p><em><strong>Notes</strong>: <span class="dance-notes">{{ dance.notes }}</span></em></p>
+        {% if dance.choreo_notes %}
+          <p><em><strong>Choreo Notes</strong>: <span class="dance-notes">{{ dance.choreo_notes }}</span></em></p>
+        {% endif %}
+        {% if dance.comp_notes %}
+          <p><em><strong>Composition Notes</strong>: <span class="dance-notes">{{ dance.comp_notes }}</span></em></p>
+        {% endif %}
       </div>
     {% endif %}
   {% endfor %}

@@ -2,7 +2,8 @@
   formation: becket L
   difficulty: accessible
   fave: true
-  notes: written on a stuck train to Princeton, NJ, late 2014, and first called March 2015 in Silver Spring, MD. In the second half of B1, pull by R at the start of the do-si-do for some extra momentum.
+  choreo_notes: In the second half of B1, pull by R at the start of the do-si-do for some extra momentum.
+  comp_notes: Written on a stuck train to Princeton, NJ, late 2014, and first called March 2015 in Silver Spring, MD.
   date_written: 201412
   blurb: an accessible and energetic shadow dance (also a good closer)
   video_link: https://www.youtube.com/watch?v=sMC13qcZzI8
@@ -23,7 +24,7 @@
   hide: true
   formation: becket L
   difficulty: advanced
-  notes: written May 2015, premiered at CDNY March 2016, B section rewritten and called at YDW '17. So named because this dance is full of fake-outs.
+  comp_notes: Written May 2015, premiered at CDNY March 2016, B section rewritten and called at YDW '17. So named because this dance is full of fake-outs.
   date_written: 201505
   blurb: smooth line-weaving dance with lots of fake-outs
   choreo:
@@ -43,7 +44,8 @@
 - title: Message from the Future
   formation: becket L
   difficulty: advanced
-  notes: "written summer 2014 (while I was on vacation in Europe and my sweetie at the time was in Australia–I believe the title was in reference to time differences?), first called January 2016 at the Downtown Amherst contradance. Teaching note: emphasize that the chain in A1 is to your neighbor (there’s a lot of circling and not-quite-square phrases and it’s useful to have that point of reference)."
+  choreo_notes: "When teaching, emphasize that the chain in A1 is to your neighbor (there’s a lot of circling and not-quite-square phrases and it’s useful to have that point of reference)."
+  comp_notes: Written summer 2014 (while I was on vacation in Europe and my sweetie at the time was in Australia–I believe the title was in reference to time differences?), first called January 2016 at the Downtown Amherst contradance.
   date_written: 201506
   blurb: lots of eye contact and flowing motion
   video_link: https://www.youtube.com/watch?v=Gj1FlDrlbB8
@@ -64,7 +66,8 @@
   formation: becket R
   difficulty: advanced
   fave: true
-  notes: "after B1 rollaway, introduce shadow as: \"larks, look at the lark you're dancing with. On one side of them is you partner; on the other side of them is your shadow.\" Depending on tune bounciness, can call B2 as either balance and swing or right shoulder 'round and swing (or leave it as dancers' choice). Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., robin on the left, lark on the right). Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance."
+  choreo_notes: "After B1 rollaway, introduce shadow as: \"larks, look at the lark you're dancing with. On one side of them is you partner; on the other side of them is your shadow.\" Depending on tune bounciness, can call B2 as either balance and swing or right shoulder 'round and swing (or leave it as dancers' choice). Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., robin on the left, lark on the right)."
+  comp_notes: Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance.
   date_written: 201507
   blurb: stompy fun; Petronella turns (incl. Petronella turn to swing a new N) and a little shadow time
   choreo:
@@ -83,9 +86,10 @@
   hide: true
   formation: becket L, 2x prog
   difficulty: expert
-  notes: "written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers. With the swing>swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you're waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right)."
+  choreo_notes: "With the swing-to-swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you're waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right)."
+  comp_notes: Written fall 2015 at The Good Stuff diner, beta tested by CDNY dancers.
   date_written: 201509
-  blurb: leave your partner; swing > swing transitions
+  blurb: leave your partner; swing-to-swing transitions
   choreo:
       a1:
         - circle L 3/4
@@ -103,7 +107,8 @@
 - title: Happy Jew Queer
   formation: becket L, 2x prog.
   difficulty: expert
-  notes: "written for A.Z. Madonna around New Years 2016 because they wanted a dance with a rollaway into a swing, revised summer 2023. All rollaways include a half-sashay. In teaching, emphasize that the B1 circle is NOT with the one you chained to (this is the most counter-intuitive part of the dance). At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. The dance starts again with new neighbors directly across."
+  choreo_notes: "All rollaways include a half-sashay. In teaching, emphasize that the B1 circle is NOT with the one you chained to (this is the most counter-intuitive part of the dance). At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. The dance starts again with new neighbors directly across."
+  comp_notes: "Written for A.Z. Madonna around New Years 2016 because they wanted a dance with a rollaway into a swing; revised summer 2023."
   date_written: 202307
   blurb: a lost-and-found dance with double-shadow interaction and rollaway into a swing
   choreo:
@@ -126,7 +131,7 @@
   formation: improper
   difficulty: expert
   starts: Starts with a wavy line of larks in the center
-  notes: Written for Michal Richardson, a nod to the state of the NYC contradance scene. The constraints given were \"lots of action for the larks, as confusing and counter-intuitive as possible while still being a good dance.\"
+  comp_notes: Written for Michal Richardson, a nod to the state of the NYC contradance scene. The constraints given were \"lots of action for the larks, as confusing and counter-intuitive as possible while still being a good dance.\"
   date_written: 201602
   blurb: larks chaining by ALL THE HANDS!
   choreo:
@@ -147,7 +152,7 @@
   fave: true
   formation: improper
   difficulty: accessible
-  notes: "A1 is from James Hutson’s \"Treasure of the Sierra Madre\". This dance was tested at Soda Bar in Brooklyn, hence the title, and first called at Glen Echo FND in August 2016."
+  comp_notes: "A1 is from James Hutson’s \"Treasure of the Sierra Madre\". This dance was tested at Soda Bar in Brooklyn, hence the title, and first called at Glen Echo FND in August 2016."
   date_written: 201606
   blurb: square through dance with A1 taken from James Hutson's Treasure of the Sierra Madre
   video_link: https://www.youtube.com/watch?v=17BOcvKaQzA
@@ -167,7 +172,8 @@
 - title: Life in Boxes
   formation: improper
   difficulty: advanced
-  notes: written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17. N1 = current neighbor (start the dance with them), N0 = previous (the one you swing), N-1 = previous previous neighbor. Hardest part is the off-beat balance and box; warn the dancers and/or ask the band for an extra kick on the balance at the end of A1.
+  choreo_notes: N1 = current neighbor (start the dance with them), N0 = previous (the one you swing), N-1 = previous previous neighbor. Hardest part is the off-beat balance and box; warn the dancers and/or ask the band for an extra kick on the balance at the end of A1.
+  comp_notes: Written summer ‘16 while packing up my life to move, first called at Concord Thursday Jan. ‘17.
   date_written: 201606
   blurb: visiting neighbors up and down the line; lots of gnat-boxing
   video_link: https://www.youtube.com/watch?v=Pdjr-8WMw4s
@@ -187,7 +193,8 @@
 - title: Gluten-Free Petronella
   formation: becket L
   difficulty: accessible
-  notes: "written winter '16 as an alternative to Chris Ricciotti’s \"Greenfield Petronella\"; I wanted to preserve the balance-y feel of the dance and the CA twirl –> new neighbor swing, but wanted a single progression. (This variation has a Nevada twirl instead—just a California twirl that starts with the lark on the right/robin on the left.) First called at Mt. Airy in May '16."
+  choreo_notes: A Nevada Twirl is just a California twirl that starts with the lark on the right/robin on the left.
+  comp_notes: "Written winter '16 as an alternative to Chris Ricciotti’s \"Greenfield Petronella\"; I wanted to preserve the balance-y feel of the dance and the CA twirl –> new neighbor swing, but wanted a single progression. First called at Mt. Airy in May '16."
   date_written: 201611
   blurb: lots of ring balances, partner twirl into new neighbor swing
   choreo:
@@ -206,7 +213,8 @@
 - title: Train to Trenton
   formation: improper
   difficulty: accessible
-  notes: written on (surprise) a train to Trenton (en route to Contracopia) fall ‘16, first called soon after at Princeton. Satisfying hey-like figure along the sides at end/beginning, a promenade that actually flows (b/c it comes out of a courtesy turn), and a promenade –> circle R transition. Promenade may take much less time than dancers are used to b/c of the momentum coming out of a courtesy turn, but this leaves time for a leisurely circle R and pass-through. Emphasize to dancers that the first move of B1 is a cross (no hands!) and NOT a chain.
+  choreo_notes: Promenade may take much less time than dancers are used to b/c of the momentum coming out of a courtesy turn, but this leaves time for a leisurely circle R and pass-through. Emphasize to dancers that the first move of B1 is a cross (no hands!) and NOT a chain.
+  comp_notes: Written on (surprise) a train to Trenton (en route to Contracopia) fall ‘16, first called soon after at Princeton.
   date_written: 201611
   blurb: slick, smooth, extremely flowy; promenade and circle R transitions that I actually feel good about
   choreo:
@@ -227,7 +235,8 @@
   formation: improper
   difficulty: accessible
   video_link: https://www.youtube.com/watch?v=UyHzqV_OHrU
-  notes: written January 2017, premiered shortly thereafter at Brooklyn Contra. I wanted a dance with a larks' right-hand chain to a neighbor that was otherwise dead easy, and this is what I came up with. (There are lots of great dances with a larks' right-hand chain to their partner, but chaining to a neighbor lets dancers practice the move with lots of different folks.) Note that the allemande in B2 is with your CURRENT neighbor, i.e. the one you starred with (this is the biggest point of confusion for experienced dancers used to looking for new neighbors out of a left-hand star).
+  choreo_notes: Note that the allemande in B2 is with your CURRENT neighbor, i.e. the one you starred with (this is the biggest point of confusion for experienced dancers used to looking for new neighbors out of a left-hand star).
+  comp_notes: Written January 2017, premiered shortly thereafter at Brooklyn Contra. I wanted a dance with a larks' right-hand chain to a neighbor that was otherwise dead easy, and this is what I came up with. (There are lots of great dances with a larks' right-hand chain to their partner, but chaining to a neighbor lets dancers practice the move with lots of different folks.)
   date_written: 201701
   blurb: larks' right-hand chain to N in an otherwise dead-easy dance
   choreo:
@@ -248,7 +257,7 @@
   formation: improper
   difficulty: accessible
   video_link: https://www.youtube.com/watch?v=JhykEguspeA
-  notes: Written for Brooklyn Contra on 8/4/17, which is Obama's birthday, hence the title. Smooth dance with a hey-like figure up/down the set and a satisfying promenade > circle right transition.
+  comp_notes: Written for Brooklyn Contra on 8/4/17, which is Obama's birthday, hence the title. Smooth dance with a hey-like figure up/down the set and a satisfying promenade > circle right transition.
   date_written: 201708
   blurb: smooth, hey-like figure up/down the set, satisfying promenade > circle right transition
   choreo:
@@ -267,7 +276,7 @@
   fave: true
   formation: improper
   difficulty: accessible
-  notes: Written for a workshop at YDW '17 to practice communication with neighbors.
+  comp_notes: Written for a workshop at YDW '17 to practice communication with neighbors.
   date_written: 201709
   video_link: https://www.youtube.com/watch?v=wsCOSdx1E9E
   blurb: two swings with same neighbor
@@ -288,7 +297,8 @@
   hidden: true
   formation: becket R
   difficulty: advanced
-  notes: "all rollaways include a half-sashay. Loosely inspired by Don Flaherty's \"Clipper\" and premiered at Brooklyn Contra on 12/15/17. The title is a reference to <a href=\"https://xkcd.com/1704/\">this xkcd</a>."
+  choreo_notes: "All rollaways include a half-sashay."
+  comp_notes: "Loosely inspired by Don Flaherty's \"Clipper\" and premiered at Brooklyn Contra on 12/15/17. The title is a reference to <a href=\"https://xkcd.com/1704/\">this xkcd</a>."
   date_written: 201712
   blurb: circles + rollaways flowing nicely together, with rolls for both roles
   choreo:
@@ -309,7 +319,8 @@
   formation: becket L
   difficulty: advanced
   fave: true
-  notes: "Timing in the A is mushy; both the mad robin and the poussette take about 6 counts, so the mad robin starts a little before A2, and the 5/8 hey finishes just about at the end of the A2. Encourage dancers to follow the movement rather than trying to fit it into the music (i.e. DON'T do the English dance thing of trying to make the moves fill the phrase), and use B1 to get everyone back together. This dance allows for almost constant eye contact with partner. Inspired by Will Mentor's \"Lavender Snow\", premiered at LCFD Spring Dance Camp 2018. The two-hand turn in B2 was a later addition, suggested by Shoshana Silverman (fall 2022)."
+  choreo_notes: "Timing in the A is mushy; both the mad robin and the poussette take about 6 counts, so the mad robin starts a little before A2, and the 5/8 hey finishes just about at the end of the A2. Encourage dancers to follow the movement rather than trying to fit it into the music (i.e. DON'T do the English dance thing of trying to make the moves fill the phrase), and use B1 to get everyone back together. This dance allows for almost constant eye contact with partner."
+  comp_notes: "Inspired by Will Mentor's \"Lavender Snow\", premiered at LCFD Spring Dance Camp 2018. The two-hand turn in B2 was a later addition, suggested by Shoshana Silverman (fall 2022)."
   date_written: 201805
   blurb: mad robin / poussette. Smooth and English-y, lots of eye contact with partner
   choreo:
@@ -329,7 +340,7 @@
 - title: Poly Wanna Corner?
   formation: improper
   difficulty: expert
-  notes: "Active roles alternate; directions in brackets are for [ robins / larks ] active, respectively. In the transition into CC, one of the actives will have an awkward hand transition; it's up to the neighbor gating them to pass their right hand into the allemande. In CC, one of your corners is your partner, don’t be alarmed. C2 chain is always done by the actives (by the hand they're used to chaining by: RH for robins, LH for larks)."
+  choreo_notes: "Active roles alternate; directions in brackets are for [ robins / larks ] active, respectively. In the transition into CC, one of the actives will have an awkward hand transition; it's up to the neighbor gating them to pass their right hand into the allemande. In CC, one of your corners is your partner, don’t be alarmed. C2 chain is always done by the actives (by the hand they're used to chaining by: RH for robins, LH for larks)."
   date_written: 201809
   blurb: AABBCC dance with same-role contra corners
   choreo:
@@ -351,7 +362,8 @@
 - title: "Star Trek: the Next Generation"
   formation: becket R
   difficulty: advanced
-  notes: "A loving re-imagination of Mike Richardson's <a href=\"https://www.cambridgefolk.org.uk/contra/dances/mike_richardson/star_trek.html\" target=\"_blank\">Star Trek</a>, premiered at Brooklyn Contra in March 2019. Before the B2 star, note direction of progression (i.e. to the RIGHT); dancers walk along the set single file in this direction."
+  choreo_notes: "Before the B2 star, note direction of progression (i.e. to the RIGHT); dancers walk along the set single file in this direction."
+  comp_notes: "A loving re-imagination of Mike Richardson's <a href=\"https://www.cambridgefolk.org.uk/contra/dances/mike_richardson/star_trek.html\" target=\"_blank\">Star Trek</a>, premiered at Brooklyn Contra in March 2019."
   date_written: 201812
   video_link: https://www.youtube.com/watch?v=UFcVDN-Aftw
   blurb: "Mike Richardson's <a href=\"https://www.cambridgefolk.org.uk/contra/dances/mike_richardson/star_trek.html\" target=\"_blank\">Star Trek</a>, re-imagined."
@@ -370,7 +382,7 @@
 - title: I'll Hold You In My Arms
   formation: improper
   difficulty: accessible
-  notes: "Written March 2019 to pair with DJ Flourish's mix <a href=\"https://www.mixcloud.com/DJ_Flourish/4-in-my-arms-mix/\">In My Arms</a> -- I wanted Petronellas in the B but needed a dance besides Tica Tica Timing."
+  comp_notes: "Written March 2019 to pair with DJ Flourish's mix <a href=\"https://www.mixcloud.com/DJ_Flourish/4-in-my-arms-mix/\">In My Arms</a>–I wanted Petronellas in the B but needed a dance besides Tica Tica Timing."
   date_written: 20190330
   blurb: easy Petronellas-in-the-B dance
   choreo:
@@ -388,7 +400,8 @@
 - title: Muppets and Mazels
   formation: becket R
   difficulty: advanced
-  notes: For best results, don't clap after the second Petronella spin -- just keep spinning into the new neighbor seesaw. (To line up with next neighbor, robins spin wide/larks stop a little short). Written March 2019 as a wedding gift for the utterly delightful Michal Richardson and Josh Marantz (so that Michal could spin as much as possible).
+  choreo_notes: For best results, don't clap after the second Petronella spin–just keep spinning into the new neighbor seesaw. (To line up with next neighbor, robins spin wide/larks stop a little short).
+  comp_notes: Written March 2019 as a wedding gift for the utterly delightful Michal Richardson and Josh Marantz (so that Michal could spin as much as possible).
   date_written: 20190329
   blurb: petronellas and lots of spinning
   choreo:
@@ -407,7 +420,7 @@
 - title: Not a Fever Dream
   formation: improper
   difficulty: accessible
-  notes: Written while half-napping in the car en route to Queer Contra Dance Camp 2023 and tested under the redwoods, and miraculously, it worked out of the box!
+  comp_notes: Written while half-napping in the car en route to Queer Contra Dance Camp 2023 and tested under the redwoods, and miraculously, it worked out of the box!
   date_written: 202304
   video_link: https://www.youtube.com/watch?v=PPbmQXYqM08
   blurb: simple larks left-hand chain dance with good flow
@@ -427,7 +440,7 @@
 - title: I Can't Believe It's Not Butter!
   formation: improper
   difficulty: accessible
-  notes: "It's basically \"Butter\" by Gene Hubert, only... not!"
+  comp_notes: "It's basically \"Butter\" by Gene Hubert, only... not!"
   date_written: 201808
   blurb: "what if Gene Hubert's \"Butter\" had a lark's right-hand chain instead?"
   choreo:
@@ -446,7 +459,7 @@
   coauthor: "<a href=\"http://www.michaelkarchercalling.com/\" target=\"_blank\">Michael Karcher</a>"
   formation: becket L
   difficulty: accessible
-  notes: "Michael mashed up my dance <a href=\"#traindelay\">Train Delay</a> with Bill Olson's <a href=\"https://www.billolsondance.com/amy.html\" target=\"_blank\">Dancing With Amy</a> and premiered it at Brooklyn Contra when I happened to be in the crowd; I riffed on his riff to add the spin-and-catch-partner, and the result was this."
+  comp_notes: "Michael mashed up my dance <a href=\"#traindelay\">Train Delay</a> with Bill Olson's <a href=\"https://www.billolsondance.com/amy.html\" target=\"_blank\">Dancing With Amy</a> and premiered it at Brooklyn Contra when I happened to be in the crowd; I riffed on his riff to add the spin-and-catch-partner, and the result was this."
   date_written: 202306
   blurb: mashup of a mashup; Rory O'Moore with a spin to catch partner and swing.
   choreo:
@@ -466,7 +479,7 @@
 - title: Gates of Irving
   formation: improper
   difficulty: accessible
-  notes: "Written at <a href=\"https://lindseydono.com/\" target=\"_blank\">Lindsey Dono</a>'s request for a robins left-hand chain dance that wasn't absurdly complex; tested outside a contradance at the corner of Gates Avenue and Irving Avenue in Brooklyn; left in a drawer gathering dust until its premiere at American Week 2023."
+  comp_notes: "Written at <a href=\"https://lindseydono.com/\" target=\"_blank\">Lindsey Dono</a>'s request for a robins left-hand chain dance that wasn't absurdly complex; tested outside a contradance at the corner of Gates Avenue and Irving Avenue in Brooklyn; left in a drawer gathering dust until its premiere at American Week 2023."
   date_written: 201808
   blurb: "robins left-hand chain in an otherwise simple dance, with elegant flow"
   choreo:
@@ -485,7 +498,8 @@
   hidden: false
   formation: becket L
   difficulty: advanced
-  notes: "Written as part of my search for R/L-thru dances that actually flow. In the A1 single-file circle (may also be described as \"promenade the ring\"), larks continue walking forward one place and robins turn left to follow their partner."
+  choreo_notes: "In the A1 single-file circle (may also be described as \"promenade the ring\"), larks continue walking forward one place and robins turn left to follow their partner."
+  comp_notes: "Written as part of my search for R/L-thru dances that actually flow."
   date_written: 201703
   blurb: "R/L-thru flow out of a square through"
   choreo:
@@ -504,7 +518,8 @@
 - title: My Partner's Partner
   formation: 4x4
   difficulty: expert
-  notes: "Your partner alternates every time through the dance between your original partner and your opposite-role trail buddy. (Please prepare the dancers for this by announcing e.g. \"line up for a four-face-four. Note that you will be swinging your trail buddy a LOT.\") Robins progress diagonally across, larks progress straight across (you may want to prep the dancers for this/for who they'll be swinging at the end of one time through the dance). All moves through the robins chain happen UP AND DOWN. Written for <a href=\"https://chromamine.com/contra/\" target=\"_blank\">Harris Lapiroff</a> for the American Week 2023 auction. The A2 figure leading into a chain is taken from Tavi Merrill's <a href=\"https://www.ibiblio.org/contradance/thecallersbox/dance.php?id=7631\" target=\"_blank\">Soul Reversal</a>."
+  choreo_notes: "Your partner alternates every time through the dance between your original partner and your opposite-role trail buddy. (Please prepare the dancers for this by announcing e.g. \"line up for a four-face-four. Note that you will be swinging your trail buddy a LOT.\") Robins progress diagonally across, larks progress straight across (you may want to prep the dancers for this/for who they'll be swinging at the end of one time through the dance). All moves through the robins chain happen UP AND DOWN (prep the dancers on the different between up/down and across orientation)."
+  comp_notes: "Written for <a href=\"https://chromamine.com/contra/\" target=\"_blank\">Harris Lapiroff</a> for the American Week 2023 auction. The A2 figure leading into a chain is taken from Tavi Merrill's <a href=\"https://www.ibiblio.org/contradance/thecallersbox/dance.php?id=7631\" target=\"_blank\">Soul Reversal</a>."
   date_written: 202307
   blurb: "4x4 where you swap partners with your trail buddy each time through the dance."
   choreo:
