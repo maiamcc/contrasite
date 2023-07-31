@@ -495,7 +495,7 @@
       - neighbor allemande R 1 1/2
 
 - title: Contradancers Do It Better
-  hidden: false
+  hidden: true
   formation: becket L
   difficulty: advanced
   choreo_notes: "In the A1 single-file circle (may also be described as \"promenade the ring\"), larks continue walking forward one place and robins turn left to follow their partner."
