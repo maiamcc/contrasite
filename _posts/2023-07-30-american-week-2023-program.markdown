@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Program: Queer Contra Dance Camp 2023"
+title: "Program: American Week @ Pinewoods 2023"
 date: 2023-07-30 10:40:00 +0000
 comments: true
 categories: programs
