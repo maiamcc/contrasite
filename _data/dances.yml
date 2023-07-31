@@ -89,7 +89,7 @@
   choreo:
       a1:
         - circle L 3/4
-        - (with N, robin in the lead) slice L, lady roll neighbor lark away on the way back
+        - (with N, robin in the lead) slice L, robin roll neighbor lark away on the way back
       a2:
         - robins chain across (to shadow)
         - robins allemande R 1 1/2
@@ -101,25 +101,25 @@
         - swing P (12)
 
 - title: Happy Jew Queer
-  hide: true
   formation: becket L, 2x prog.
   difficulty: expert
-  notes: written for A.Z. Madonna around New Years 2016 because they wanted a dance with a rollaway into a swing. All rollaways include a half-sashay. At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. Encourage dancers to take their time with the promenade in A1, as promenades out of a courtesy turn take less time than usual. In A1, chain with the neighbors straight across (these will be new neighbors).
-  date_written: 201601
-  blurb: a disorientintly smooth dance with double-shadow interaction and rollaway into a swing
+  notes: "written for A.Z. Madonna around New Years 2016 because they wanted a dance with a rollaway into a swing, revised summer 2023. All rollaways include a half-sashay. In teaching, emphasize that the B1 circle is NOT with the one you chained to (this is the most counter-intuitive part of the dance). At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. The dance starts again with new neighbors directly across."
+  date_written: 202307
+  blurb: a lost-and-found dance with double-shadow interaction and rollaway into a swing
   choreo:
     a1:
-      - robins chain across (to N)
-      - (w/ N) promenade across (to robin's home side)
+      - long lines forward and back
+      - robins allemande R 1x (4)
+      - courtesy turn partner (4) (all are home)
     a2:
-      - circle R 3/4 and robins roll partner away
       - robins chain on L diagonal (to next N)
+      - "left-hand star 1x (straight across, with shadow #1 and neighbor; partner is in a different star)"
     b1:
-      - robins chain on R diagonal (to shadow #2)
-      - circle L 1x with shadow #1 (turn away from the one you just chained with)
+      - "robins chain on R diagonal (to shadow #2) AND TURN AWAY FROM THE ONE YOU CHAINED TO to..."
+      - "circle L 1x with shadow #1"
     b2:
       - larks roll shadow away (4)
-      - partner swing (12)
+      - partner swing (12) (and get square; no one should be out at the top)
 
 - title: Too Many Joshes
   hide: true
@@ -285,6 +285,7 @@
       - (same) neighbor swing
 
 - title: Where Gnome Ann Has Gone Before
+  hidden: true
   formation: becket R
   difficulty: advanced
   notes: "all rollaways include a half-sashay. Loosely inspired by Don Flaherty's \"Clipper\" and premiered at Brooklyn Contra on 12/15/17. The title is a reference to <a href=\"https://xkcd.com/1704/\">this xkcd</a>."
@@ -371,7 +372,7 @@
   difficulty: accessible
   notes: "Written March 2019 to pair with DJ Flourish's mix <a href=\"https://www.mixcloud.com/DJ_Flourish/4-in-my-arms-mix/\">In My Arms</a> -- I wanted Petronellas in the B but needed a dance besides Tica Tica Timing."
   date_written: 20190330
-  blurb: Easy Petronellas-in-the-B dance
+  blurb: easy Petronellas-in-the-B dance
   choreo:
     a1:
       - (new) larks allemande L 1 1/4
@@ -389,7 +390,7 @@
   difficulty: advanced
   notes: For best results, don't clap after the second Petronella spin -- just keep spinning into the new neighbor seesaw. (To line up with next neighbor, robins spin wide/larks stop a little short). Written March 2019 as a wedding gift for the utterly delightful Michal Richardson and Josh Marantz (so that Michal could spin as much as possible).
   date_written: 20190329
-  blurb: Petronellas and lots of spinning
+  blurb: petronellas and lots of spinning
   choreo:
     a1:
       - give and take (larks take your N home)
@@ -428,7 +429,7 @@
   difficulty: accessible
   notes: "It's basically \"Butter\" by Gene Hubert, only... not!"
   date_written: 201808
-  blurb: "What if Gene Hubert's \"Butter\" had a lark's right-hand chain instead?"
+  blurb: "what if Gene Hubert's \"Butter\" had a lark's right-hand chain instead?"
   choreo:
     a1:
       - long lines forward and back
@@ -447,7 +448,7 @@
   difficulty: accessible
   notes: "Michael mashed up my dance <a href=\"#traindelay\">Train Delay</a> with Bill Olson's <a href=\"https://www.billolsondance.com/amy.html\" target=\"_blank\">Dancing With Amy</a> and premiered it at Brooklyn Contra when I happened to be in the crowd; I riffed on his riff to add the spin-and-catch-partner, and the result was this."
   date_written: 202306
-  blurb: Mashup of a mashup; Rory O'Moore with a spin to catch partner and swing.
+  blurb: mashup of a mashup; Rory O'Moore with a spin to catch partner and swing.
   choreo:
     a1:
       - (slide left to) circle L 3/4
@@ -461,3 +462,61 @@
     b2:
       - waves balance (L, R), slide L (past shadow)
       - (catch partner) partner swing
+
+- title: Gates of Irving
+  formation: improper
+  difficulty: accessible
+  notes: "Written at <a href=\"https://lindseydono.com/\" target=\"_blank\">Lindsey Dono</a>'s request for a robins left-hand chain dance that wasn't absurdly complex; tested outside a contradance at the corner of Gates Avenue and Irving Avenue in Brooklyn; left in a drawer gathering dust until its premiere at American Week 2023."
+  date_written: 201808
+  blurb: "robins left-hand chain in an otherwise simple dance, with elegant flow"
+  choreo:
+    a1:
+      - hands-across left-hand star 1x
+      - robins left-hand chain (to N; larks cast over R shoulder to receive this robin with a courtesy turn)
+    a2:
+      - full hey (robins passing L)
+    b1:
+      - partner right shoulder 'round and swing
+    b2:
+      - circle L 3/4
+      - neighbor allemande R 1 1/2
+
+- title: Contradancers Do It Better
+  hidden: false
+  formation: becket L
+  difficulty: advanced
+  notes: "Written as part of my search for R/L-thru dances that actually flow. In the A1 single-file circle (may also be described as \"promenade the ring\"), larks continue walking forward one place and robins turn left to follow their partner."
+  date_written: 201703
+  blurb: "R/L-thru flow out of a square through"
+  choreo:
+    a1:
+      - balance the ring (4) and spin right (4)
+      - balance the ring (4)
+      - pass through along the set to new neighbors (2) and single-file circle L one place (2)
+    a2:
+      - full interrupted square through (starts with right hand to new neighbor across)
+    b1:
+      - R/L-thru (pull by neighbor across)
+      - half hey (robins pass R)
+    b2:
+      - partner balance and swing
+
+- title: My Partner's Partner
+  formation: 4x4
+  difficulty: expert
+  notes: "Your partner alternates every time through the dance between your original partner and your opposite-role trail buddy. (Please prepare the dancers for this by announcing e.g. \"line up for a four-face-four. Note that you will be swinging your trail buddy a LOT.\") Robins progress diagonally across, larks progress straight across (you may want to prep the dancers for this/for who they'll be swinging at the end of one time through the dance). All moves through the robins chain happen UP AND DOWN. Written for <a href=\"https://chromamine.com/contra/\" target=\"_blank\">Harris Lapiroff</a> for the American Week 2023 auction. The A2 figure leading into a chain is taken from Tavi Merrill's <a href=\"https://www.ibiblio.org/contradance/thecallersbox/dance.php?id=7631\" target=\"_blank\">Soul Reversal</a>."
+  date_written: 202307
+  blurb: "4x4 where you swap partners with your trail buddy each time through the dance."
+  choreo:
+    a1:
+      - give and take opposite neighbor to robin's home side
+      - this neighbor swing
+    a2:
+      - lines of four go forward, on the way back larks roll neighbor away
+      - larks allemande R 1x (6)
+      - pass neighbor by R shoulder (2)
+    b1:
+      - robins chain to partner up and down, and courtesy turn to face ACROSS
+      - half hey ACROSS (robins pass R) and larks ricochet
+    b2:
+      - opposite role trail buddy balance and swing—this is your new partner!
