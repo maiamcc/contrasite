@@ -21,7 +21,7 @@
       - partner balance and swing
 
 - title: Faking Communion
-  hide: true
+  hidden: true
   formation: becket L
   difficulty: advanced
   comp_notes: Written May 2015, premiered at CDNY March 2016, B section rewritten and called at YDW '17. So named because this dance is full of fake-outs.
@@ -83,7 +83,7 @@
       - look for partner, [balance/right shoulder 'round] and swing
 
 - title: Gimmie the Good Stuff
-  hide: true
+  hidden: true
   formation: becket L, 2x prog
   difficulty: expert
   choreo_notes: "With the swing-to-swing transitions, encourage dancers to roll out of one swing and straight into the next. End effects: make sure you're waiting out on the correct diagonal (to come in in A1, wait on the left diag., to come in at B2, on the right)."
@@ -128,7 +128,7 @@
       - partner swing (12) (and get square; no one should be out at the top)
 
 - title: Too Many Joshes
-  hide: true
+  hidden: true
   formation: improper
   difficulty: expert
   starts: Starts with a wavy line of larks in the center
