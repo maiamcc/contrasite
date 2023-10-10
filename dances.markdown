@@ -10,7 +10,7 @@ sidebar: false
 ---
 As a choreographer, I strive to write dances that are both compelling and idiomatic--the coolest dance in the world isn't worth anything if it doesn't flow well enough for people to get the hang of it.
 
-Here are a handful of dances that I've written, with more always on the way. I know at least a few of these have made it into others' collections, and been called as far afield as California and Alaska, so that's pretty cool! Feedback is always welcome (as are requests!)--feel free to [drop me a line](/contact.html).
+My dances have been called as far afield as California and Alaska, so that's pretty cool! Feedback is always welcome (as are requests!)--feel free to [drop me a line](/contact.html).
 
 Dances marked with an asterisk (`*`) are particular favorites/frequently called by others.
 
@@ -36,7 +36,7 @@ A note on dance difficulties:
 
 <div id="dance-container">
   {% for dance in dances %}
-    {% if dance.hide != true %}
+    {% if dance.hidden != true %}
       <div class="dance" id="{{ dance.title | slugify | replace: '-', '' }}">
         <h4>{{ dance.title }}{% if dance.fave %}*{% endif %}{% if dance.coauthor %} <em class="coauthor">with {{ dance.coauthor }}</em>{% endif %} <em>({{ dance.formation}})
           {% if dance.video_link %} [<a href="{{ dance.video_link }}" target="_blank">VIDEO</a>]{% endif %}
