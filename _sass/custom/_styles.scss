@@ -190,6 +190,7 @@ article#blogintro {
 }
 
 // blog content/sidebar
+/*
 .blog-container {
   overflow: hidden;
   display: flex;
@@ -205,4 +206,10 @@ article#blogintro {
     float: right;
     padding-left: 15px;
   }
+}
+*/
+.sidebar {
+  width: 300px;
+  float: right;
+  padding-left: 15px;
 }

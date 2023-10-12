@@ -5,7 +5,11 @@ sidebar: true
 ---
 
 <div class="blog-container">
-  <div class="column content">
+  <div class="sidebar">
+    {% include blog_sidebar.html %}
+  </div>
+
+  <div class="content">
     <div id="rss-link">
       <a href="/feed.xml">
         <img src="/assets/images/rss-contrasite.png">
@@ -35,7 +39,4 @@ sidebar: true
     </div>
   </div>
 
-  <div class="column sidebar">
-    {% include blog_sidebar.html %}
-  </div>
 </div>
