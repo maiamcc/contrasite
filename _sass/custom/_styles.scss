@@ -192,6 +192,7 @@ article#blogintro {
 // blog content/sidebar
 .blog-container {
   overflow: hidden;
+  display: flex;
 
   &::after {
     content: "";
@@ -199,17 +200,9 @@ article#blogintro {
     display: table;
   }
 
-  .column {
-    display: inline;
-    float: left;
-    padding: 15px;
-  }
-
   .sidebar {
-    width: 25%;
-  }
-
-  .content {
-    width: 70%;
+    width: 300px;
+    float: right;
+    padding-left: 15px;
   }
 }
