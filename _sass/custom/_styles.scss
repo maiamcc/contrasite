@@ -188,3 +188,28 @@ article#blogintro {
     }
   }
 }
+
+// blog content/sidebar
+.blog-container {
+  overflow: hidden;
+
+  &::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .column {
+    display: inline;
+    float: left;
+    padding: 15px;
+  }
+
+  .sidebar {
+    width: 25%;
+  }
+
+  .content {
+    width: 70%;
+  }
+}
