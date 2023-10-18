@@ -189,11 +189,16 @@ article#blogintro {
   }
 }
 
-// blog content/sidebar
+// blog sidebar
 #blog-sidebar {
   width: 300px;
   float: right;
-  padding: 15px;
-  margin: 15px;
+  padding: 25px;
+  position: relative;
+  z-index: 1;
+  background-color: #FFFFFF;
+}
+
+#sidebar-content {
   border: 5px double;
 }
