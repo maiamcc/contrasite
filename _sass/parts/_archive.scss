@@ -22,17 +22,10 @@
 				}
 			}
 		}
-		.meta{
+		.meta:not(a){
 			color: $color-gray02;
 			font-size: 0.9em;
 			line-height: 200;
-			a{
-				color: $color-gray02;
-				transition: 0.3s;
-				&:hover{
-					color: $color-gray01;
-				}
-			}
 		}
 	}
 }
