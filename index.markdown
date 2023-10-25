@@ -12,12 +12,7 @@ I call around the Northeast and beyond, at festivals, dance camps/weekends, and 
 
 As a choreographer, I strive to write dances that are both compelling and idiomatic. My dances have made it into some other people's collections, and have been called as far afield as California and Alaska, so that's pretty rad! Check them out [on my choreo page](/dances.html).
 
-<h3 class="horizline">Recent blog posts (or <a href="/blog">see my whole blog</a>)</h3>
-<div id="archives">
-  {% for post in site.posts limit: 5 %}
-    {% include archive_post_with_description.html %}
-  {% endfor %}
-</div>
+{% include asides/recent_posts.html %}
 
 <a id="calendar"></a>
 <h3 class="horizline">Upcoming Gigs</h3>

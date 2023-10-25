@@ -1,10 +1,9 @@
 <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
+  <h3 class="horizline">Recent blog posts</h3>
+  <div id="recent-posts">
     {% for post in site.posts limit: site.recent_posts %}
-      <li class="post">
-        <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-      </li>
+      {% include archive_post_with_description.html %}
     {% endfor %}
-  </ul>
+  </div>
+  <a href="/blog" class="more-link">More on my blog homepage &rarr;</a>
 </section>
