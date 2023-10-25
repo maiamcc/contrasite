@@ -15,7 +15,7 @@ As a choreographer, I strive to write dances that are both compelling and idioma
 <h3 class="horizline">Recent blog posts (or <a href="/blog">see my whole blog</a>)</h3>
 <div id="archives">
   {% for post in site.posts limit: 5 %}
-    {% include archive_post.html %}
+    {% include archive_post_with_description.html %}
   {% endfor %}
 </div>
 
