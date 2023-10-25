@@ -49,10 +49,8 @@ article{
             }
 		}
 		ul, ol, dl{
-			margin-left: 20px;
-			ul, ol, dl{
-				margin-top: 0;
-			}
+			/* margin-left: 20px; NB: rm'd b/c it made blog previews sad */
+			margin-top: 0;
 		}
 		strong{
 			font-weight: bold;

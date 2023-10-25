@@ -10,24 +10,14 @@ I am a contradance caller and [choreographer](/dances.html) based in New York Ci
 
 I call around the Northeast and beyond, at festivals, dance camps/weekends, and regular dances alike (including, to name a few: [Queer Contra Dance Camp](//www.queercontradance.org/queercamp.html), [ESC Week at Pinewoods](//www.facebook.com/ESCPinewoods/), [Youth Dance Weekend](//youthdanceweekend.org), [Dawn Dance](//dawndance.org/), [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/lcfd-spring-dance-camp/), and [the NEFFA festival](//www.neffa.org/What_is_Festival.html)). (You can find a selected gig history [here](/gigs.html#past).)
 
-
 As a choreographer, I strive to write dances that are both compelling and idiomatic. My dances have made it into some other people's collections, and have been called as far afield as California and Alaska, so that's pretty rad! Check them out [on my choreo page](/dances.html).
 
-<h3 class="horizline">Calling samples</h3>
-<ul class="media-samples">
-  <li>
-    <iframe  width="420" height="315" src="//www.youtube.com/embed/Gj1FlDrlbB8" frameborder="0" allowfullscreen></iframe>
-  </li>
-  <li>
-    <iframe  width="420" height="315" src="//www.youtube.com/embed/E_dYxngm24Q" frameborder="0" allowfullscreen></iframe>
-  </li>
-  <li>
-    <iframe  width="420" height="315" src="//www.youtube.com/embed/KrJ5dhFUvHo" frameborder="0" allowfullscreen></iframe>
-  </li>
-  <li>
-    <iframe  width="420" height="315" src="//www.youtube.com/embed/lzDv8pCk2QY" frameborder="0" allowfullscreen></iframe>
-  </li>
-</ul>
+<h3 class="horizline">Recent blog posts (or <a href="/blog">see my whole blog</a>)</h3>
+<div id="archives">
+  {% for post in site.posts limit: 5 %}
+    {% include archive_post.html %}
+  {% endfor %}
+</div>
 
 <a id="calendar"></a>
 <h3 class="horizline">Upcoming Gigs</h3>
