@@ -8,7 +8,6 @@ categories: programs
 What a delight to attend [American Week 2023](https://camp.cdss.org/camp-weeks/american-dance-music-week-2/) at Pinewoods Camp. I was there on a _callership_ (which is how I've decided to refer to my _caller scholarship_), doing maybe 25% of the calling for the week so that Will Mentor and Lisa Greenleaf had some space to breathe. I got to call some Challenging Contra sessions and some chunks of the evening dance, and also got to do a whole lot more dancing than I usually do when I'm on staff, which was honestly great. Also, I premiered a handful of new dances (marked here with a star). Here's what I called this week!<!-- more -->
 
 ### Saturday Evening
-
 * **Maliza’s Magical Mystery Motion** (Cary Ravitz)
 * **Rocks and Dirt var.** (Erik Weberg)
 * [**Brooklyn Transfer\***](/dances.html#brooklyntransfer) (Maia McCormick)
@@ -16,8 +15,8 @@ What a delight to attend [American Week 2023](https://camp.cdss.org/camp-weeks/a
 ### Sunday Challenging Contras
 * Weird Chains Medley:
 	* [**Gates of Irving\***](/dances.html#gatesofirving) (Maia McCormick)
-	* [Hellooo Nurse!](/dances.html#hellooonurse) (Maia McCormick)
-	* [Not a Fever Dream](/dances.html#notafeverdream) (Maia McCormick)
+	* [**Hellooo Nurse!**](/dances.html#hellooonurse) (Maia McCormick)
+	* [**Not a Fever Dream**](/dances.html#notafeverdream) (Maia McCormick)
 * **No Use Crying Over Spilled Milk** (Chris Weiler)
 * **(Not Quite A) Trip to Bute** (Will Mentor, accidental variation)
 * **Astral Navigation** (Julian Blechner)
