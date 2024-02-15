@@ -11,9 +11,12 @@ Other hats I wear, in case you're curious:
 
 <ul class="narrow-top">
 	<li>
-		I conduct the <a href="https://www.chamberchoirs.nyc/welcome" target="_blank">New York Chamber Choir</a>; have a listen!
+		I conduct the <a href="https://www.chamberchoirs.nyc/welcome" target="_blank">New York Chamber Choir</a> (go have a listen!)
 	</li>
 	<li>
-		I make my living as a programmer; check out my <a href="https://code.maiamccormick.com" target="_blank">infrequently updated programming website</a>!
+		I dabble in <a href="https://crosswords.maiamccormick.com" target="_blank">constructing crossword puzzles</a>
+	</li>
+	<li>
+		I make my living <a href="https://code.maiamccormick.com" target="_blank">as a programmer</a>
 	</li>
 </ul>
