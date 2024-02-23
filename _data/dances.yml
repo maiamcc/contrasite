@@ -2,7 +2,6 @@
   formation: becket L
   difficulty: accessible
   fave: true
-  choreo_notes: In the second half of B1, pull by R at the start of the do-si-do for some extra momentum. (I normally don't like do-si-do 1.5x, but with the momentum from the pull-by, it fits nicely in the allotted time!)
   comp_notes: Written on a stuck train to Princeton, NJ, late 2014, and first called March 2015 in Silver Spring, MD.
   date_written: 201412
   blurb: an accessible and energetic shadow dance (also a good closer), pull-by into a do-si-do for extra momentum
@@ -16,9 +15,11 @@
       - left-hand star 1x
     b1:
       - w/ shadow, balance and box the gnat
-      - do-si-do shadow 1 1/2
+      - "do-si-do shadow 1 1/2[^1]"
     b2:
       - partner balance and swing
+  footnotes:
+    1: "Pull by R at the start of the do-si-do for some extra momentum. (I normally don't like do-si-do 1.5x, but with the momentum from the pull-by, it fits nicely in the allotted time!)"
 
 - title: Faking Communion
   hidden: true
@@ -44,14 +45,13 @@
 - title: Message from the Future
   formation: becket L
   difficulty: advanced
-  choreo_notes: "When teaching, emphasize that the chain in A1 is to your neighbor (there’s a lot of circling and not-quite-square phrases and it’s useful to have that point of reference)."
   comp_notes: Written summer 2014 (while I was on vacation in Europe and my sweetie at the time was in Australia–I believe the title was in reference to time differences?), first called January 2016 at the Downtown Amherst contradance.
   date_written: 201506
   blurb: lots of eye contact and flowing motion
   video_link: https://www.youtube.com/watch?v=Gj1FlDrlbB8
   choreo:
     a1:
-      - robins chain to neighbor
+      - robins chain to neighbor[^1]
       - mad robin, robins in front first (i.e. CCW)
     a2:
       - robins pass R to start a 3/4 hey
@@ -61,12 +61,14 @@
     b2:
       - circle L 1/2 and slide L to new neighbors (6)
       - with these new neighbors, circle L all the way (10)
+  footnotes:
+    1: "When teaching, emphasize that this chain your neighbor (there’s a lot of circling and not-quite-square phrases and it’s useful to have that point of reference)."
 
 - title: Pink Martini
   formation: becket R
   difficulty: advanced
   fave: true
-  choreo_notes: "After B1 rollaway, introduce shadow as: \"larks, look at the lark you're dancing with. On one side of them is you partner; on the other side of them is your shadow.\" Depending on tune bounciness, can call B2 as either balance and swing or right shoulder 'round and swing (or leave it as dancers' choice). Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., robin on the left, lark on the right)."
+  choreo_notes: "Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., robin on the left, lark on the right)."
   comp_notes: Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance.
   date_written: 201507
   blurb: stompy fun; Petronella turns (incl. Petronella turn to swing a new N) and a little shadow time
@@ -77,10 +79,13 @@
     a2:
       - balance the ring and spin right (2x)
     b1:
-      - balance ring and larks roll neighbor robin away with a half-sashay
+      - balance ring and larks roll neighbor robin away with a half-sashay[^1]
       - larks pull by R (2), allemande shadow L 1x-ish (6)
     b2:
-      - look for partner, [balance/right shoulder 'round] and swing
+      - look for partner, [balance/right shoulder 'round] and swing[^2]
+  footnotes:
+    1: "To introduce shadow: \"larks, look at the lark you're dancing with. On one side of them is you partner; on the other side of them is your shadow.\""
+    2: Depending on tune bounciness, can call B2 as either balance and swing or right shoulder 'round and swing (or leave it as dancers' choice).
 
 - title: Gimmie the Good Stuff
   hidden: true
@@ -108,7 +113,7 @@
   formation: becket L, 2x prog.
   difficulty: expert
   fave: true
-  choreo_notes: "All rollaways include a half-sashay. In teaching, emphasize that the B1 circle is NOT with the one you chained to (this is the most counter-intuitive part of the dance). At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. The dance starts again with new neighbors directly across."
+  choreo_notes: "All rollaways include a half-sashay. At the beginning of the dance, shadow #1 is beyond your partner, shadow #2 is beyond them. The dance starts again with new neighbors directly across."
   comp_notes: "Written for A.Z. Madonna around New Years 2016 because they wanted a dance with a rollaway into a swing; revised summer 2023."
   date_written: 202307
   blurb: a lost-and-found dance with double-shadow interaction and rollaway into a swing
@@ -122,10 +127,12 @@
       - "left-hand star 1x (straight across, with shadow #1 and neighbor; partner is in a different star)"
     b1:
       - "robins chain on R diagonal (to shadow #2) AND TURN AWAY FROM THE ONE YOU CHAINED TO to..."
-      - "circle L 1x with shadow #1"
+      - "circle L 1x with shadow #1[^1]"
     b2:
       - larks roll shadow away (4)
       - partner swing (12) (and get square; no one should be out at the top)
+  footnotes:
+    1: In teaching, emphasize that this circle is NOT with the one you chained to (this is the most counter-intuitive part of the dance).
 
 - title: Too Many Joshes
   hidden: true
@@ -237,7 +244,6 @@
   formation: improper
   difficulty: accessible
   video_link: https://www.youtube.com/watch?v=UyHzqV_OHrU
-  choreo_notes: Note that the allemande in B2 is with your CURRENT neighbor, i.e. the one you starred with (this is the biggest point of confusion for experienced dancers used to looking for new neighbors out of a left-hand star).
   comp_notes: Written January 2017, premiered shortly thereafter at Brooklyn Contra. I wanted a dance with a larks' right-hand chain to a neighbor that was otherwise dead easy, and this is what I came up with. (There are lots of great dances with a larks' right-hand chain to their partner, but chaining to a neighbor lets dancers practice the move with lots of different folks.)
   date_written: 201701
   blurb: larks' right-hand chain to N in an otherwise dead-easy dance
@@ -252,7 +258,9 @@
       - larks right-hand chain to N
     b2:
       - left-hand star 1x
-      - current neighbor allemande L 1 1/2
+      - current neighbor allemande L 1 1/2[^1]
+  footnotes:
+    1: In teaching, emphasize that this allemande is with your CURRENT neighbor, i.e. the one you starred with (this is the biggest point of confusion for experienced dancers used to looking for new neighbors out of a left-hand star).
 
 - title: Barack Me, Obamadeus
   fave: true
@@ -364,7 +372,6 @@
 - title: "Star Trek: the Next Generation"
   formation: becket R
   difficulty: advanced
-  choreo_notes: "Before the B2 star, note direction of progression (i.e. to the RIGHT); dancers walk along the set single file in this direction."
   comp_notes: "A loving re-imagination of Mike Richardson's <a href=\"https://www.cambridgefolk.org.uk/contra/dances/mike_richardson/star_trek.html\" target=\"_blank\">Star Trek</a>, premiered at Brooklyn Contra in March 2019."
   date_written: 201812
   video_link: https://www.youtube.com/watch?v=UFcVDN-Aftw
@@ -378,8 +385,10 @@
     b1:
       - P right shoulder 'round and swing
     b2:
-      - promenade across
+      - promenade across[^1]
       - left-hand star 1x and walk along the set (robins in the lead) to progress
+  footnotes:
+    1: "After the promenade, note direction of progression (i.e. to the RIGHT); dancers walk along the set single file in this direction."
 
 - title: I'll Hold You In My Arms
   formation: improper
@@ -402,7 +411,6 @@
 - title: Muppets and Mazels
   formation: becket R
   difficulty: advanced
-  choreo_notes: For best results, don't clap after the second Petronella spin–just keep spinning into the new neighbor seesaw. (To line up with next neighbor, robins spin wide/larks stop a little short).
   comp_notes: Written March 2019 as a wedding gift for the utterly delightful Michal Richardson and Josh Marantz (so that Michal could spin as much as possible).
   date_written: 20190329
   blurb: petronellas and lots of spinning
@@ -412,12 +420,14 @@
       - neighbor swing
     a2:
       - balance the ring and spin right
-      - balance the ring and spin right, spinning extra to face new neighbors
+      - balance the ring and spin right, spinning extra to face new neighbors[^1]
     b1:
       - new neighbor seesaw 1 1/4
       - larks allemande R 1 1/2
     b2:
       - partner balance and swing
+  footnotes:
+    1: For best results, don't clap after this Petronella spin–just keep spinning into the new neighbor seesaw. (To line up with next neighbor, robins spin wide/larks stop a little short).
 
 - title: Not a Fever Dream
   formation: improper
@@ -500,7 +510,6 @@
   hidden: true
   formation: becket L
   difficulty: advanced
-  choreo_notes: "In the A1 single-file circle (may also be described as \"promenade the ring\"), larks continue walking forward one place and robins turn left to follow their partner."
   comp_notes: "Written as part of my search for R/L-thru dances that actually flow."
   date_written: 201703
   blurb: "R/L-thru flow out of a square through"
@@ -508,7 +517,7 @@
     a1:
       - balance the ring (4) and spin right (4)
       - balance the ring (4)
-      - pass through along the set to new neighbors (2) and single-file circle L one place (2)
+      - pass through along the set to new neighbors (2) and single-file circle L one place (2)[^1]
     a2:
       - full interrupted square through (starts with right hand to new neighbor across)
     b1:
@@ -516,12 +525,14 @@
       - half hey (robins pass R)
     b2:
       - partner balance and swing
+  footnotes:
+    1: "In the single-file circle (may also be described as \"promenade the ring\"), larks continue walking forward one place and robins turn left to follow their partner."
 
 - title: My Partner's Partner
-  formation: 4x4
+  formation: 4x4[^1]
   difficulty: expert
   fave: true
-  choreo_notes: "Your partner alternates every time through the dance between your original partner and your opposite-role trail buddy. (Please prepare the dancers for this by announcing e.g. \"line up for a four-face-four. Note that you will be swinging your trail buddy a LOT.\") Robins progress diagonally across, larks progress straight across (you may want to prep the dancers for this/for who they'll be swinging at the end of one time through the dance). All moves through the robins' chain happen UP AND DOWN (prep the dancers on the different between up/down and across orientation). Also worth noting to the dancers that for the courtesy turn to face across, one side turns 1/4 and one side turns 3/4, so it'll feel either longer or shorter than they expect."
+  choreo_notes: "All moves through the robins' chain happen UP AND DOWN (prep the dancers on the different between up/down and across orientation)."
   comp_notes: "Written for <a href=\"https://chromamine.com/contra/\" target=\"_blank\">Harris Lapiroff</a> for the American Week 2023 auction. The A2 figure leading into a chain is taken from Tavi Merrill's <a href=\"https://www.ibiblio.org/contradance/thecallersbox/dance.php?id=7631\" target=\"_blank\">Soul Reversal</a>."
   date_written: 202307
   blurb: "4x4 where you swap partners with your trail buddy each time through the dance."
@@ -534,21 +545,17 @@
       - larks allemande R 1x (6)
       - pass neighbor by L shoulder (2)
     b1:
-      - robins chain to partner up and down, and courtesy turn to face ACROSS
+      - robins chain to partner up and down, and courtesy turn to face ACROSS[^2]
       - half hey ACROSS (robins pass R) and larks ricochet
     b2:
       - opposite role trail buddy balance and swing—this is your new partner!
+  footnotes:
+    1: "Your partner alternates every time through the dance between your original partner and your opposite-role trail buddy. (Please prepare the dancers for this by announcing e.g. \"line up for a four-face-four. Note that you will be swinging your trail buddy a LOT.\") Robins progress diagonally across, larks progress straight across (you may want to prep the dancers for this/for who they'll be swinging at the end of one time through the dance)."
+    2: "For this courtesy turn, one side turns 1/4 and one side turns 3/4, so it'll feel either longer or shorter than they expect."
 
 - title: The Baby Jo
   formation: becket R
   difficulty: advanced
-  choreo_notes: >
-    For best flow into the shadow allemande, dancers should twirl on the courtesy turn OR do
-    an open chain. (If you're going to mention this as a teaching point, please offer the open
-    chain as an alternative for those who don't like twirling!) To get into skater promenade,
-    keep R hands with your shadow (transition to handshake grip), take L hands with them as well,
-    and robin turn their torso to face across (this may warrant a quick demo). Before the J-hook
-    promenade, note the couple on the left diagonal; you will end up in that spot, across from that couple.
   comp_notes: "Written for Baby Jo Byers (a J-hook promenade + a circle spells \"Jo\"!). The title is, of course, a riff on \"The Baby Rose\" by David Kaynor."
   date_written: 202312
   blurb: "Smooth lost-and-found dance with a J-hook promenade + circle right."
@@ -557,10 +564,21 @@
       - larks allemande L 1.5x
       - neighbor swing
     a2:
-      - robins chain to partner (and turn away to face shadow on the side)
-      - shadow allemande R 1.5x (and face across in skater promenade position)
+      - robins chain to partner (and turn away to face shadow on the side)[^1]
+      - shadow allemande R 1.5x (and face across in skater promenade position)[^2]
     b1:
-      - "J-hook promenade: promenade across and loop wide to face new neighbors"
+      - "J-hook promenade[^3]: promenade across and loop wide to face new neighbors"
       - with these new neighbors, circle R 1x
     b2:
       - (turn away to find your partner on the side) partner right shoulder 'round and swing
+  footnotes:
+    1: >
+      For best flow into the shadow allemande, dancers should twirl on the courtesy turn OR do
+      an open chain. (If you're going to mention this as a teaching point, please offer the open
+      chain as an alternative for those who don't like twirling!)
+    2: >
+      To get into skater promenade, keep R hands with your shadow (transition to handshake grip),
+      take L hands with them as well, and robin turn their torso to face across (this may warrant a quick demo).
+    3: Before the J-hook promenade, note the couple on the left diagonal; you will end up in that spot, across from that couple.
+
+      
