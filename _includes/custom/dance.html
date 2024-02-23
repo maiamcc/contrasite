@@ -10,16 +10,22 @@
     {% for sect in dance.choreo %}
         {% for move in sect[1] %}
             {% if forloop.index == 1 %}
-                <p><strong>{{ sect[0] | upcase }}</strong>: {{ move }}</p>
+                <p><strong>{{ sect[0] | upcase }}</strong>: {{ move | footnoter  }}</p>
             {% else %}
-                <p>{{ move }}</p>
+                <p>{{ move | footnoter }}</p>
             {% endif %}
         {% endfor %}
     {% endfor %}
 
-    {% if dance.choreo_notes %}
+    {% if dance.choreo_notes or dance.footnotes %}
         <p><em><strong>Choreo Notes</strong>: <span class="dance-notes">{{ dance.choreo_notes }}</span></em></p>
+    <ul>
+        {% for footnote in dance.footnotes %}
+            <li><span class="dance-notes">{{ footnote[0] }}: {{ footnote[1] }}</span></li>
+        {% endfor %}
+    </ul>
     {% endif %}
+
 
     {% if dance.comp_notes %}
         <p><em><strong>Composition Notes</strong>: <span class="dance-notes">{{ dance.comp_notes }}</span></em></p>
