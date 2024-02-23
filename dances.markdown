@@ -37,29 +37,7 @@ A note on dance difficulties:
 <div id="dance-container">
   {% for dance in dances %}
     {% if dance.hidden != true %}
-      <div class="dance" id="{{ dance.title | slugify | replace: '-', '' }}">
-        <h4>{{ dance.title }}{% if dance.fave %}*{% endif %}{% if dance.coauthor %} <em class="coauthor">with {{ dance.coauthor }}</em>{% endif %} <em>({{ dance.formation}})
-          {% if dance.video_link %} [<a href="{{ dance.video_link }}" target="_blank">VIDEO</a>]{% endif %}
-        </em></h4>
-        {% if dance.starts %}
-          <p class="dance-starts"><em>{{ dance.starts }}</em></p>
-        {% endif %}
-        {% for sect in dance.choreo %}
-          {% for move in sect[1] %}
-            {% if forloop.index == 1 %}
-              <p><strong>{{ sect[0] | upcase }}</strong>: {{ move }}</p>
-            {% else %}
-              <p>{{ move }}</p>
-            {% endif %}
-          {% endfor %}
-        {% endfor %}
-        {% if dance.choreo_notes %}
-          <p><em><strong>Choreo Notes</strong>: <span class="dance-notes">{{ dance.choreo_notes }}</span></em></p>
-        {% endif %}
-        {% if dance.comp_notes %}
-          <p><em><strong>Composition Notes</strong>: <span class="dance-notes">{{ dance.comp_notes }}</span></em></p>
-        {% endif %}
-      </div>
+      {% include custom/dance.html %}
     {% endif %}
   {% endfor %}
 </div>
