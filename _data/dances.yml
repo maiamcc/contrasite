@@ -65,10 +65,9 @@
     1: "When teaching, emphasize that this chain your neighbor (there’s a lot of circling and not-quite-square phrases and it’s useful to have that point of reference)."
 
 - title: Pink Martini
-  formation: becket R
+  formation: becket R[^1]
   difficulty: advanced
   fave: true
-  choreo_notes: "Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., robin on the left, lark on the right)."
   comp_notes: Written in summer 2015 for Kate Fais on the occasion of her dying her hair pink, and first called January 2016 at the Youth Trad Song Weekend contradance.
   date_written: 201507
   blurb: stompy fun; Petronella turns (incl. Petronella turn to swing a new N) and a little shadow time
@@ -79,13 +78,14 @@
     a2:
       - balance the ring and spin right (2x)
     b1:
-      - balance ring and larks roll neighbor robin away with a half-sashay[^1]
+      - balance ring and larks roll neighbor robin away with a half-sashay[^2]
       - larks pull by R (2), allemande shadow L 1x-ish (6)
     b2:
-      - look for partner, [balance/right shoulder 'round] and swing[^2]
+      - look for partner, [balance/right shoulder 'round] and swing[^3]
   footnotes:
-    1: "To introduce shadow: \"larks, look at the lark you're dancing with. On one side of them is you partner; on the other side of them is your shadow.\""
-    2: Depending on tune bounciness, can call B2 as either balance and swing or right shoulder 'round and swing (or leave it as dancers' choice).
+    1: "Coming back into the dance at the middle of A1 or the middle of B1, dancers should reenter WRONG (i.e., robin on the left, lark on the right)."
+    2: "To introduce shadow: \"larks, look at the lark you're dancing with. On one side of them is you partner; on the other side of them is your shadow.\""
+    3: Depending on tune bounciness, can call B2 as either balance and swing or right shoulder 'round and swing (or leave it as dancers' choice).
 
 - title: Gimmie the Good Stuff
   hidden: true
@@ -539,19 +539,20 @@
   choreo:
     a1:
       - give and take opposite neighbor to robin's home side
-      - this neighbor swing
+      - this neighbor swing (all moves in A2 are with this N)
     a2:
       - lines of four go forward, on the way back larks roll neighbor away
-      - larks allemande R 1x (6)
+      - (up and down) larks allemande R 1x (6)
       - pass neighbor by L shoulder (2)
     b1:
       - robins chain to partner up and down, and courtesy turn to face ACROSS[^2]
-      - half hey ACROSS (robins pass R) and larks ricochet
+      - half hey ACROSS (robins pass R) and larks ricochet[^3]
     b2:
-      - opposite role trail buddy balance and swing—this is your new partner!
+      - opposite role trail buddy balance and swing—this is your new partner![^3]
   footnotes:
-    1: "Your partner alternates every time through the dance between your original partner and your opposite-role trail buddy. (Please prepare the dancers for this by announcing e.g. \"line up for a four-face-four. Note that you will be swinging your trail buddy a LOT.\") Robins progress diagonally across, larks progress straight across (you may want to prep the dancers for this/for who they'll be swinging at the end of one time through the dance)."
+    1: "Your partner alternates every time through the dance between your original partner and your opposite-role trail buddy. Robins progress diagonally across, larks progress straight across."
     2: "For this courtesy turn, one side turns 1/4 and one side turns 3/4, so it'll feel either longer or shorter than they expect."
+    3: We love a surprise, but when the dancers are lining up, please give some warning about the AMOUNT of trail buddy interaction so no one gets locked into a ~partner they don't feel comfortable with. (E.g. "line up for a 4-face-4, and note you'll be swinging your trail buddy a LOT.")
 
 - title: The Baby Jo
   formation: becket R
