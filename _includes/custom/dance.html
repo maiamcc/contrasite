@@ -1,33 +1,52 @@
 <div class="dance" id="{{ dance.title | slugify | replace: '-', '' }}">
-    <h4>{{ dance.title }}{% if dance.fave %}*{% endif %}{% if dance.coauthor %} <em class="coauthor">with {{ dance.coauthor }}</em>{% endif %} <em>({{ dance.formation}})
-        {% if dance.video_link %} [<a href="{{ dance.video_link }}" target="_blank">VIDEO</a>]{% endif %}
-    </em></h4>
+  <h4 class="dance-title-line">{{ dance.title }}{% if dance.fave %}*{% endif %}{% if dance.coauthor %} <em
+      class="coauthor">with {{ dance.coauthor }}</em>{% endif %} <em>({{ dance.formation | footnoter }})
+    {% if dance.video_link %} [<a href="{{ dance.video_link }}" target="_blank">VIDEO</a>]{% endif %}
+  </em></h4>
 
-    {% if dance.starts %}
-        <p class="dance-starts"><em>{{ dance.starts }}</em></p>
+  {% if dance.starts %}
+    <p class="dance-starts"><em>{{ dance.starts }}</em></p>
+  {% endif %}
+
+  <div class="dance-choreo">
+    {% for sect in dance.choreo %}
+      <div class="dance-sect">
+        {% for move in sect[1] %}
+          {% if forloop.index == 1 %}
+            <p><strong>{{ sect[0] | upcase }}</strong>: {{ move | footnoter }}</p>
+          {% else %}
+            <p class="indent">{{ move | footnoter }}</p>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="dance-notes">
+    {% if dance.footnotes %}
+      <div class="dance-footnotes">
+        <ul>
+          {% for footnote in dance.footnotes %}
+            <li>
+              <p><span class="fn-ref">{{ footnote[0] }}</span>: <span class="fn-content">{{ footnote[1] }}</span></p>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
     {% endif %}
 
-    {% for sect in dance.choreo %}
-        {% for move in sect[1] %}
-            {% if forloop.index == 1 %}
-                <p><strong>{{ sect[0] | upcase }}</strong>: {{ move | footnoter  }}</p>
-            {% else %}
-                <p>{{ move | footnoter }}</p>
-            {% endif %}
-        {% endfor %}
-    {% endfor %}
-
-    {% if dance.choreo_notes or dance.footnotes %}
-        <p><em><strong>Choreo Notes</strong>: <span class="dance-notes">{{ dance.choreo_notes }}</span></em></p>
-    <ul>
-        {% for footnote in dance.footnotes %}
-            <li><span class="dance-notes">{{ footnote[0] }}: {{ footnote[1] }}</span></li>
-        {% endfor %}
-    </ul>
+    {% if dance.choreo_notes %}
+      <div class="dance-choreo-notes">
+        <p>{{ dance.choreo_notes }}</p>
+      </div>
     {% endif %}
 
 
     {% if dance.comp_notes %}
-        <p><em><strong>Composition Notes</strong>: <span class="dance-notes">{{ dance.comp_notes }}</span></em></p>
+      <div class="dance-comp-notes">
+        <p><strong>Composition notes</strong>: {{ dance.comp_notes }}</p>
+      </div>
     {% endif %}
+  </div>
+
 </div>
