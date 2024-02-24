@@ -53,19 +53,23 @@ ul {
   .fn-ref {
     font-weight: 400;
   }
+
   p {
     margin: 0 !important;
-    padding-left: 1em;
-    text-indent: -0.8em;
+    padding-left: 2em;
+    text-indent: -2em;
 
     &.indent {
-      padding-left: 2em;
+      padding-left: 3em;
     }
   }
   h3, h4 {
     margin: 0 0 2px 0 !important;
   }
 
+  .dance-title-line {
+    font-size: 105%;
+  }
   .dance-starts {
     text-indent: 1em;
     font-size: 95%;
