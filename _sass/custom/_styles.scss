@@ -45,6 +45,14 @@ ul {
   color: $color-blog-body;
   padding: 5px 10px 10px 10px;
   margin-bottom: 20px;
+
+  sup {
+    // get rid of extraneous footnote padding in this context
+    padding: 0 !important;
+  }
+  .fn-ref {
+    font-weight: 400;
+  }
   p {
     margin: 0 !important;
     padding-left: 1em;
@@ -69,8 +77,9 @@ ul {
 
   .dance-notes {
     font-style: italic;
-    :not(strong) {
-      font-size: 97%;
+    font-size: 97%;
+    strong {
+      font-size: 103%;  // put back to original font size for section header bits
     }
     div {
       padding-bottom: 6px;
