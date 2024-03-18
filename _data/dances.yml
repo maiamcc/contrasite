@@ -593,7 +593,7 @@
   choreo:
     a1:
       - neighbor inside hand balance and twirl to swap[^2]
-      - facing star CW 1x (keep outside hands with N, larks take LH/robins take RH; robins go forward/larks back up)
+      - facing star CCW 1x (keep outside hands with N, larks take LH/robins take RH; larks go forward/robins back up)
     a2:
       - neighbor right shoulder 'round and swing
     b1:
