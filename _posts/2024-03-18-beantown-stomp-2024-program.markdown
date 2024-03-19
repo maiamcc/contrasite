@@ -5,7 +5,7 @@ date: 2024-03-18 1:41:00 +0000
 comments: true
 categories: programs
 ---
-[Beantown Stomp](//www.beantownstomp.com/) 2024 was a complete delight! Annie Kidwell and I taught a workshop on dance floor shenanigans, and I got to call to a bunch of fabulous dancers, with incredible music from The Figments and [The Mean Lids](//www.meanlids.com/). Here's my program.<!-- more -->
+[Beantown Stomp](//www.beantownstomp.com/) 2024 was a complete delight! Annie Kidwell and I taught a workshop on dance floor shenanigans, and I got to share the stage with the inimitable Will Mentor and call to incredible music from The Figments and [The Mean Lids](//www.meanlids.com/). Here's my program.<!-- more -->
 
 ### Friday Evening (with The Figments)
 * **Leap of Faith** (Bob Isaacs)
