@@ -22,7 +22,7 @@ A note on dance difficulties:
 * `expert`: you should probably only call these to a very experienced hall or at an advanced dance
 -->
 
-{% assign dances = site.data.dances | sort: 'title' %}
+{% assign dances = site.data.dances | sort: 'titleSort' %}
 
 <div id="blurb-container">
   {% for dance in dances %}
