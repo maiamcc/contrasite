@@ -1,6 +1,6 @@
 <div class="dance" id="{{ dance.title | slugify | replace: '-', '' }}">
-  <h4 class="dance-title-line">{{ dance.title }}{% if dance.fave %}*{% endif %}{% if dance.coauthor %} <em
-      class="coauthor">with {{ dance.coauthor }}</em>{% endif %} <em>({{ dance.formation | footnoter }})
+  <h4 class="dance-title-line">{{ dance.title }}{% if dance.fave %}*{% endif %}{% if dance.author %} <em
+      class="author">by {{ dance.author }}</em>{% elsif dance.coauthor %} <em class="author">with {{ dance.coauthor }}</em>{% endif %} <em>({{ dance.formation | footnoter }})
     {% if dance.video_link %} [<a href="{{ dance.video_link }}" target="_blank">VIDEO</a>]{% endif %}
   </em></h4>
 
