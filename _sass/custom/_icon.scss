@@ -1,0 +1,12 @@
+a .icon {
+    vertical-align: -0.1em;
+    shape-rendering: crispEdges;
+}
+
+a .icon * {
+    fill: $color-link;
+}
+
+a:hover .icon * {
+    fill: $color-link-hover;
+}
