@@ -28,7 +28,7 @@ A note on dance difficulties:
   {% for dance in dances %}
     {% if dance.hidden != true %}
       <p>
-        <strong><a class="dance-title" href="#{{ dance.title | slugify | replace: '-', '' }}">{{ dance.title }}</a>{% if dance.fave %}*{% endif %}</strong> [<span class="dance-difficulty">{{ dance.difficulty }}</span>] — <span class="dance-blurb">{{ dance.blurb }}</span>
+        <strong><a class="dance-title" href="#{{ dance.title | legacy_slugify }}">{{ dance.title }}</a>{% if dance.fave %}*{% endif %}</strong> [<span class="dance-difficulty">{{ dance.difficulty }}</span>] — <span class="dance-blurb">{{ dance.blurb }}</span>
       </p>
     {% endif %}
   {% endfor %}

@@ -43,7 +43,6 @@ To create a tooltip'd dance link (using [Tippy](https://atomiks.github.io/tippyj
 - [] choreo: mark new dances?
 - [] choreo: describe difficulty levels
 - [] choreo: filter by difficulty level, favorite, etc.?
-- [] choreo: custom dance title slugification can be one custom function, instead of multiple filters
 - [] choreo: mousing over a footnote highlights the corresponding text
 - [] blog: sidebar with recent posts? (look at formatting in partials/sidebar.scss, which currently isn't imported)
 - [] blog: collapsible choreo elems (see https://www.w3schools.com/howto/howto_js_collapsible.asp) or tooltips (see https://atomiks.github.io/tippyjs/)
