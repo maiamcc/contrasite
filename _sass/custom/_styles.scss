@@ -102,6 +102,33 @@ ul {
   }
 }
 
+.tippy-box[data-theme~='dance'] {
+  background-color: #CCCCCC;
+  color: $color-blog-body;
+
+  .dance {  // unset props of this class that are only relevant for non-tooltip-land
+    background-color: unset;
+    color: unset;
+    padding: unset;
+    margin-bottom: unset;
+  }
+}
+
+// see https://atomiks.github.io/tippyjs/v6/themes/#css-arrow
+// feels like there should be a more efficient way to do this but here we are
+.tippy-box[data-theme~='dance'][data-placement^='top'] > .tippy-arrow::before {
+  border-top-color: #CCCCCC;
+}
+.tippy-box[data-theme~='dance'][data-placement^='bottom'] > .tippy-arrow::before {
+  border-bottom-color: #CCCCCC;
+}
+.tippy-box[data-theme~='dance'][data-placement^='left'] > .tippy-arrow::before {
+  border-left-color: #CCCCCC;
+}
+.tippy-box[data-theme~='dance'][data-placement^='right'] > .tippy-arrow::before {
+  border-right-color: #CCCCCC;
+}
+
 .new {
   box-shadow: 0px 0px 15px rgba(52, 152, 219, 0.8) !important;
   border: medium double rgba(52, 152, 219, 0.5);

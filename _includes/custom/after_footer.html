@@ -1,0 +1,10 @@
+{% if page.dances %}
+<!--
+  if the page has `dances` info, assume it's rendering choreo into Tippy elements;
+  import Tippy, and run the script that popoulates that info.
+-->
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
+
+{% include custom/dance_tooltip_script.js %}
+{% endif %}
