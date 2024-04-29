@@ -1,10 +1,18 @@
 # Maia's Contradance Site
 
-Made with [Jekyll](https://jekyllrb.com/).
+Made with [Jekyll](https://jekyllrb.com/), using a modified [Slimpress theme](https://github.com/jeremyrea/slimpress).
 
-Deployed via [Cloudbuild](./cloudbuild), just push changes to GitHub (no need to `jekyll build`) and it should automatically work.
+## Running, Developing, Deploying
 
-To preview: `bundle exec jekyll serve`.
+### Setup
+- get access to Ruby (currently using 3.0.0)—presumably via [RVM](https://rvm.io/) or similar
+- `bundle install`
+
+### Preview
+To preview site: `bundle exec jekyll serve`. (This automatically refreshes to reflect the majority of changes, but NOT changes to the config file or Ruby plugins.)
+
+### Deploy
+This site is deployed via [Cloudbuild](./cloudbuild). To release, just push changes to `master` (no need to `jekyll build` etc.).
 
 ## Dance Formatting
 Dances loaded into my choreo page and represented in blog posts have the following fields:
@@ -45,4 +53,3 @@ To create a tooltip'd dance link (using [Tippy](https://atomiks.github.io/tippyj
 - [] choreo: filter by difficulty level, favorite, etc.?
 - [] choreo: mousing over a footnote highlights the corresponding text
 - [] blog: sidebar with recent posts? (look at formatting in partials/sidebar.scss, which currently isn't imported)
-- [] blog: collapsible choreo elems (see https://www.w3schools.com/howto/howto_js_collapsible.asp) or tooltips (see https://atomiks.github.io/tippyjs/)
