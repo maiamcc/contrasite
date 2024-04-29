@@ -54,28 +54,17 @@ dances:
     choreo_notes: original A2 was a wave balance and swing N
 
 ---
-Hello world, this is a test! And ps the title of this post is: {{page.title}}.
+Hello world, this is a test!
 
 <!-- todo: a little "include" that takes a dance object and turns it into a link of this format -->
-1. <a class="dancetip theappetizer">The Appetizer</a>
-2. <a class="dancetip springbeautyvar">Spring Beauty</a>
-3. <a class="dancetip twentybelow">20 Below</a>
-
-Content content content...
-
-And I'm mentioning <a class="dancetip twentybelow">20 Below</a> in context.
+1. {% include custom/dance_tooltip_link.html dance_title='The Appetizer' %}
+2. {% include custom/dance_tooltip_link.html dance_title='Spring Beauty Var.' %}
+3. {% include custom/dance_tooltip_link.html dance_title='20 Below' %}
 
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         {% for dance in page.dances %}
-        tippy('.dancetip.{{dance.slug}}', {
-            content: `{% include custom/dance.html %}`,
-            allowHTML: true,
-            trigger: 'click',
-            interactive: true,
-            placement: 'right',
-            theme: 'dance',
-        });
+        {% include custom/dance_tooltip_script.js %}
         {% endfor %}
     });
 </script>
