@@ -41,16 +41,16 @@ dances:
     author: Bill Olson
     formation: becket L
     choreo:
-    a1:
-      - circle L 3/4 and form short wave
-      - balance fwd & back, walk forward to new Ns
-    a2:
-      - this new N b&s
-    b1:
-      - larks alle. L 1 1/2
-      - half hey (pass P by R)
-    b2:
-      - P b&s
+      a1:
+        - circle L 3/4 and form short wave
+        - balance fwd & back, walk forward to new Ns
+      a2:
+        - this new N b&s
+      b1:
+        - larks alle. L 1 1/2
+        - half hey (pass P by R)
+      b2:
+        - P b&s
     choreo_notes: original A2 was a wave balance and swing N
 
 ---
@@ -69,11 +69,12 @@ And I'm mentioning <a class="dancetip twentybelow">20 Below</a> in context.
     document.addEventListener('DOMContentLoaded', function () {
         {% for dance in page.dances %}
         tippy('.dancetip.{{dance.slug}}', {
-            content: 'your dance is {{dance.title}}',
-            // allowHTML: true,
+            content: `{% include custom/dance.html %}`,
+            allowHTML: true,
             trigger: 'click',
             interactive: true,
             placement: 'right',
+            theme: 'dance',
         });
         {% endfor %}
     });
