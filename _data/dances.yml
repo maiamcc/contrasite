@@ -528,6 +528,28 @@
   footnotes:
     1: "In the single-file circle (may also be described as \"promenade the ring\"), larks continue walking forward one place and robins turn left to follow their partner."
 
+- title: Don't Worry, Shoshana
+  formation: improper
+  difficulty: advanced
+  comp_notes: "Written for Shoshana Silverman, who is always stressed out when there aren't enough neighbor swings."
+  date_written: 202304
+  blurb: "Multiple neighbor swings with a cool pass-thru-to-hey progression."
+  starts: Starts in hands-4 with N1 (current neighbor). Previous neighbor (N0) is behind you.
+  choreo:
+    a1:
+      - full hey (robins pass L) and look for previous neighbor (N0)[^1]
+    a2:
+      - N0 swing
+      - N1 swing
+    b1:
+      - robins allemande R 1 1/2
+      - partner swing
+    b2:
+      - circle left 3/4
+      - balance the ring and pass through, robins walking forward extra to pass L sh. with this new robin
+  footnotes:
+    1: "After last pass of P, robins loop R on the side (WHILE larks pass L and then look L for previous N)"
+
 - title: My Partner's Partner
   formation: 4x4[^1]
   difficulty: expert
