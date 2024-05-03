@@ -8,8 +8,26 @@
             allowHTML: true,
             trigger: 'click',
             interactive: true,
-            placement: 'right',
             theme: 'dance',
+            placement: 'right',
+            popperOptions: {
+                strategy: 'fixed',
+                modifiers: [
+                    {
+                        name: 'flip',
+                        options: {
+                            fallbackPlacements: ['left', 'bottom', 'top'],
+                        },
+                    },
+                    {
+                        name: 'preventOverflow',
+                        options: {
+                            altAxis: true,
+                            tether: false,
+                        },
+                    },
+                ],
+            },
         });
         {% endfor %}
     });
