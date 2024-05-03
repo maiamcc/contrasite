@@ -66,10 +66,12 @@ This is an intimidating amount of flexibility, so I want to somewhat constrain o
 3. picking a single more complicated dance I'm excited about calling, slot it in early in the second half, and then populate the first half with dances that teach the moves/build the skills needed for that trickier dance
 
 For this dance, I'm going for options 1 + 2. Specific things I know I want to do:
-a. teach a full hey—but not until the second half, since we have a half hey in the first half and maybe a slightly newbier crowd than normal. My full hey intro should still be fairly simple, but it's in the second half, so I can get away with adding a little interest (i.e. it can be a step above Butter in complexity)
-b. get people out of the minor set at some point—but again, probably not in the first half, because I'm playing the first half extra safe
-c. call my new dance, Emma's Emergency, written for a friend doing some last-minute dance workshop planning
-d. maybe work in a 4x4 to add some variety
+<ol type="a">
+<li>teach a full hey—but not until the second half, since we have a half hey in the first half and maybe a slightly newbier crowd than normal. My full hey intro should still be fairly simple, but it's in the second half, so I can get away with adding a little interest (i.e. it can be a step above Butter in complexity)</li>
+<li>get people out of the minor set at some point—but again, probably not in the first half, because I'm playing the first half extra safe</li>
+<li>call my new dance, Emma's Emergency, written for a friend doing some last-minute dance workshop planning</li>
+<li>maybe work in a 4x4 to add some variety</li>
+</ol>
 
 ### Filling Out the Program
 

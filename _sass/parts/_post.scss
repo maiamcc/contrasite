@@ -1,6 +1,6 @@
 .post {
 	.entry-content {
-		ul {
+		ul, ol {
 			padding-left: 1.5em;
 			@media screen and (max-width: 640px) {
 				padding-left: 1em;
