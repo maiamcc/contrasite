@@ -235,6 +235,7 @@ article#blogintro {
 div.dance-prog {
   color: $color-blog-body;
   text-align: center;
+  margin-top: -0.5em;  // compensate for the big bottom margin of <p>'s
 
   ol {
     display: inline-block;
