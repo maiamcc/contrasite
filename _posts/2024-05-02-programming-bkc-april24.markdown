@@ -46,14 +46,12 @@ At this point, my program looks like this:
   <ol>
     <li>??</li>
     <li>??</li>
-    <li>20 Below (Al Olson) – short waves, half hey</li>
+    <li>20 Below</li>
     <li>??</li>
     <li>??</li>
     <li>??</li>
-  </ol>
-  (break)
-  <ol start="7">
-    <li>??</li>
+    <li class="break">- - - break - - -</li>
+    <li value="7">??</li>
     <li>??</li>
     <li>??</li>
     <li>??</li>
@@ -92,7 +90,7 @@ As far as where to put the 4x4, it's novel but not actually that hard (assuming 
     <li>Wrinkled Ribbon</li>
     <li>??</li>
     <li>??</li>
-    <li>WarmUp (4x4, no half hey var.)</li>
+    <li>WarmUp (4x4)</li>
     <li>Emma's Emergency</li>
     <li>??</li>
   </ol>
@@ -112,7 +110,7 @@ Oh sigh, I'll Hold You In My Arms and 20 Below both have larks allemanding by th
 <div class="dance-prog">
   <ol>
     <li>The Appetizer</li>
-    <li>Spring Beauty var. (meltdown swing / zig zag prog)</li>
+    <li>Spring Beauty var.</li>
     <ul>
       <li>Alt.: Heartbeat Contra</li>
     </ul>
@@ -120,13 +118,11 @@ Oh sigh, I'll Hold You In My Arms and 20 Below both have larks allemanding by th
     <li>??</li>
     <li>??</li>
     <li>??</li>
-  </ol>
-  (break)
-  <ol start="7">
-    <li>Wrinkled Ribbon</li>
+    <li class="break">- - - break - - -</li>
+    <li value="7">Wrinkled Ribbon</li>
     <li>??</li>
     <li>??</li>
-    <li>WarmUp (4x4, no half hey var.)</li>
+    <li>WarmUp (4x4)</li>
     <li>Emma's Emergency</li>
     <li>??</li>
   </ol>
@@ -141,7 +137,7 @@ Except whoops, Stars 2 Stars and Minimum Fuss both have a chain+star progression
 <div class="dance-prog">
   <ol>
     <li>The Appetizer</li>
-    <li>Spring Beauty var. (meltdown swing / zig zag prog)</li>
+    <li>Spring Beauty var.</li>
     <ul>
       <li>Alt.: Heartbeat Contra</li>
     </ul>
@@ -165,7 +161,7 @@ That makes our whole program:
 <div class="dance-prog">
   <ol>
     <li>The Appetizer</li>
-    <li>Spring Beauty var. (meltdown swing / zig zag prog)</li>
+    <li>Spring Beauty var.</li>
     <ul>
       <li>Alt.: Heartbeat Contra</li>
     </ul>
@@ -173,13 +169,11 @@ That makes our whole program:
     <li>Stars 2 Stars</li>
     <li>Woven Waves</li>
     <li>Read Between the Lines</li>
-  </ol>
-  (break)
-  <ol start="7">
-    <li>Wrinkled Ribbon</li>
+    <li class="break">- - - break - - -</li>
+    <li value="7">Wrinkled Ribbon</li>
     <li>Practice Petronella</li>
     <li>Angel's Flight</li>
-    <li>WarmUp (4x4, no half hey var.)</li>
+    <li>WarmUp (4x4)</li>
     <li>Emma's Emergency</li>
     <li>Dancing on the Train</li>
   </ol>
@@ -204,19 +198,17 @@ We already have an alternate for Angel's Flight; WarmUp will (hopefully!) just b
     <ul>
       <li>Alt.: Judah Jig</li>
     </ul>
-    <li>Spring Beauty var. (meltdown swing / zig zag prog)</li>
+    <li>Spring Beauty var.</li>
     <ul>
       <li>Alt. (if Judah Jig): Spring Beauty (orig.)</li>
-      <li>Alt. (if Appetizer, but zig zag variant is a reach): Heartbeat Contra</li>
+      <li>Alt. (if Appetizer): Heartbeat Contra</li>
     </ul>
     <li>20 Below</li>
     <li>Stars 2 Stars</li>
     <li>Woven Waves</li>
     <li>Read Between the Lines</li>
-  </ol>
-  (break)
-  <ol start="7">
-    <li>Wrinkled Ribbon</li>
+    <li class="break">- - - break - - -</li>
+    <li value="7">Wrinkled Ribbon</li>
     <li>Practice Petronella</li>
     <ul>
       <li>Alt.: Maliza's Magical Mystery Motion</li>
@@ -225,7 +217,7 @@ We already have an alternate for Angel's Flight; WarmUp will (hopefully!) just b
     <ul>
       <li>Alt.: Catch a Falling Star</li>
     </ul>
-    <li>WarmUp (4x4, no half hey var.)</li>
+    <li>WarmUp (4x4)</li>
     <li>Emma's Emergency</li>
     <li>Dancing on the Train</li>
   </ol>
@@ -244,7 +236,7 @@ I decided that if I had a ton of beginners, I would start with a modified Baby R
     <ul>
       <li>The Baby Rose (easy prog.)</li>
     </ul>
-    <li>Spring Beauty var. (meltdown swing / zig zag prog)</li>
+    <li>Spring Beauty var.</li>
     <ul>
       <li>Alt.: Spend Some Time Together</li>
     </ul>
@@ -273,12 +265,10 @@ But aside from those changes, I called the program as I had planned it, and was 
     <li>Stars 2 Stars</li>
     <li>Woven Waves</li>
     <li>Suzie's Sendoff</li>
-  </ol>
-  (break)
-  <ol start="7">
-    <li>Wrinkled Ribbon</li>
+    <li class="break">- - - break - - -</li>
+    <li value="7">Wrinkled Ribbon</li>
     <li>Practice Petronella</li>
-    <li>WarmUp (4x4, no half hey var.)</li>
+    <li>WarmUp (4x4)</li>
     <li>Emma's Emergency</li>
     <li>Dancing on the Train</li>
   </ol>

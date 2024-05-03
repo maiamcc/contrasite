@@ -232,6 +232,20 @@ article#blogintro {
   margin-bottom: -.2em;
 }
 
+div.dance-prog {
+  color: $color-blog-body;
+  text-align: center;
+
+  ol {
+    display: inline-block;
+    text-align: left;
+  }
+
+  li.break {
+    list-style-type: none;
+    text-align: center;
+  }
+}
 .media-samples {
   list-style-type: none;
   text-align: justify;
