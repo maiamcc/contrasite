@@ -119,7 +119,6 @@ ul {
   //     and thanks to Harris Lapiroff (https://github.com/harrislapiroff) for the icon
   -webkit-mask-size: cover;
   mask-size: cover;
-  background-color: $color-link;
   content: "";
   display: inline-block;
   width: 1em;
@@ -127,6 +126,7 @@ ul {
   vertical-align: text-bottom;
   -webkit-mask-image: url(/assets/images/icon_assets/dance-tip.svg);
   mask-image: url(/assets/images/icon_assets/dance-tip.svg);
+  background-color: $color-link;
 }
 
 // see https://atomiks.github.io/tippyjs/v6/themes/#css-arrow
@@ -232,6 +232,22 @@ article#blogintro {
   margin-bottom: -.2em;
 }
 
+div.dance-prog {
+  color: $color-blog-body;
+  text-align: center;
+  margin-top: -0.5em;  // compensate for the big bottom margin of <p>'s
+
+  ol {
+    display: inline-block;
+    text-align: left;
+    padding: unset;
+  }
+
+  li.break {
+    list-style-type: none;
+    text-align: center;
+  }
+}
 .media-samples {
   list-style-type: none;
   text-align: justify;
