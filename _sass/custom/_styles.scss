@@ -114,6 +114,21 @@ ul {
   }
 }
 
+.dancetip::after {
+  // SVG icons with color settable via css (thanks to https://stackoverflow.com/a/68695062)
+  //     and thanks to Harris Lapiroff (https://github.com/harrislapiroff) for the icon
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  background-color: $color-link;
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: text-bottom;
+  -webkit-mask-image: url(/assets/images/icon_assets/dance-tip.svg);
+  mask-image: url(/assets/images/icon_assets/dance-tip.svg);
+}
+
 // see https://atomiks.github.io/tippyjs/v6/themes/#css-arrow
 // feels like there should be a more efficient way to do this but here we are
 .tippy-box[data-theme~='dance'][data-placement^='top'] > .tippy-arrow::before {
