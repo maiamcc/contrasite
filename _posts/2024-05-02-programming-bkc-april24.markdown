@@ -42,248 +42,311 @@ dances:
           - P swing, face dir. of prog.
       choreo_notes: "at beginning, N1 is directly across from you, N2 is diagonally across. Original A1 had a half hey up/down instead of a prom."
     - title: Wrinkled Ribbon
-      author: X
-      formation: X
+      author: Melanie Axel-Lute
+      formation: improper
       choreo:
         a1:
-          - X
+          - N alle. L 1 1/2
+          - robins chain (to P)
         a2:
-          - X
+          - full hey (robins by R)
         b1:
-          - X
+          - P b&s
         b2:
-          - X
+          - prom. across and loop wide to new Ns
+          - with these new Ns, circle R 3/4
     - title: "Emma's Emergency"
-      author: X
-      formation: X
+      author: Maia McCormick
+      formation: improper
       choreo:
         a1:
-          - X
+          - N b&s
         a2:
-          - X
+          - circle L 3/4
+          - (on the side) P RH bal. & box the gnat
         b1:
-          - X
+          - half hey (larks by L)
+          - P swing
         b2:
-          - X
+          - circle L 3/4
+          - bal. the ring & CA twirl
       choreo_notes: "See also: <a href=\"/dances.html#emmasemergency\">my choreo page</a>"
     - title: "The Appetizer"
-      author: X
-      formation: X
+      author: Scott Higgs
+      formation: improper
       choreo:
         a1:
-          - X
+          - N b&s
         a2:
-          - X
+          - long lines
+          - robins chain (to P)
         b1:
-          - X
+          - robins alle. R 1x
+          - P swing
         b2:
-          - X
+          - circle L 3/4
+          - bal. ring & pass through
     - title: "Spring Beauty var."
-      author: X
-      formation: X
+      author: Don Flaherty (Maia var.)
+      formation: improper
       choreo:
         a1:
-          - X
+          - N meltdown swing
         a2:
-          - X
+          - prom. across
+          - robins chain
         b1:
-          - X
+          - robins alle. R 1x
+          - P swing
         b2:
-          - X
+          - circle L 1 1/4 (10)
+          - zig L/zag R to meet new Ns (6)
     - title: "I'll Hold You In My Arms"
-      author: X
-      formation: X
+      author: Maia McCormick
+      formation: improper
       choreo:
         a1:
-          - X
+          - (new) larks alle. L 1 1/4
+          - P swing
         a2:
-          - X
+          - long lines
+          - robins chain
         b1:
-          - X
+          - bal. ring & spin R
+          - bal. ring & spin R
         b2:
-          - X
+          - N b&s (and look on slight L diag. for new larks)
       choreo_notes: "See also: <a href=\"/dances.html#illholdyouinmyarms\">my choreo page</a>"
     - title: "Heartbeat Contra"
-      author: X
-      formation: X
+      author: Don Flaherty
+      formation: improper
       choreo:
         a1:
-          - X
+          - bal. ring & spin R
+          - bal. ring & spin R
         a2:
-          - X
+          - N b&s
         b1:
-          - X
+          - robins cross by R (2)
+          - P swing (10)
         b2:
-          - X
+          - circle L 3/4
+          - bal. ring & CA twirl
+      choreo_notes: orig. A2 was "bal. ring, N swing"; orig. B1 was "robins RSR 1 1/2; P swing"
     - title: "Minimum Fuss, Maximum Fun"
-      author: X
-      formation: X
+      author: Dean Snipes
+      formation: improper
       choreo:
         a1:
-          - X
+          - N RH bal. & box the gnat to long waves (robins face out/larks in)
+          - bal. wave and circulate
         a2:
-          - X
+          - bal. wave and circulate
+          - N swing
         b1:
-          - X
+          - larks alle. L 1 1/2
+          - P swing
         b2:
-          - X
+          - robins chain
+          - LH star 1x
     - title: "Woven Waves"
-      author: X
-      formation: X
+      author: Cary Ravitz
+      formation: improper
       choreo:
         a1:
-          - X
+          - N b&s
         a2:
-          - X
+          - robins take 4 steps in to a wave of robins, balance
+          - robins STAY while the larks to a wave of larks, all balance
         b1:
-          - X
+          - facing star 3/4 (take outside hands with P, robins back up/larks go fwd)
+          - P swing
         b2:
-          - X
+          - circle L 3/4 and pass through
+          - new N do-si-do
     - title: "Stars 2 Stars"
-      author: X
-      formation: X
+      author: Dean Snipes
+      formation: improper
       choreo:
         a1:
-          - X
+          - RH star 1x
+          - N swing (and face down)
         a2:
-          - X
+          - down the hall
+          - turn as couples, come back, bend the line
         b1:
-          - X
+          - circle L 3/4
+          - P swing
         b2:
-          - X
+          - robins chain
+          - LH star 1x
     - title: "Read Between the Lines"
-      author: X
-      formation: X
+      author: Bob Isaacs
+      formation: becket L
       choreo:
         a1:
-          - X
+          - (slide L to) circle L 3/4
+          - N swing
         a2:
-          - X
+          - larks alle. L 1 1/2
+          - P alle. R 1 1/4 to long waves (larks out/robins in)
         b1:
-          - X
+          - bal. wave & circulate
+          - bal. wave & circulate
         b2:
-          - X
+          - P b&s
     - title: "Practice Petronella"
-      author: X
-      formation: X
+      author: Tom Lehmann
+      formation: becket L
       choreo:
         a1:
-          - X
+          - larks alle. L 1 1/2
+          - N swing
         a2:
-          - X
+          - long lines
+          - robins chain on L diag. (to shadow)
         b1:
-          - X
+          - "in a ring with N2 and shadow: bal. ring & spin R (2x)"
         b2:
-          - X
+          - P b&s
     - title: "Angel's Flight"
-      author: X
-      formation: X
+      author: Sue Rosen
+      formation: improper
       choreo:
         a1:
-          - X
+          - right shoulder 'round N 1 1/2
+          - (with current hands-four) RH star 1x
         a2:
-          - X
+          - next N left shoulder 'round 1x
+          - orig. N swing
         b1:
-          - X
+          - circle L 3/4
+          - P swing
         b2:
-          - X
+          - robins chain
+          - LH star 1x
     - title: "Catch a Falling Star"
-      author: X
-      formation: X
+      author: Melanie Axel-Lute
+      formation: improper
       choreo:
         a1:
-          - X
+          - N b&s
         a2:
-          - X
+          - circle L 3/4
+          - P swing
         b1:
-          - X
+          - long lines
+          - (hands-across) RH star 1x
         b2:
-          - X
+          - bal. star (4)
+          - robins pull by R to swap (while larks turn over L sh.) (4)
+          - (hands-across) LH star 1x
     - title: "Dancing on the Train"
-      author: X
-      formation: X
+      author: Michael Karcher
+      formation: becket L
       choreo:
         a1:
-          - X
+          - (slide L to) circle L 3/4
+          - N swing
         a2:
-          - X
+          - robins chain
+          - LH star 1x to long wave (LH with P, RH with shadow)
         b1:
-          - X
+          - Rory O'Moore
         b2:
-          - X
-      choreo_notes: "See also: <a href=\"/dances.html#dancingonthetrain\">my choreo page</a>"
+          - P b&s
     - title: "Maliza's Magical Mystery Motion"
-      author: X
-      formation: X
+      author: Cary Ravitz
+      formation: becket R
       choreo:
         a1:
-          - X
+          - larks alle. L 1 1/2
+          - N swing
         a2:
-          - X
+          - prom. across
+          - robins chain
         b1:
-          - X
+          - bal. ring & spin R <em>to face new N's</em>
+          - (with new Ns) bal. ring & spin R
         b2:
-          - X
-    - title: "Judah Jig"
-      author: X
-      formation: X
+          - P b&s
+    - title: "Midwest Folklore"
+      author: Orace Johnson
+      formation: becket L
       choreo:
         a1:
-          - X
+          - (slide L to) circle L 3/4
+          - N do-si-do
         a2:
-          - X
+          - N b&s
         b1:
-          - X
+          - circle L 3/4
+          - P do-si-do
         b2:
-          - X
+          - P swing
     - title: "Spring Beauty (orig.)"
-      author: X
-      formation: X
+      author: Don Flaherty
+      formation: improper
       choreo:
         a1:
-          - X
+          - N b&s
         a2:
-          - X
+          - prom. across
+          - robins chain
         b1:
-          - X
+          - robins alle. R 1x
+          - P swing
         b2:
-          - X
+          - circle L 3/4
+          - bal. the ring & CA twirl
     - title: "The Baby Rose var."
-      author: X
-      formation: X
+      author: David Kaynor
+      formation: improper
       choreo:
         a1:
-          - X
+          - N b&s
         a2:
-          - X
+          - circle L 3/4
+          - P do-si-do
         b1:
-          - X
+          - P b&s
         b2:
-          - X
+          - circle L 3/4
+          - bal. ring & pass through
+      choreo_notes: orig. B2 was "robins chain; LH star 1x"
     - title: "Spend Some Time Together"
-      author: X
-      formation: X
+      author: Luke Donforth
+      formation: improper
       choreo:
         a1:
-          - X
+          - long lines
+          - (new) N swing
         a2:
-          - X
+          - larks alle. L 1 1/2
+          - P do-si-do
         b1:
-          - X
+          - P b&s
         b2:
-          - X
+          - prom. across
+          - robins chain
     - title: "Suzie's Sendoff"
-      author: X
-      formation: X
+      author: Scott Higgs
+      formation: becket L
       choreo:
         a1:
-          - X
+          - (slide L to) circle L 3/4
+          - N swing
         a2:
-          - X
+          - long lines
+          - larks alle. L 1 1/2 to short wave (larks L/P R)
+          
         b1:
-          - X
+          - bal. wave, P alle. R 3/4 to long waves (larks in/robins out)
+          - bal. wave and circulate
         b2:
-          - X
+          - bal. wave and circulate
+          - P swing
+      choreo_notes: orig. A1 starts with a circle L 3/4 and pass through to the next
 ---
 
 I just finished putting together my program for Brooklyn Contra tomorrow [read: April 21, 2024], and figured I'd share a bit of my thought process. Here's the framework I was working with, the constraints I set myself, and how it developed into a full dance program.
@@ -456,8 +519,9 @@ At this point I'll go through and double check. I'm mainly checking for
 a) same-y-ness: e.g., back to back dances with the same start or progression, or with the same role allemanding; two dances next to each other with too similar a vibe; too many of a certain figure in half, etc.
 b) difficulty level: if the program as a whole is in fact too hard, if I have too many "reach" dances in a row, where I need to add alternates just in case.
   i. when picking alternate dances for a given slot in the program, I do my best to match the character of the plan A dance: stompy for stompy, smooth for smooth, etc. Often the easiest way to accomplish this is matching the main figure of the dance, so you'll see a lot of e.g. pairs of tough/easier petronella dances, or hey dances, etc. in my programs.
+c) presence of neighbor swings: I try not to call more than one dance per half without a neighbor swing, because IMO such a big part of contra is dancing with the other folks in your line
 
-My biggest question is, if I get a ton of beginners, can I get the crowd to where they need to be in time for a half hey in the third dance? I'm not actually _that_ worried about this, since half heys are actually quite manageable if taught well, but I should have a back-up plan in case I'm swamped with beginners. In a situation like that, I'd slow down my lesson to spend more time on swinging/ending in the right spot and set geography/progression, and skip teaching the chain in the lesson; I'd swap my first dance out for something even more glossary, without even a chain; and teach the chain from the floor in my second dance. My first thought for a mega simple first dance is Airpants, but I don't want to double up on A1 N b&s, so let's think further. A becket dance wouldn't be the worst here, and would in fact save people from having to cross over at the ends—so let's do {% include custom/dance_tooltip_link.html dance_title='Judah Jig' %}, a dead simple beginner becket dance. For a second dance to teach the chain, I would use the un-altered {% include custom/dance_tooltip_link.html dance_title='Spring Beauty (orig.)' %}: this dance has the advantage of a promenade just before the chain, which primes the dancers for the courtesy turn.[^5]
+My biggest question is, if I get a ton of beginners, can I get the crowd to where they need to be in time for a half hey in the third dance? I'm not actually _that_ worried about this, since half heys are actually quite manageable if taught well, but I should have a back-up plan in case I'm swamped with beginners. In a situation like that, I'd slow down my lesson to spend more time on swinging/ending in the right spot and set geography/progression, and skip teaching the chain in the lesson; I'd swap my first dance out for something even more glossary, without even a chain; and teach the chain from the floor in my second dance. My first thought for a mega simple first dance is Airpants, but I don't want to double up on A1 N b&s, so let's think further. A becket dance wouldn't be the worst here, and would in fact save people from having to cross over at the ends—so let's do {% include custom/dance_tooltip_link.html dance_title='Midwest Folklore' %}, a dead simple beginner becket dance. For a second dance to teach the chain, I would use the un-altered {% include custom/dance_tooltip_link.html dance_title='Spring Beauty (orig.)' %}: this dance has the advantage of a promenade just before the chain, which primes the dancers for the courtesy turn.[^5]
 
 I expect Wrinkled Ribbon to be doable with careful teaching, regardless of whether the hall is at. The shadow interaction in Practice Petronella might be rough if the hall is struggling, so let's add an alternative for that—another petronella dance is the simplest substitution, something easier than Practice Petronella but more interesting than Tica Tica Timing. I like {% include custom/dance_tooltip_link.html dance_title='Maliza\'s Magical Mystery Motion' %} for this: pretty accessible but the progression is interesting and zippy.
 
@@ -467,11 +531,11 @@ We already have an alternate for Angel's Flight; WarmUp will (hopefully!) just b
   <ol>
     <li>{% include custom/dance_tooltip_link.html dance_title='The Appetizer' %}</li>
     <ul>
-      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Judah Jig' %}</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Midwest Folklore' %}</li>
     </ul>
     <li>{% include custom/dance_tooltip_link.html dance_title='Spring Beauty var.' %}</li>
     <ul>
-      <li>Alt. (if Judah Jig): {% include custom/dance_tooltip_link.html dance_title='Spring Beauty (orig.)' %}</li>
+      <li>Alt. (if Midwest Folklore): {% include custom/dance_tooltip_link.html dance_title='Spring Beauty (orig.)' %}</li>
       <li>Alt. (if Appetizer): {% include custom/dance_tooltip_link.html dance_title='Heartbeat Contra' %}</li>
     </ul>
     <li>{% include custom/dance_tooltip_link.html dance_title='20 Below' %}</li>
@@ -520,7 +584,7 @@ I'm reporting back after the dance! Here's the program I ended up calling, and a
 
 I did indeed have a big crop of beginners, and fewer experienced folks than usual to absorb them (damnit, NEFFA!), so I went with my easy start plan: I slowed down the lesson to emphasize ending the swing in the right place, set geography, and progression (including crossing over when out), and omitted the chain. I opened with Easy Baby Rose and taught the chain from the mic (with a demo) in Spend Some Time Together.
 
-The half hey in 20 Below went just fine, and things were going shockingly well as we got rolling, so I decided to go for something a taaad more complicated than Read Between the Lines to end the half with; I subbed in Suzie's Sendoff, which is another box circulate dance and so similar in vibe, but slightly more interesting. (I realized the end of the first half was pretty wave-heavy[^7] and considered going a different route entirely for the last dance of the half, but announcements were sufficiently long that by the time we got dancing, it didn't feel like "ugh we just did this", so I stuck with my original plan.)
+The half hey in 20 Below went just fine, and things were going shockingly well as we got rolling, so I decided to go for something a taaad more complicated than Read Between the Lines to end the half with; I subbed in {% include custom/dance_tooltip_link.html dance_title='Suzie\'s Sendoff' %}, which is another box circulate dance and so similar in vibe, but slightly more interesting. (I realized the end of the first half was pretty wave-heavy[^7] and considered going a different route entirely for the last dance of the half, but announcements were sufficiently long that by the time we got dancing, it didn't feel like "ugh we just did this", so I stuck with my original plan.)
 
 After the first dance of the second half, I knew it would be cutting it close to jam in five more dances plus a waltz, so I decided to leave myself some breathing room, and planned for four more dances (totalling 5 in the second half). This meant that I could run all the dances a bit longer and give the dancers and the band time to groove out, and also could take more time teaching the funky bits without feeling pressed for time. Given that two of the dances in this half required double walkthroughs and substantial teaching (Practice Petronella and WarmUp), and we ended right on time, this was probably the right choice.
 
