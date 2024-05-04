@@ -8,23 +8,282 @@ footer: true
 description: "An entirely-too-detailed account of my process when programming an evening of contras."
 categories: calling programming
 dances:
-    - title: Franklin Flank
-      author: Nils Fredland
-      formation: improper
+    - title: 20 Below
+      author: Bill Olson
+      formation: becket L
       choreo:
         a1:
-          - N1 alle. R 1½ (8)
-          - hands-across LH star with N2 ½ (4)
-          - N3 alle. R 1x (4)
+          - circle L 3/4 into an ocean wave (NR, rob. L)
+          - bal. wave (4)
+          - walk forward (4)
         a2:
-          - hands-across LH star with N2 ½ (4)
-          - N1 swing (12)
+          - new N b&s
         b1:
-          - circle L ¾
-          - P swing
+          - larks alle. L 1 1/2
+          - half hey (P by R)
         b2:
-          - robins chain (to N)
-          - LH star 1x
+          - P b&s
+      choreo_notes: "Orig. A2: balance a new short wave, N swing"
+    - title: WarmUp
+      author: Bill Olson, Cary Ravitz, et al.
+      formation: 4x4
+      choreo:
+        a1:
+          - lines of four forward and back
+          - UP AND DOWN, promenade (with P)
+        a2:
+          - all robins RH star 2 places
+          - N2 swing
+        b1:
+          - ACROSS, larks alle. L 1 1/2
+          - N1 swing
+        b2:
+          - UP AND DOWN, groups of four circle L 3/4
+          - P swing, face dir. of prog.
+      choreo_notes: "at beginning, N1 is directly across from you, N2 is diagonally across. Original A1 had a half hey up/down instead of a prom."
+    - title: Wrinkled Ribbon
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Emma's Emergency"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+      choreo_notes: "See also: <a href=\"/dances.html#emmasemergency\">my choreo page</a>"
+    - title: "The Appetizer"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Spring Beauty var."
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "I'll Hold You In My Arms"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+      choreo_notes: "See also: <a href=\"/dances.html#illholdyouinmyarms\">my choreo page</a>"
+    - title: "Heartbeat Contra"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Minimum Fuss, Maximum Fun"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Woven Waves"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Stars 2 Stars"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Read Between the Lines"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Practice Petronella"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Angel's Flight"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Catch a Falling Star"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Dancing on the Train"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+      choreo_notes: "See also: <a href=\"/dances.html#dancingonthetrain\">my choreo page</a>"
+    - title: "Maliza's Magical Mystery Motion"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Judah Jig"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Spring Beauty (orig.)"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "The Baby Rose var."
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Spend Some Time Together"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
+    - title: "Suzie's Sendoff"
+      author: X
+      formation: X
+      choreo:
+        a1:
+          - X
+        a2:
+          - X
+        b1:
+          - X
+        b2:
+          - X
 ---
 
 I just finished putting together my program for Brooklyn Contra tomorrow [read: April 21, 2024], and figured I'd share a bit of my thought process. Here's the framework I was working with, the constraints I set myself, and how it developed into a full dance program.
@@ -46,7 +305,7 @@ At this point, my program looks like this:
   <ol>
     <li>??</li>
     <li>??</li>
-    <li>20 Below</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='20 Below' %}</li>
     <li>??</li>
     <li>??</li>
     <li>??</li>
@@ -76,7 +335,7 @@ For this dance, I'm going for options 1 + 2. Specific things I know I want to do
     get people out of the minor set at some point—but again, probably not in the first half, because I'm playing the first half extra safe
   </li>
   <li>
-    call my new dance, Emma's Emergency, written for a friend doing some last-minute dance workshop planning
+    call my new dance, {% include custom/dance_tooltip_link.html dance_title='Emma\'s Emergency' %}, written for a friend doing some last-minute dance workshop planning
   </li>
   <li>
     maybe work in a 4x4 to add some variety
@@ -87,9 +346,9 @@ For this dance, I'm going for options 1 + 2. Specific things I know I want to do
 
 #### Things I Know I Want to Call
 
-Thinking about the accessible 4x4s I have in my box: I called Coconut Cream Pie recently at BkC, and I don't know if there's enough room in the hall for the squared sets required for Dance All Night, so that leaves me with WarmUp. I want to keep it as easy as possible to compensate for a novel formation, so I'll swap out the half-hey for a promenade, and make sure to call a promenade earlier in the evening to prep dancers.
+Thinking about the accessible 4x4s I have in my box: I called Coconut Cream Pie recently at BkC, and I don't know if there's enough room in the hall for the squared sets required for Dance All Night, so that leaves me with {% include custom/dance_tooltip_link.html dance_title='WarmUp' %}. I want to keep it as easy as possible to compensate for a novel formation, so I'll swap out the half-hey for a promenade, and make sure to call a promenade earlier in the evening to prep dancers.
 
-This works out well because one of my go-to just-a-little-harder-than-Butter full hey dances is Wrinkled Ribbon, which has a J-hook promenade. So, great, let's assume that both of those dances will go in the second half.
+This works out well because one of my go-to just-a-little-harder-than-Butter full hey dances is {% include custom/dance_tooltip_link.html dance_title='Wrinkled Ribbon' %}, which has a J-hook promenade. So, great, let's assume that both of those dances will go in the second half.
 
 Emma's Emergency has a half hey, so I don't want it too close to 20 Below lest I overdo the half heys. It's got some novel transitions that I hope make it interesting, but it's not too complicated and easy on autopilot. These two factors together point to putting it as the penultimate dance, when people's brains are kind of fried. (I imagine the difficulty of the dance peaking at the beginning of the second half,[^1] and declining from the 4th-ish dance of the second half to the end.)
 
@@ -99,11 +358,11 @@ As far as where to put the 4x4, it's novel but not actually that hard (assuming 
 
 <div class="dance-prog">
   <ol start="7">
-    <li>Wrinkled Ribbon</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Wrinkled Ribbon' %}</li>
     <li>??</li>
     <li>??</li>
-    <li>WarmUp (4x4)</li>
-    <li>Emma's Emergency</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='WarmUp' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Emma\'s Emergency' %}</li>
     <li>??</li>
   </ol>
 </div>
@@ -111,83 +370,83 @@ As far as where to put the 4x4, it's novel but not actually that hard (assuming 
 Let's leave this for now and turn to the first half. (Look, I jump around a lot while programming, so thanks for bearing with me.) How am I going to warm up the crowd, especially assuming I'll have a lot of beginners?
 
 #### Getting the Beginners Up to Speed
-I have a few go-to opening dances; I specifically like The Appetizer to start because it includes a chain, but _not_ in the context of a chain+star progression[^2]. Let's put that first. For a second dance, I like the idea of practicing promenades and also shoring up chains, and I noticed a variation scribbled on one of my dance cards that I'd like to try out: so let's roll with this variation of Spring Beauty, which conveniently saves me from 2x dances in a row that start with N b&s.[^3]
+I have a few go-to opening dances; I specifically like {% include custom/dance_tooltip_link.html dance_title='The Appetizer' %} to start because it includes a chain, but _not_ in the context of a chain+star progression[^2]. Let's put that first. For a second dance, I like the idea of practicing promenades and also shoring up chains, and I noticed a variation scribbled on one of my dance cards that I'd like to try out: so let's roll with my {% include custom/dance_tooltip_link.html dance_title='Spring Beauty var.' %}, which conveniently saves me from 2x dances in a row that start with N b&s.[^3]
 
-However, I acknowledge this dance as a risk, since zig-zags are a novel figure (though easier than one might think, because of the physical connection—that's the only reason I'm risking it here), and the transition into a right shoulder 'round might be rougher than I hope. Let's put in an alternate in case the crowd doesn't seem up to this one. For a second dance of the evening that's beyond a glossary dance but still hard to mess up, I'll often reach for something connected, balance-y, and low piece count. In practice this often means a Rory O'Moore, petronellas, "Trip To" wavy line of [role] in the middle, down-the-hall, etc. I'll put in one of my petronella dances, I'll Hold You In My Arms, which I often use for this program niche (which I in fact wrote specifically so that I'd have an alternative to Tica Tica Timing for this specific need).
+However, I acknowledge this dance as a risk, since zig-zags are a novel figure (though easier than one might think, because of the physical connection—that's the only reason I'm risking it here), and the transition into a right shoulder 'round might be rougher than I hope. Let's put in an alternate in case the crowd doesn't seem up to this one. For a second dance of the evening that's beyond a glossary dance but still hard to mess up, I'll often reach for something connected, balance-y, and low piece count. In practice this often means a Rory O'Moore, petronellas, "Trip To" wavy line of [role] in the middle, down-the-hall, etc. I'll put in one of my petronella dances, {% include custom/dance_tooltip_link.html dance_title='I\'ll Hold You In My Arms' %}, which I often use for this program niche (which I in fact wrote specifically so that I'd have an alternative to Tica Tica Timing for this specific need).
 
-Oh sigh, I'll Hold You In My Arms and 20 Below both have larks allemanding by the left. This isn't a huuuge deal, but I like to give variety in my filler moves; specifically, I try not to put two dances with the same allemande in them back to back. So let's swap out my petronella dance for a similarly easy petronella dance without a larks' allemande. I'll put in Heartbeat Contra (a classic standby for a reason!) here.
+Oh sigh, I'll Hold You In My Arms and 20 Below both have larks allemanding by the left. This isn't a huuuge deal, but I like to give variety in my filler moves; specifically, I try not to put two dances with the same allemande in them back to back. So let's swap out my petronella dance for a similarly easy petronella dance without a larks' allemande. I'll put in {% include custom/dance_tooltip_link.html dance_title='Heartbeat Contra' %} (a classic standby for a reason!) here.
 
 (Now we have two dances in a row with "robins by the right"—Appetizer has allemandes, Heartbeat has a right shoulder 'round. But I don't like RSR 1.5x anyway unless it's for specific choreographic reasons (see Angel's Flight later in this program), so in practice I often change that to "robins cross by the right, swing your partner". We'll call it fine.)
 
 <div class="dance-prog">
   <ol>
-    <li>The Appetizer</li>
-    <li>Spring Beauty var.</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='The Appetizer' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Spring Beauty var.' %}</li>
     <ul>
-      <li>Alt.: Heartbeat Contra</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Heartbeat Contra' %}</li>
     </ul>
-    <li>20 Below</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='20 Below' %}</li>
     <li>??</li>
     <li>??</li>
     <li>??</li>
     <li class="break">- - - break - - -</li>
-    <li value="7">Wrinkled Ribbon</li>
+    <li value="7">{% include custom/dance_tooltip_link.html dance_title='Wrinkled Ribbon' %}</li>
     <li>??</li>
     <li>??</li>
-    <li>WarmUp (4x4)</li>
-    <li>Emma's Emergency</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='WarmUp' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Emma\'s Emergency' %}</li>
     <li>??</li>
   </ol>
 </div>
 
 #### Filling Out the Rest: First Half
 
-At this point, I can start slotting dances in by vibe and see if they work—I can always rejigger if needed. I like to close the half with something balance-y, and Minimum Fuss, Maximum Fun is one of my most accessible box circulate dances (a figure I adore), so let's put that 6th. The dance before it should contrast in some way; I could go for straight up smooth, but lately I've been digging Woven Waves as a novel-but-actually-quite-hard-to-mess-up dance, and it has a nice chunky-groovy feeling from the wavy lines in the center that could be a nice contrast to Minimum Fuss. Let's put that as the penultimate dance of the half. And I've collected a handful of "right hand star > neighbor swing" dances recently that I'd like to try, so we'll put one of them in here too.
+At this point, I can start slotting dances in by vibe and see if they work—I can always rejigger if needed. I like to close the half with something balance-y, and {% include custom/dance_tooltip_link.html dance_title='Minimum Fuss, Maximum Fun' %} is one of my most accessible box circulate dances (a figure I adore), so let's put that 6th. The dance before it should contrast in some way; I could go for straight up smooth, but lately I've been digging {% include custom/dance_tooltip_link.html dance_title='Woven Waves' %} as a novel-but-actually-quite-hard-to-mess-up dance, and it has a nice chunky-groovy feeling from the wavy lines in the center that could be a nice contrast to Minimum Fuss. Let's put that as the penultimate dance of the half. And I've collected a handful of "right hand star > neighbor swing" dances recently that I'd like to try, so we'll put one of them in here too, say {% include custom/dance_tooltip_link.html dance_title='Stars 2 Stars' %} (because down-the-halls are fun, good for newbies, and I don't have one in my program yet).
 
-Except whoops, Stars 2 Stars and Minimum Fuss both have a chain+star progression. At least they're not back to back, but I might as well avoid that; I'll replace Minimum Fuss with Read Between the Lines, another accessible box circulate dance. (And it ends with a partner b&s, always a fun way to end the half!) Thus for the first half, we have:
+Except whoops, Stars 2 Stars and Minimum Fuss both have a chain+star progression. At least they're not back to back, but I might as well avoid that; I'll replace Minimum Fuss with {% include custom/dance_tooltip_link.html dance_title='Read Between the Lines' %}, another accessible box circulate dance. (And it ends with a partner b&s, always a fun way to end the half!) Thus for the first half, we have:
 
 <div class="dance-prog">
   <ol>
-    <li>The Appetizer</li>
-    <li>Spring Beauty var.</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='The Appetizer' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Spring Beauty var.' %}</li>
     <ul>
-      <li>Alt.: Heartbeat Contra</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Heartbeat Contra' %}</li>
     </ul>
-    <li>20 Below</li>
-    <li>Stars 2 Stars</li>
-    <li>Woven Waves</li>
-    <li>Read Between the Lines</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='20 Below' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Stars 2 Stars' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Woven Waves' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Read Between the Lines' %}</li>
   </ol>
 </div>
 
 #### Filling Out the Rest: Second Half
 
-On to just slotting in stuff in the second half. I know I want to get people out of the minor set a bit, and I'm already slated to start the half with Wrinkled Ribbon (very smooth). I could find a smooth shadow/visit-next-neighbor dance and put it third, with something punchy in between... But so many of my leave-the-minor-set dances are smooth, what if I found a punchy one for a change of pace, and put it second? Hey, I collected Practice Petronella and haven't called it yet, let's do that: simple diagonal hey lost-and-found dance with petronellas.
+On to just slotting in stuff in the second half. I know I want to get people out of the minor set a bit, and I'm already slated to start the half with Wrinkled Ribbon (very smooth). I could find a smooth shadow/visit-next-neighbor dance and put it third, with something punchy in between... But so many of my leave-the-minor-set dances are smooth, what if I found a punchy one for a change of pace, and put it second? Hey, I collected {% include custom/dance_tooltip_link.html dance_title='Practice Petronella' %} (a lost-and-found diagonal hey dance with petronellas) and haven't called it yet, so let's do that.
 
-The third dance in the half is still within the realm of "everyone's warmed up and I can push the difficulty level", so I'll pull a slightly harder dance that I don't get to call as often—something smooth, to contrast Practice Petronella. Flipping through my smooth dances, Angel's Flight caught my eye: it's not actually that tough on paper and uses all glossary moves, but in practice the A part often trips people up,[^4] so it's a good "reach" dance. If in the moment it's feeling too dicey to go for Angel's Flight, I'll swap it out for, uh, how about Catch a Falling Star? I collected this one at Pinewoods last summer and still haven't had a chance to call it, and it feels pretty accessible, connected, and hard to mess up.
+The third dance in the half is still within the realm of "everyone's warmed up and I can push the difficulty level", so I'll pull a slightly harder dance that I don't get to call as often—something smooth, to contrast Practice Petronella. Flipping through my smooth dances, {% include custom/dance_tooltip_link.html dance_title='Angel\'s Flight' %} caught my eye: it's not actually that tough on paper and uses all glossary moves, but in practice the A part often trips people up,[^4] so it's a good "reach" dance. If in the moment it's feeling too dicey to go for Angel's Flight, I'll swap it out for, uh, how about {% include custom/dance_tooltip_link.html dance_title='Catch a Falling Star' %}? I collected this one at Pinewoods last summer and still haven't had a chance to call it, and it feels pretty accessible, connected, and hard to mess up.
 
-As for a last dance: I like to close with balances and moving together, and I'll always end an evening with a partner b&s. (In fact, I wrote a whole blog post about [Closing Contras](/blog/2023/07/05/closing-contras.html)!) Petronellas often work well for a last dance, but we already have two this evening. Rory O'Moore's are also lots of fun, so let's do that instead—I feel like I've called my go-to Rory closer (Still More O'Moore) a lot lately, so how about Dancing on the Train?
+As for a last dance: I like to close with balances and moving together, and I'll always end an evening with a partner b&s. (In fact, I wrote a whole blog post about [Closing Contras](/blog/2023/07/05/closing-contras.html)!) Petronellas often work well for a last dance, but we already have two this evening. Rory O'Moore's are also lots of fun, so let's do that instead—I feel like I've called my go-to Rory closer (Still More O'Moore) a lot lately, so how about {% include custom/dance_tooltip_link.html dance_title='Dancing on the Train' %}?
 
 That makes our whole program:
 
 <div class="dance-prog">
   <ol>
-    <li>The Appetizer</li>
-    <li>Spring Beauty var.</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='The Appetizer' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Spring Beauty var.' %}</li>
     <ul>
-      <li>Alt.: Heartbeat Contra</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Heartbeat Contra' %}</li>
     </ul>
-    <li>20 Below</li>
-    <li>Stars 2 Stars</li>
-    <li>Woven Waves</li>
-    <li>Read Between the Lines</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='20 Below' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Stars 2 Stars' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Woven Waves' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Read Between the Lines' %}</li>
     <li class="break">- - - break - - -</li>
-    <li value="7">Wrinkled Ribbon</li>
-    <li>Practice Petronella</li>
-    <li>Angel's Flight</li>
-    <li>WarmUp (4x4)</li>
-    <li>Emma's Emergency</li>
-    <li>Dancing on the Train</li>
+    <li value="7">{% include custom/dance_tooltip_link.html dance_title='Wrinkled Ribbon' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Practice Petronella' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Angel\'s Flight' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='WarmUp' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Emma\'s Emergency' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Dancing on the Train' %}</li>
   </ol>
 </div>
 
@@ -198,40 +457,40 @@ a) same-y-ness: e.g., back to back dances with the same start or progression, or
 b) difficulty level: if the program as a whole is in fact too hard, if I have too many "reach" dances in a row, where I need to add alternates just in case.
   i. when picking alternate dances for a given slot in the program, I do my best to match the character of the plan A dance: stompy for stompy, smooth for smooth, etc. Often the easiest way to accomplish this is matching the main figure of the dance, so you'll see a lot of e.g. pairs of tough/easier petronella dances, or hey dances, etc. in my programs.
 
-My biggest question is, if I get a ton of beginners, can I get the crowd to where they need to be in time for a half hey in the third dance? I'm not actually _that_ worried about this, since half heys are actually quite manageable if taught well, but I should have a back-up plan in case I'm swamped with beginners. In a situation like that, I'd slow down my lesson to spend more time on swinging/ending in the right spot and set geography/progression, and skip teaching the chain in the lesson; I'd swap my first dance out for something even more glossary, without even a chain; and teach the chain from the floor in my second dance. My first thought for a mega simple first dance is Airpants, but I don't want to double up on A1 N b&s, so let's think further. A becket dance wouldn't be the worst here, and would in fact save people from having to cross over at the ends—so let's do Judah Jig, a dead simple beginner becket dance. For a second dance to teach the chain, I would use the un-altered Spring Beauty: this dance has the advantage of a promenade just before the chain, which primes the dancers for the courtesy turn.[^5]
+My biggest question is, if I get a ton of beginners, can I get the crowd to where they need to be in time for a half hey in the third dance? I'm not actually _that_ worried about this, since half heys are actually quite manageable if taught well, but I should have a back-up plan in case I'm swamped with beginners. In a situation like that, I'd slow down my lesson to spend more time on swinging/ending in the right spot and set geography/progression, and skip teaching the chain in the lesson; I'd swap my first dance out for something even more glossary, without even a chain; and teach the chain from the floor in my second dance. My first thought for a mega simple first dance is Airpants, but I don't want to double up on A1 N b&s, so let's think further. A becket dance wouldn't be the worst here, and would in fact save people from having to cross over at the ends—so let's do {% include custom/dance_tooltip_link.html dance_title='Judah Jig' %}, a dead simple beginner becket dance. For a second dance to teach the chain, I would use the un-altered {% include custom/dance_tooltip_link.html dance_title='Spring Beauty (orig.)' %}: this dance has the advantage of a promenade just before the chain, which primes the dancers for the courtesy turn.[^5]
 
-I expect Wrinkled Ribbon to be doable with careful teaching, regardless of whether the hall is at. The shadow interaction in Practice Petronella might be rough if the hall is struggling, so let's add an alternative for that—another petronella dance is the simplest substitution, something easier than Practice Petronella but more interesting than Tica Tica Timing. I like Maliza's Magical Mystery Motion for this: pretty accessible but the progression is interesting and zippy.
+I expect Wrinkled Ribbon to be doable with careful teaching, regardless of whether the hall is at. The shadow interaction in Practice Petronella might be rough if the hall is struggling, so let's add an alternative for that—another petronella dance is the simplest substitution, something easier than Practice Petronella but more interesting than Tica Tica Timing. I like {% include custom/dance_tooltip_link.html dance_title='Maliza\'s Magical Mystery Motion' %} for this: pretty accessible but the progression is interesting and zippy.
 
 We already have an alternate for Angel's Flight; WarmUp will (hopefully!) just be a matter of careful teaching; and our last two dances are pretty doable and don't need alternates. So that leaves us with the following program:
 
 <div class="dance-prog">
   <ol>
-    <li>The Appetizer</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='The Appetizer' %}</li>
     <ul>
-      <li>Alt.: Judah Jig</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Judah Jig' %}</li>
     </ul>
-    <li>Spring Beauty var.</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Spring Beauty var.' %}</li>
     <ul>
-      <li>Alt. (if Judah Jig): Spring Beauty (orig.)</li>
-      <li>Alt. (if Appetizer): Heartbeat Contra</li>
+      <li>Alt. (if Judah Jig): {% include custom/dance_tooltip_link.html dance_title='Spring Beauty (orig.)' %}</li>
+      <li>Alt. (if Appetizer): {% include custom/dance_tooltip_link.html dance_title='Heartbeat Contra' %}</li>
     </ul>
-    <li>20 Below</li>
-    <li>Stars 2 Stars</li>
-    <li>Woven Waves</li>
-    <li>Read Between the Lines</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='20 Below' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Stars 2 Stars' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Woven Waves' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Read Between the Lines' %}</li>
     <li class="break">- - - break - - -</li>
-    <li value="7">Wrinkled Ribbon</li>
-    <li>Practice Petronella</li>
+    <li value="7">{% include custom/dance_tooltip_link.html dance_title='Wrinkled Ribbon' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Practice Petronella' %}</li>
     <ul>
-      <li>Alt.: Maliza's Magical Mystery Motion</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Maliza\'s Magical Mystery Motion' %}</li>
     </ul>
-    <li>Angel's Flight</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Angel\'s Flight' %}</li>
     <ul>
-      <li>Alt.: Catch a Falling Star</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Catch a Falling Star' %}</li>
     </ul>
-    <li>WarmUp (4x4)</li>
-    <li>Emma's Emergency</li>
-    <li>Dancing on the Train</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='WarmUp' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Emma\'s Emergency' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Dancing on the Train' %}</li>
   </ol>
 </div>
 
@@ -240,17 +499,17 @@ Annnnd we'll call this done!
 #### Wait, I Goofed
 In an effort to accurately represent my process, I'll note that as I was flipping through my program pre-sound check, I looked at my first few dances and went "no, Maia, this is stupid". If I have a ton of beginners and omit the chain from my lesson, part of the reason I'm doing that is so that I can drill set geography, and in particular improper formation and progression, so starting with a becket dance kind of undoes that.[^6]
 
-I decided that if I had a ton of beginners, I would start with a modified Baby Rose—in particular, swapping out the chain + star progression for circle left 3 places, balance the ring and pass through (see discussion of "The Appetizer" above for my feelings on beginners and chain + star progressions). I would then teach a chain from the floor in the second dance; but an un-altered Spring Beauty felt too repetitive with Baby Rose (in particular, both starting with a neighbor balance and swing), so I found another good chain intro dance: Spend Some Time Together. Like Spring Beauty, this dance has a promenade just before the chain, making it a really solid chain intro. If I ended up calling Spend Some…, I'd have two larks' allemandes in a row between that and 20 Below, but eh, at this point I didn't particularly care. If I had enough beginners to justify this, no one would notice or be troubled by back-to-back larks' allemandes. With this adjustment, the beginning of my program now looks like this:
+I decided that if I had a ton of beginners, I would start with {% include custom/dance_tooltip_link.html dance_title='The Baby Rose var.' %}—specifically, swapping out the chain + star progression for circle left 3 places, balance the ring and pass through (see discussion of "The Appetizer" above for my feelings on beginners and chain + star progressions). I would then teach a chain from the floor in the second dance; but an un-altered Spring Beauty felt too repetitive with Baby Rose (because both start with a neighbor balance and swing), so I found another good chain intro dance: {% include custom/dance_tooltip_link.html dance_title='Spend Some Time Together' %}. Like Spring Beauty, this dance has a promenade just before the chain, making it a really solid chain intro. If I ended up calling Spend Some Time Together, I'd have two larks' allemandes in a row between that and 20 Below, but eh, at this point I didn't particularly care. If I had enough beginners to justify this, no one would notice or be troubled by back-to-back larks' allemandes. With this adjustment, the beginning of my program now looks like this:
 
 <div class="dance-prog">
   <ol>
-    <li>The Appetizer</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='The Appetizer' %}</li>
     <ul>
-      <li>The Baby Rose (easy prog.)</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='The Baby Rose var.' %}</li>
     </ul>
-    <li>Spring Beauty var.</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Spring Beauty var.' %}</li>
     <ul>
-      <li>Alt.: Spend Some Time Together</li>
+      <li>Alt.: {% include custom/dance_tooltip_link.html dance_title='Spend Some Time Together' %}</li>
     </ul>
   </ol>
 </div>
@@ -271,18 +530,18 @@ But aside from those changes, I called the program as I had planned it, and was 
 
 <div class="dance-prog">
   <ol>
-    <li>The Baby Rose (easy prog.)</li>
-    <li>Spend Some Time Together</li>
-    <li>20 Below</li>
-    <li>Stars 2 Stars</li>
-    <li>Woven Waves</li>
-    <li>Suzie's Sendoff</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='The Baby Rose var.' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Spend Some Time Together' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='20 Below' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Stars 2 Stars' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Woven Waves' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Suzie\'s Sendoff' %}</li>
     <li class="break">- - - break - - -</li>
-    <li value="7">Wrinkled Ribbon</li>
-    <li>Practice Petronella</li>
-    <li>WarmUp (4x4)</li>
-    <li>Emma's Emergency</li>
-    <li>Dancing on the Train</li>
+    <li value="7">{% include custom/dance_tooltip_link.html dance_title='Wrinkled Ribbon' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Practice Petronella' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='WarmUp' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Emma\'s Emergency' %}</li>
+    <li>{% include custom/dance_tooltip_link.html dance_title='Dancing on the Train' %}</li>
   </ol>
 </div>
 
@@ -292,7 +551,7 @@ But aside from those changes, I called the program as I had planned it, and was 
 
 [^3]:  in its original form, Spring Beauty is another one of my favorite starting dances, because it also avoids chain+star progression, and the promenade primes dances for the courtesy turn of the chain immediately following.
 
-[^4]: presumably because of a. timing (rsr 1.5x is a tight figure), b. novelty (we're wayyy more used to a RSR 1x with a neighbor; when teaching, I have to _hammer home_ that it's 1.5x), and and c. disconnectedness—wayyy easier to mess up a RSR than an allemande, b/c you're not touching anyone and just floating in space
+[^4]: presumably because of a. timing (rsr 1.5x is a tight figure), b. novelty (we're wayyy more used to a RSR 1x with a neighbor; when teaching, I have to _hammer home_ that it's 1.5x), and c. disconnectedness—wayyy easier to mess up a RSR than an allemande, b/c you're not touching anyone and just floating in space
 
 [^5]: If things are really rough, Heartbeat Contra doesn't have a chain at all; I could call that second, and not teach the chain until the 4th dance, at which point I'd probably call Spring Beauty and bump everything else down a slot to end the half with Woven Waves.
 
