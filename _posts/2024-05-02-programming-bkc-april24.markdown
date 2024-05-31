@@ -396,7 +396,7 @@ For this dance, I'm going for options 1 + 2. Specific things I know I want to do
     get people out of the minor set at some point—but again, probably not in the first half, because I'm playing the first half extra safe
   </li>
   <li>
-    call my new dance, {% include custom/dance_tooltip_link.html dance_title='Emma\'s Emergency' %}, written for a friend doing some last-minute dance workshop planning
+    call my new dance, {% include custom/dance_tooltip_link.html dance_title='Emma\'s Emergency' %}, written for <a href="https://emmaazelborn.com/" target="_blank">Emma Azelborn</a> when she was having a last-minute-workshop-planning emergency
   </li>
   <li>
     maybe work in a 4x4 to add some variety (I try and throw in something a little novel every time I call Brooklyn Contra, because I want to broaden my home dance’s horizons and help build their skills)
@@ -482,7 +482,7 @@ Except whoops, Stars 2 Stars and Minimum Fuss both have a chain+star progression
 
 #### Filling Out the Rest: Second Half
 
-On to just slotting in stuff in the second half. I know I want to get people out of the minor set a bit, and I'm already slated to start the half with Wrinkled Ribbon (very smooth). I could find a smooth shadow/visit-next-neighbor dance and put it third, with something punchy in between... But so many of my leave-the-minor-set dances are smooth: what if I found a punchy one for a change of pace, and put it second? Hey, I collected {% include custom/dance_tooltip_link.html dance_title='Practice Petronella' %} (a lost-and-found diagonal hey dance with petronellas) and haven't called it yet, so let's do that.
+On to just slotting in stuff in the second half. I know I want to get people out of the minor set a bit, and I'm already slated to start the half with Wrinkled Ribbon (very smooth). I could find a smooth shadow/visit-next-neighbor dance and put it third, with something punchy in between... But so many of my leave-the-minor-set dances are smooth: what if I found a punchy one for a change of pace, and put it second? Hey, I collected {% include custom/dance_tooltip_link.html dance_title='Practice Petronella' %} (a lost-and-found diagonal chain dance with petronellas) and haven't called it yet, so let's do that.
 
 The third dance in the half is still within the realm of "everyone's warmed up and I can push the difficulty level", so I'll pull a slightly harder dance that I don't get to call as often—something smooth, to contrast Practice Petronella. Flipping through my smooth dances, {% include custom/dance_tooltip_link.html dance_title='Angel\'s Flight' %} caught my eye: it's not actually that tough on paper and uses all glossary moves, but in practice the A part often trips people up,[^4] so it's a good "reach" dance. If in the moment it's feeling too dicey to go for Angel's Flight, I'll swap it out for, uh, how about {% include custom/dance_tooltip_link.html dance_title='Catch a Falling Star' %}? I collected this one at Pinewoods last summer and still haven't had a chance to call it, and it feels pretty accessible, connected, and hard to mess up.
 
