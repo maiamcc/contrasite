@@ -13,6 +13,7 @@ footer: true
 <a id="past"></a>
 <h3 class="horizline">Dances/Events Called (selected)</h3>
 
+* [Beantown Stomp](//www.beantownstomp.com/) (Cambridge, MA)
 * [Queer Contra Dance Camp](//www.queercontradance.org/queercamp.html) (Aptos, CA)
 * [ESC Week at Pinewoods](//www.facebook.com/ESCPinewoods/) (Plymouth, MA)
 * [Contrashock](//contrashock.org/) (New York, NY)
