@@ -13,28 +13,37 @@ footer: true
 <a id="past"></a>
 <h3 class="horizline">Dances/Events Called (selected)</h3>
 
-* [Beantown Stomp](//www.beantownstomp.com/) (Cambridge, MA)
-* [Queer Contra Dance Camp](//www.queercontradance.org/queercamp.html) (Aptos, CA)
-* [ESC Week at Pinewoods](//www.facebook.com/ESCPinewoods/) (Plymouth, MA)
-* [Contrashock](//contrashock.org/) (New York, NY)
-* [Youth Dance Weekend](//youthdanceweekend.org) (Weston, VT)
-* [Dawn Dance](//dawndance.org/) (Brattleboro, VT)
-* [Contracopia](//www.thursdaycontra.com/contracopia/) (Philadelphia, PA)
-* [LCFD Spring Dance Camp](//www.lcfd.org/lcfd/) (Woodstock Valley, CT)
-* [The NEFFA Festival](//www.neffa.org/What_is_Festival.html) (Mansfield, MA)
-* [Concord Scout House (Thursday)](//www.neffa.org/Thurs.html) (Concord, MA)
-* [Concord Scout House (Monday)](//mondaycontras.com/) (Concord, MA)
-* [BIDA](//bidadance.org/) (Cambridge, MA)
-* [Boston Gender Free Contra Dance (Jamaica Plain)](//lcfd.org/jp/)
-* [Glen Echo (Friday Night Dance)](//fridaynightdance.org/) (Glen Echo, MD)
-* [Glen Echo (Sunday)](//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1) (Glen Echo, MD)
-* [Downtown Amherst Contra](//amherstcontra.org/Amherst_Contradance/Home.html) (Amherst, MA)
-* [Old Farmer's Ball](//oldfarmersball.com/) (Asheville, NC)
-* [CDNY](//cdny.org/) (New York, NY)
-* [Brooklyn Contra](//brooklyncontra.wordpress.com/) (Brooklyn, NY)
-* [Village Contra](//www.villagecontra.org/) [Gender-Free] (New York, NY)
-* [Mt. Airy, PA](//www.thursdaycontra.com/)
-* [Princeton, NJ](//princetoncountrydancers.org/)
-* [Baltimore Wednesday Night Contra Dance](//www.bfms.org/squarecontra.php)
-* [New Haven/Branford](//www.ctcontra.com/nhcd/) (Branford, CT)
-* [Swingin' Tern](//folkproject.org/swtern/swtern.shtml) (East Hanover, NJ)
+<div id="gig-map">
+	<iframe id="gig-map" src="https://www.google.com/maps/d/embed?mid=174DgP6W9ZGZxKcfwjEu8MfE9Vdd014c&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+</div>
+
+<div id="gig-history">
+	<ul>
+	  <li><a href="//www.beantownstomp.com/" target="_blank">Beantown Stomp</a> (Cambridge, MA)</li>
+	  <li><a href="//www.queercontradance.org/queercamp.html" target="_blank">Queer Contra Dance Camp</a> (Aptos, CA)</li>
+	  <li><a href="//camp.cdss.org/camp-weeks/american-dance-music-week-2/" target="_blank">American Week at Pinewoods</a> (Plymouth, MA)</li>
+	  <li><a href="//www.facebook.com/ESCPinewoods/" target="_blank">ESC Week at Pinewoods</a> (Plymouth, MA)</li>
+	  <li><a href="//contrashock.org/" target="_blank">Contrashock</a> (New York, NY)</li>
+	  <li><a href="//youthdanceweekend.org" target="_blank">Youth Dance Weekend</a> (Weston, VT)</li>
+	  <li><a href="//dawndance.org/" target="_blank">Dawn Dance</a> (Brattleboro, VT)</li>
+	  <li><a href="//www.thursdaycontra.com/contracopia/" target="_blank">Contracopia</a> (Philadelphia, PA)</li>
+	  <li><a href="//www.lcfd.org/lcfd/" target="_blank">LCFD Spring Dance Camp</a> (Woodstock Valley, CT)</li>
+	  <li><a href="//www.neffa.org/What_is_Festival.html" target="_blank">The NEFFA Festival</a> (Mansfield, MA)</li>
+	  <li><a href="//www.neffa.org/Thurs.html" target="_blank">Concord Scout House (Thursday)</a> (Concord, MA)</li>
+	  <li><a href="//mondaycontras.com/" target="_blank">Concord Scout House (Monday)</a> (Concord, MA)</li>
+	  <li><a href="//bidadance.org/" target="_blank">BIDA</a> (Cambridge, MA)</li>
+	  <li><a href="//lcfd.org/jp/" target="_blank">Boston Gender Free Contra Dance (Jamaica Plain)</a></li>
+	  <li><a href="//fridaynightdance.org/" target="_blank">Glen Echo (Friday Night Dance)</a> (Glen Echo, MD)</li>
+	  <li><a href="//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1" target="_blank">Glen Echo (Sunday)</a> (Glen Echo, MD)</li>
+	  <li><a href="//amherstcontra.org/Amherst_Contradance/Home.html" target="_blank">Downtown Amherst Contra</a> (Amherst, MA)</li>
+	  <li><a href="//oldfarmersball.com/" target="_blank">Old Farmer's Ball</a> (Asheville, NC)</li>
+	<li><a href="//cdny.org/" target="_blank">CDNY</a> (New York, NY)</li>
+	  <li><a href="//brooklyncontra.wordpress.com/" target="_blank">Brooklyn Contra</a> (Brooklyn, NY)</li>
+	  <li><a href="//www.villagecontra.org/" target="_blank">Village Contra</a> [Gender-Free] (New York, NY)</li>
+	  <li><a href="//www.thursdaycontra.com/" target="_blank">Mt. Airy, PA</a></li>
+	  <li><a href="//princetoncountrydancers.org/" target="_blank">Princeton, NJ</a></li>
+	  <li><a href="//www.bfms.org/squarecontra.php" target="_blank">Baltimore Wednesday Night Contra Dance</a></li>
+	  <li><a href="//www.ctcontra.com/nhcd/" target="_blank">New Haven/Branford</a> (Branford, CT)</li>
+	  <li><a href="//folkproject.org/swtern/swtern.shtml" target="_blank">Swingin' Tern</a> (East Hanover, NJ)</li>
+	</ul>
+</div>
