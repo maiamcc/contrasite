@@ -1,0 +1,17 @@
+#blog-sidebar {
+  width: 300px;
+  float: right;
+  padding: 25px;
+  position: relative;
+  z-index: 1;
+  background-color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+  @media screen and (max-width: 750px) {
+    float: none;
+  }
+}
+
+#sidebar-content {
+  border: 5px double;
+}

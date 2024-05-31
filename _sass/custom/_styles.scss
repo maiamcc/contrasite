@@ -15,14 +15,6 @@ ul {
   margin-top: -0.25em !important;
 }
 
-#flashmob-how-to .level-1 {
-  list-style-type: disc;
-  font-weight: bold;
-  ul {
-    font-weight: normal;
-  }
-}
-
 .horizline {
   border-bottom: 1px solid black;
   margin-bottom: 10px !important;
@@ -32,130 +24,9 @@ ul {
   text-align: left !important;
 }
 
-#blurb-container {
-  margin: 1.2em 0 1.2em 0;
-  p {
-    padding: 0;
-    margin: 0;
-  }
-}
-
-.dance{
-  background-color: #CCCCCC;
-  color: $color-blog-body;
-  padding: 5px 10px 10px 10px;
-  margin-bottom: 20px;
-
-  sup {
-    // get rid of extraneous footnote padding in this context
-    padding: 0 !important;
-  }
-  .fn-ref {
-    font-weight: 400;
-  }
-
-  p {
-    margin: 0 !important;
-    padding-left: 2em;
-    text-indent: -2em;
-
-    &.indent {
-      padding-left: 3em;
-    }
-  }
-  h3, h4 {
-    margin: 0 0 2px 0 !important;
-  }
-
-  .dance-title-line {
-    font-size: 105%;
-  }
-  .dance-starts {
-    text-indent: 1em;
-    font-size: 95%;
-  }
-
-  .dance-choreo {
-    padding: 0.2em 0 0.5em 0;
-  }
-
-  .dance-notes {
-    font-style: italic;
-    font-size: 97%;
-    strong {
-      font-size: 103%;  // put back to original font size for section header bits
-    }
-    div {
-      padding-bottom: 6px;
-    }
-  }
-
-  .dance-footnotes {
-    ul {
-      list-style: none;
-    }
-  }
-
-  .author {
-    font-size: 97%;
-    font-weight: 300;
-  }
-}
-
-.tippy-box[data-theme~='dance'] {
-  background-color: #CCCCCC;
-  color: $color-blog-body;
-
-  .dance {  // unset props of this class that are only relevant for non-tooltip-land
-    background-color: unset;
-    color: unset;
-    padding: unset;
-    margin-bottom: unset;
-  }
-}
-
-.dancetip::after {
-  // SVG icons with color settable via css (thanks to https://stackoverflow.com/a/68695062)
-  //     and thanks to Harris Lapiroff (https://github.com/harrislapiroff) for the icon
-  -webkit-mask-size: cover;
-  mask-size: cover;
-  content: "";
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  vertical-align: text-bottom;
-  -webkit-mask-image: url(/assets/images/icon_assets/dance-tip.svg);
-  mask-image: url(/assets/images/icon_assets/dance-tip.svg);
-  background-color: $color-link;
-}
-
-// see https://atomiks.github.io/tippyjs/v6/themes/#css-arrow
-// feels like there should be a more efficient way to do this but here we are
-.tippy-box[data-theme~='dance'][data-placement^='top'] > .tippy-arrow::before {
-  border-top-color: #CCCCCC;
-}
-.tippy-box[data-theme~='dance'][data-placement^='bottom'] > .tippy-arrow::before {
-  border-bottom-color: #CCCCCC;
-}
-.tippy-box[data-theme~='dance'][data-placement^='left'] > .tippy-arrow::before {
-  border-left-color: #CCCCCC;
-}
-.tippy-box[data-theme~='dance'][data-placement^='right'] > .tippy-arrow::before {
-  border-right-color: #CCCCCC;
-}
-
-.new {
-  box-shadow: 0px 0px 15px rgba(52, 152, 219, 0.8) !important;
-  border: medium double rgba(52, 152, 219, 0.5);
-}
-
 .pagination {text-align:center;}
 a.prev {float:left;}
 a.next {float:right;}
-
-article#blogintro {
-  margin-bottom: 1em;
-}
 
 #rss-link {
   float: right;
@@ -167,152 +38,16 @@ article#blogintro {
   }
 }
 
-#blognav {
-  margin: 10px 0 10px 0;
-  text-align: center;
-  font-size: 18px;
-  font-weight: 600;
-  @media screen and (max-width: 600px) {
-    font-size: 15px;
-    font-weight: 300;
-  }
-  a {
-    color: #3498db;
-  }
+#flashmob-how-to .level-1 {
+  list-style-type: disc;
+  font-weight: bold;
   ul {
-    list-style-type: none;
-    li {
-      display: inline;
-      &:last-of-type {
-        &:after {
-	  content: '';
-	  padding: 0;
- 	}
-      }
-      &:after {
-	content: '*';
-	padding: 0 10px 0 10px;
-      }
-    }
+    font-weight: normal;
   }
 }
 
-.category {
-  text-align: center;
-}
 
-.credit {
-  font-style: italic;
-  font-size: 90%;
-  text-align: right;
-}
-
-.blogpost {
-  margin-bottom: 1.5em;
-  &:not(:last-of-type) {border-bottom: 2px dotted #3498db;}
-}
-
-#archives,#recent-posts {
-  h3 {
-    margin: 5px 0 0 0;
-  }
-  .meta {
-    margin-left: 20px;
-  }
-  .post-description {
-    margin: 0px auto 0px 20px;
-  }
-}
-
-.more-link {
-  display: block;
-  text-align: right;
-  font-size: 18px;
-  font-weight: 600;
-  margin-bottom: -.2em;
-}
-
-div.dance-prog {
-  color: $color-blog-body;
-  text-align: center;
-  margin-top: -0.5em;  // compensate for the big bottom margin of <p>'s
-
-  ol {
-    display: inline-block;
-    text-align: left;
-    padding: unset;
-  }
-
-  li.break {
-    list-style-type: none;
-    text-align: center;
-  }
-}
-.media-samples {
-  list-style-type: none;
-  text-align: justify;
-  margin-left: 0 !important;
-
-  &:after {
-    content: "";
-    width: 100%;
-    display: inline-block;
-  }
-
-  li {
-    display: block;
-    float: left;
-    width: 48%;
-    padding: 1%;
-
-    @media screen and (max-width: 885px) {
-      width: 70%;
-      padding: 5px 15%;
-    }
-    @media screen and (max-width: 640px) {
-      width: 100%;
-      padding: 5px 0;
-    }
-  }
-}
-
-.comma-list {
-  display: inline;
-  list-style: none;
-  padding: 0px;
-
-  li {
-    display: inline;
-    &::after {
-      content: ", ";
-      margin-left: -0.25em;
-    }
-    &:last-child::after {
-      content: "";
-    }
-  }
-}
-
-// blog sidebar
-#blog-sidebar {
-  width: 300px;
-  float: right;
-  padding: 25px;
-  position: relative;
-  z-index: 1;
-  background-color: #FFFFFF;
-  margin-left: auto;
-  margin-right: auto;
-  @media screen and (max-width: 750px) {
-    float: none;
-  }
-}
-
-#sidebar-content {
-  border: 5px double;
-}
-
-// Gigs page formatting
-#gig-map {
-  text-align: center;
-}
+@import "custom/styles_blog";
+@import "custom/styles_dance";
+@import "custom/styles_sidebar";
+@import "custom/styles_gigs";
