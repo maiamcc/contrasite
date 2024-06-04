@@ -54,3 +54,4 @@ To create a tooltip'd dance link (using [Tippy](https://atomiks.github.io/tippyj
 - [] choreo: mousing over a footnote highlights the corresponding text
 - [] blog: sidebar with recent posts? (look at formatting in partials/sidebar.scss, which currently isn't imported)
 - [] dance tooltips: hovering over dance link changes the tooltip icon to hover color as well
+- [] javascript etc.: only load JS scripts (fitfids, fancybox) when requested by the page
