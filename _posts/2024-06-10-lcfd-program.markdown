@@ -15,7 +15,6 @@ So jazzed to have gotten to call [LCFD](//www.lcfd.org/lcfd-camps.html)'s Spring
 * **Redbeard Reel** (Bob Isaacs)
 * **Face Out With the In Crowd** (Bob Isaacs)
 
-
 ### Saturday Morning (with Tim & Helen)
 * **Cows Are Watching** (Bill Pope & Judy Goldsmith)
 * **Jim's Whim** (Rich McMath)
