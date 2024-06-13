@@ -5,7 +5,7 @@ date: 2024-06-10 7:04:00
 comments: true
 categories: programs
 ---
-So jazzed to have gotten to call [LCFD](//www.lcfd.org/lcfd-camps.html)'s Spring Dance Camp again---and at beautiful Pinewoods no less! What a lovely space and a lovely bunch of dancers. I taught a waltz workshop and reprised my Contra Superglue workshop from last spring's West Coast Queer Camp, and called some dances besides. (Big thanks to all-star musicians Anna Patton, Audrey Jaber, Michael Freeman, Tim Ball, and Helen Kuhar!) Here's what I called (interspersed with English from Scott Higgs and contras from Stephanie Marie):
+So jazzed to have gotten to call [LCFD](//www.lcfd.org/lcfd-camps.html)'s Spring Dance Camp again---and at beautiful Pinewoods no less! What a lovely space and a lovely bunch of dancers. I taught a waltz workshop and reprised my Contra Superglue workshop from last spring's West Coast Queer Camp, and also called some dances. (Big thanks to all-star musicians Anna Patton, Audrey Jaber, Michael Freeman, Tim Ball, and Helen Kuhar!) Here's what I called (interspersed with English from Scott Higgs and contras from Stephanie Marie):
 <!-- more -->
 
 ### Friday Evening (with AMA)
