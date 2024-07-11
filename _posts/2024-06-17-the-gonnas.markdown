@@ -10,7 +10,7 @@ categories: calling
 ---
 The number one piece of feedback I give new callers is: "don't say 'gonna'."[^1]
 
-I'd call it a pet peeve, but it doesn't suuuper trip me up as a dancer, since I've learned to translate past it---but I know that it makes life harder for less experienced folks on the floor, not to mention for the next caller who works with these dancers. And somehow, wildly, almost _every_ new caller falls prey to this insidious phenomenon.
+It doesn't particularly trip me up as a dancer, since I've learned to translate past it---but I know that it makes life harder for less experienced folks on the floor, not to mention for the next caller who works with these dancers. And somehow, wildly, almost _every_ new caller falls prey to this insidious phenomenon.
 
 Let's talk about it.
 
