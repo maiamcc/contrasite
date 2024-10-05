@@ -1,8 +1,9 @@
 <ul class="main-nav">
-    <li><a href="{{ root_url }}/">Home</a></li>
-    <li><a href="{{ root_url }}/dances.html">Dances</a></li>
-    <li><a href="{{ root_url }}/gigs.html">Gigs</a></li>
-    <li><a href="{{ root_url }}/tunes.html">Tunes</a></li>
-    <li><a href="{{ root_url }}/blog">Blog</a></li>
-    <li><a href="{{ root_url }}/contact.html">Contact</a></li>
+    {% for item in site.nav_items %}
+        {% if item[1][0] == '/' %}
+            <li><a href="{{ root_url }}{{ item[1] }}">{{ item[0] }}</a></li>
+        {% else %}
+            <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+        {% endif %}
+    {% endfor %}
 </ul>

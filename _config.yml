@@ -33,6 +33,15 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Navigation
+nav_items:
+  "Home": "/"
+  "Dances":  "/dances.html"
+  "Gigs": "/gigs.html"
+  "Tunes": "/tunes.html"
+  "Blog": "/blog"
+  "Contact": "contact.html"
+  "Press Kit": "https://drive.google.com/drive/u/0/folders/1kNPJKqvzobKpjKvp35RzvWwlLEWgWFqL"
 
 # Blog settings
 permalink: /blog/:year/:month/:day/:title.html
