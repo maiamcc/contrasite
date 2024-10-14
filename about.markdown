@@ -38,7 +38,7 @@ Workshops I have taught include:
 
 I am also happy to create workshops, themed dance sessions, etc. on any dance topic I have expertise in—please ask! (Additionally, I'm a singer, and comfortable teaching vocal music in a variety of styles, facilitating song swaps and pub sings, etc.)
 
-<h2 id="press-kit">Press Kit / Calling Samples</h2>
+<h2 id="press-kit">Press Kit</h2>
 
 <h3 id="headshots">Headshots</h3>
 _(Click to download full-sized image. Crop at will.)_
