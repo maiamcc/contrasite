@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 # About Me
-Hi, I'm Maia 👋🏻 I started dancing in my freshman year at Williams College, and started calling shortly thereafter, because the student contra group needed callers and I was already a bit of ham, so why not stand in front of a mic and tell people what to do?! I was hooked on both dancing and calling, and I've been doing both ever since!
+Hi, I'm Maia 👋🏻 I started dancing in my freshman year at Williams College, and started calling shortly thereafter, because the student contra group needed callers and I was already a bit of a ham, so why not stand in front of a mic and tell people what to do?! I was hooked on both dancing and calling, and I've been doing both ever since!
 
 Other hats I wear, in case you're curious:
 
