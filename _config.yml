@@ -40,8 +40,7 @@ nav_items:
   "Gigs": "/gigs.html"
   "Tunes": "/tunes.html"
   "Blog": "/blog"
-  "Contact": "contact.html"
-  "Press Kit": "https://drive.google.com/drive/u/0/folders/1kNPJKqvzobKpjKvp35RzvWwlLEWgWFqL"
+  "About": "about.html"
 
 # Blog settings
 permalink: /blog/:year/:month/:day/:title.html

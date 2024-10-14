@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 # About Me
-Drop me an email at maia [dot] mcc [at] gmail [dot] com. You can also [find me on Facebook](//www.facebook.com/maiacallsdances). References available on request.
+Hi, I'm Maia 👋🏻 I started dancing in my freshman year at Williams College, and started calling shortly thereafter, because the student contra group needed callers and I was already a bit of ham, so why not stand in front of a mic and tell people what to do?! I was hooked on both dancing and calling, and I've been doing both ever since!
 
 Other hats I wear, in case you're curious:
 
@@ -22,6 +22,9 @@ Other hats I wear, in case you're curious:
 	</li>
 </ul>
 
+### Contact
+Drop me an email at maia [dot] mcc [at] gmail [dot] com. You can also [find me on Facebook](//www.facebook.com/maiacallsdances). References and calling samples available on request.
+
 ## Workshops Offered
 Workshops I have taught include:
 * Contra Superglue (holding lines together, recovery skills, dance floor citizenship)
@@ -35,7 +38,7 @@ Workshops I have taught include:
 
 I am also happy to create workshops, themed dance sessions, etc. on any dance topic I have expertise in—please ask! (Additionally, I'm a singer, and comfortable teaching vocal music in a variety of styles, facilitating song swaps and pub sings, etc.)
 
-## Press Kit / Calling Samples
+<h2 id="press-kit">Press Kit / Calling Samples</h2>
 
 <h3 id="headshots">Headshots</h3>
 _(Click to download full-sized image. Crop at will.)_
@@ -65,7 +68,10 @@ Maia is a contradance caller and choreographer based in New York City and has ca
 * "I've noticed that you only tell a joke or an anecdote when it's relevant or when you need to kill some time, and I appreciate that - it makes for a very tight-feeling evening where I feel like we danced as much as we could." (Boston-area dancer)
 -->
 
+<!--
 <h3 id="calling-samples">Calling Samples</h3>
+
+_(References available on request.)_
 
 <ul class="media-samples">
   <li>
@@ -75,4 +81,5 @@ Maia is a contradance caller and choreographer based in New York City and has ca
     <iframe width="420" height="315" src="//www.youtube.com/embed/E_dYxngm24Q" frameborder="0" allowfullscreen=""></iframe>
   </li>
 </ul>
+-->
 
