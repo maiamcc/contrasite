@@ -7,8 +7,17 @@ em { /* make italics a little bolder */
   font-weight: 400;
 }
 
-ul {
+ul, ol {
   list-style-type: circle;
+  margin-left: 1.5em;
+  @media screen and (max-width: 640px) {
+    margin-left: 1em;
+  }
+
+  li > ul {
+    // nested list
+    list-style-type: "+ ";
+  }
 }
 
 .narrow-top {
