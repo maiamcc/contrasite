@@ -47,6 +47,20 @@ a.next {float:right;}
 }
 
 
+.image-gallery {
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  a {
+    padding-right: 10px;
+    &:last-of-type {
+      padding-right: 0px;
+    }
+  }
+}
+
+
 @import "custom/styles_blog";
 @import "custom/styles_dance";
 @import "custom/styles_sidebar";
