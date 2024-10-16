@@ -22,6 +22,8 @@ Other hats I wear, in case you're curious:
 	</li>
 </ul>
 
+For more about my contra journey, calling philosophy, etc., check out [my interview on From the Mic](https://cdss.org/podcasts/podcast/from-the-mic-episode-25-maia-mccormick/) with the lovely Mary Wesley!
+
 ### Contact
 Drop me an email at maia [dot] mcc [at] gmail [dot] com. You can also [find me on Facebook](//www.facebook.com/maiacallsdances). References and calling samples available on request.
 
