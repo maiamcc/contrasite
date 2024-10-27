@@ -62,7 +62,7 @@ _(Click to download full-sized image. Crop at will.)_
 <h3 id="bio">Bio</h3>
 _(Feel free to use this bio in full or in part. If you need something different, contact me and I'll happily provide.)_
 
-Maia is a contradance caller and choreographer based in New York City and has called festivals, dance camps, and weekends all over the country. She got her calling start while organizing the Williams College contradance, and has been behind the mic ever since. Maia is known for her accessible and stimulating programming, her dedication to building safe and comfortable dance floors, and for her terrible (charming?) puns.
+Maia is a contradance caller and choreographer based in New York City and has called festivals, dance camps, and weekends all over the country. She got her calling start while organizing the Williams College contradance, and has been behind the mic ever since. Maia is known for her accessible and stimulating programming, her dedication to building safe and comfortable dance floors, and her terrible (charming?) puns.
 
 <!--
 <h3 id="testimonials">Testimonials</h3>
