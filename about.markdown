@@ -46,14 +46,17 @@ I am also happy to create workshops, themed dance sessions, etc. on any dance to
 _(Click to download full-sized image. Crop at will.)_
 
 <div class="image-gallery">
-	<a href="/assets/images/calling_headshot.jpg" title="Calling headshot -- taken by Frank Kreimendahl at Youth Dance Weekend 2017" target="_blank">
-		<img src="/assets/images/calling_headshot.jpg" alt="Calling headshot -- taken by Frank Kreimendahl at Youth Dance Weekend 2017" width="250" />
+	<a href="/assets/images/press_kit/headshot-ydw-2017.jpg" title="Calling headshot -- taken by Frank Kreimendahl at Youth Dance Weekend 2017" target="_blank">
+		<img src="/assets/images/press_kit/headshot-ydw-2017.jpg" alt="Calling headshot -- taken by Frank Kreimendahl at Youth Dance Weekend 2017" width="250" />
 	</a>
-	<a href="/assets/images/headshot-qcdc-2023.jpg" title="Calling headshot -- taken by Julia J. Chambers at Queer Contra Dance Camp 2023" target="_blank">
-		<img src="/assets/images/headshot-qcdc-2023.jpg" alt="Calling headshot -- taken by Julia J. Chambers at Queer Contra Dance Camp 2023" width="250" />
+	<a href="/assets/images/press_kit/headshot-qcdc-2023.jpg" title="Calling headshot -- taken by Julia J. Chambers at Queer Contra Dance Camp 2023" target="_blank">
+		<img src="/assets/images/press_kit/headshot-qcdc-2023.jpg" alt="Calling headshot -- taken by Julia J. Chambers at Queer Contra Dance Camp 2023" width="250" />
 	</a>
-	<a href="/assets/images/headshot-lcfd-2024.jpg" title="Calling headshot -- taken by Harris Lapiroff at LCFD Spring Camp 2024" target="_blank">
-		<img src="/assets/images/headshot-lcfd-2024.jpg" alt="Calling headshot -- taken by Harris Lapiroff at LCFD Spring Camp 2024" width="250" />
+	<a href="/assets/images/press_kit/headshot-lcfd-2024.jpg" title="Calling headshot -- taken by Harris Lapiroff at LCFD Spring Camp 2024" target="_blank">
+		<img src="/assets/images/press_kit/headshot-lcfd-2024.jpg" alt="Calling headshot -- taken by Harris Lapiroff at LCFD Spring Camp 2024" width="250" />
+	</a>
+	<a href="/assets/images/press_kit/action-pedagogy.jpg" title="Action pedagogy! -- taken by Ben Douglas at LCFD Spring Camp 2024" target="_blank">
+		<img src="/assets/images/press_kit/action-pedagogy-cropped.jpg" alt="Action pedagogy! -- taken by Ben Douglas at LCFD Spring Camp 2024" width="250" />
 	</a>
 </div>
 
