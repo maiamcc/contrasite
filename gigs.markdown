@@ -19,6 +19,8 @@ footer: true
 
 <div id="gig-history">
 	<ul>
+	  <li><a href="//www.monadnockfolk.org/" target="_blank">Peterborough Fall Ball</a> (Peterborough, NH)</li>
+	  <li><a href="//bacds.org/camps/btb" target="_blank">Balance the Bay</a> (San Francisco, CA)</li>
 	  <li><a href="//www.beantownstomp.com/" target="_blank">Beantown Stomp</a> (Cambridge, MA)</li>
 	  <li><a href="//www.queercontradance.org/queercamp.html" target="_blank">Queer Contra Dance Camp</a> (Aptos, CA)</li>
 	  <li><a href="//camp.cdss.org/camp-weeks/american-dance-music-week-2/" target="_blank">American Week at Pinewoods</a> (Plymouth, MA)</li>
@@ -32,6 +34,7 @@ footer: true
 	  <li><a href="//www.neffa.org/Thurs.html" target="_blank">Concord Scout House (Thursday)</a> (Concord, MA)</li>
 	  <li><a href="//mondaycontras.com/" target="_blank">Concord Scout House (Monday)</a> (Concord, MA)</li>
 	  <li><a href="//bidadance.org/" target="_blank">BIDA</a> (Cambridge, MA)</li>
+	  <li><a href="//www.guidingstargrange.org/events.html" target="_blank">Guiding Star Grange</a> (Greenfield, MA)</li>
 	  <li><a href="//lcfd.org/jp/" target="_blank">Boston Gender Free Contra Dance (Jamaica Plain)</a></li>
 	  <li><a href="//fridaynightdance.org/" target="_blank">Glen Echo (Friday Night Dance)</a> (Glen Echo, MD)</li>
 	  <li><a href="//fsgw.org/myorgnet/public.php?Org=fsgw&ProgramID=5&NoTitle=1" target="_blank">Glen Echo (Sunday)</a> (Glen Echo, MD)</li>
