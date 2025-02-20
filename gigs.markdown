@@ -19,6 +19,7 @@ footer: true
 
 <div id="gig-history">
 	<ul>
+	  <li><a href="//www.flurryfestival.org/" target="_blank">The Dance Flurry</a> (Saratoga, NY)</li>
 	  <li><a href="//www.monadnockfolk.org/" target="_blank">Peterborough Fall Ball</a> (Peterborough, NH)</li>
 	  <li><a href="//bacds.org/camps/btb" target="_blank">Balance the Bay</a> (San Francisco, CA)</li>
 	  <li><a href="//www.beantownstomp.com/" target="_blank">Beantown Stomp</a> (Cambridge, MA)</li>
