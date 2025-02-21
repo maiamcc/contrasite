@@ -17,7 +17,7 @@ It was a delight to call [Dance Flurry 2025](https://www.flurryfestival.org/)! I
 ### One-Swing Wonders (with Stomp Rocket)
 * **Playground Stomp** (Julian Blechner)
 * [**Violet Ice**](/dances.html#violetice) (Maia McCormick)
-* **Soul Reversal** (Tavi Merril
+* **Soul Reversal** (Tavi Merril)
 * **Starburst** (Cary Ravitz)
 * **Ellie's Pumpkin Show** (Bill Olson)
 
