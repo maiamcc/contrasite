@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 description: "Thoughts on what makes a good closing dance, and a list of my faves."
-categories: calling programming
+categories: calling programming contentful
 ---
 
 Whether you're calling a regular evening dance or a block at a larger dance event, you want your dancers to leave the hall grinning. What might you look for in a last dance to end your session on a high note? Predictably, I have some thoughts! Here are my criteria for a good closer, and some of my favorite dances that fill this programming niche.

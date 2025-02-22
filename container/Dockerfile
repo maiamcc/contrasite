@@ -37,6 +37,10 @@ EOF
 
 ADD . .
 
+# Blow away existing _site directory so everything gets generated fresh
+# (IDK why this is needed but it seems to help?)
+RUN rm -rf _site/
+
 RUN bundle exec jekyll build
 
 RUN /usr/bin/bash <<'EOF'

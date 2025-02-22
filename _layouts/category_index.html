@@ -4,14 +4,13 @@ layout: default
 
 <!-- By markmw: https://gist.github.com/markwk/52d00f3f4e1ef1598fc2fb58f5b8ab7c -->
 <section>
-    <header>
-        <h1 class="category">Category: {{ page.title | capitalize}}</h1>
-    </header>
-    <div id="archives">
-      {% for post in paginator.posts %}
-        {% include archive_post.html %}
-      {% endfor %}
-    </div>
+  {% if page.title == "Blog: Just the Content" %}
+    <!-- The category page for blog posts with actual content
+    gets a little preamble -->
+    {% include category_index_header_blog_content.html %}
+  {% else %}
+    {% include category_index_header_generic.html %}
+  {% endif%}
 </section>
 
 {% if paginator.total_pages > 1 %}

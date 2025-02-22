@@ -4,7 +4,7 @@ title: "Words Don't Help Beginners"
 date: 2019-01-21 22:31:14 +0000
 comments: true
 description: "Prompting struggling dancers with your words helps less than you think!"
-categories: teaching beginners
+categories: teaching beginners contentful
 ---
 I've been contradancing for over eight years, and can jump into even the most complex and falling-apart of contras and still have some idea of what's going on. But last summer at [English-Scottish-Contra Week](https://rscdsboston.org/pinewoods-esc.html) at Pinewoods, I tried Scottish Country Dance for the first time and I had an experience I haven't had for quite a while: I was completely at sea in a set dance.
 

@@ -1,0 +1,9 @@
+<header>
+  <h1 class="category">Category: {{ page.title | capitalize}}</h1>
+</header>
+
+<div id="archives">
+  {% for post in paginator.posts %}
+    {% include archive_post.html %}
+  {% endfor %}
+</div>

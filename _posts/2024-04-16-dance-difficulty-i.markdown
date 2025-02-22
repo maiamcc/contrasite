@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 description: "What makes a dance easy, or hard? Some ways to think about dance difficulty when calling/programing."
-categories: calling programming
+categories: calling programming contentful
 dances:
     - title: Franklin Flank
       author: Nils Fredland

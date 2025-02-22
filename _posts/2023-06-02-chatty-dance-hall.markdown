@@ -4,7 +4,7 @@ title: "The Chatty Dance Hall"
 date: 2023-06-02 12:47:00 +0000
 comments: true
 description: "What do you do when the dancers won't quiet down and let you teach?"
-categories: [calling, hall-management]
+categories: [calling, hall-management, contentful]
 ---
 Folks say that the toughest part of calling isn't calling the dance itself, but teaching the dance beforehand. And while I agree, lately I've been noticing an unfortunate fact: it doesn't matter how good a teacher you are if nobody's listening to you as you teach. The first step for any caller, then, is to get the attention of the hall so that they can start the walkthrough. As anyone who's ever been to a contra knows, however, this is easier said than done.
 

@@ -1,0 +1,16 @@
+<header>
+  <h1 class="category">{{ page.title}}</h1>
+</header>
+
+<article id="blogintro">Here you'll find my content-ful blog posts, i.e. those posts with actual thoughts and opinions (as opposed to just dance programs). I hope they provide useful information and/or spark interesting thoughts!</article>
+
+<div class="blog-content">
+  {% assign index = true %}
+  {% for post in paginator.posts %}
+  {% assign content = post.content %}
+  <article class="blogpost">
+    {% include article.html %}
+  </article>
+  {% endfor %}
+</div>
+

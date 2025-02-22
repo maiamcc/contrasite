@@ -121,9 +121,17 @@ module Jekyll
       @name = 'index.html'
 
       self.process(@name)
+
       self.read_yaml(File.join(base, '_layouts'), 'category_index.html')
 
-      self.data['title'] = "#{category}"
+      if category == 'contentful'
+        # Special-case page title for this tag to something legible
+        # (this string is also used to decide whether we display a
+        # specific preamble on the page).
+        self.data['title'] = "Blog: Just the Content"
+      else
+        self.data['title'] = "#{category}"
+      end
     end
   end
 

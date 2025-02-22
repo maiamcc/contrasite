@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 description: "An entirely-too-detailed account of my process when programming an evening of contras."
-categories: calling programming
+categories: calling programming contentful
 dances:
     - title: 20 Below
       author: Bill Olson

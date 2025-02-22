@@ -4,7 +4,7 @@ title: "Reflections on My First Techno Contra"
 date: 2019-04-07 12:07:26 +0000
 comments: true
 description: "Some stuff I wish I'd known before calling techno, and stuff I'm excited to put into practice next time!"
-categories: calling
+categories: calling contentful
 ---
 
 Last weekend, I called my first techno contra (as part of a double dance at CDNY to celebrate the wedding of two of our lovely dancing humans 😍). It turns out, to no one's surprise, that calling techno is a fair bit different from calling a regular evening dance. Here are my reflections on calling my first techno (including a bunch of great advice from folks on [SharedWeight's Callers' Listserv](https://www.sharedweight.net/index.php?pagestate=callers_about)).

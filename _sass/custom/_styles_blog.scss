@@ -2,6 +2,10 @@
 
 article#blogintro {
   margin-bottom: 1em;
+
+  p {
+    margin-bottom: 1em;
+  }
 }
 
 .comma-list {
@@ -55,6 +59,10 @@ article#blogintro {
 .category {
   text-align: center;
 }
+
+h3.category {
+    margin: 1em 0 1em 0;
+  }
 
 .credit {
   font-style: italic;
