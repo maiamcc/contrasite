@@ -21,8 +21,11 @@ The last dance is also, IMO, the time to let the band shine. They've been workin
 ### Good partner connection / high hall interaction
 Many people choose to dance with someone special to close out an evening, festival, etc.; I want to give them lots of partner interaction time, and let them end the session/evening with their partner, which is why I strongly prefer closers that end with a partner balance and swing.[^2] However, in addition to the partner focus, you'll want to say your goodbyes to as many folks as possible,[^3] which is why my ideal closer includes a neighbor swing, and why I steer clear of multiple progressions (which run the risk of dancers missing out on half of their neighbors).
 
+As I've been calling more weekends (and especially on the West Coast, where this idea is pretty strongly entrenched), I've been more excited about closers with multiple neighbor interaction. A grand chain along the line (and encountering an additional 2-3 neighbors while doing so) can be a great way to say goodbye to lots of folks. If your hall can handle it, dances like this are a great way to close weekends and festivals in particular.
+
 ### No one is bored
 For everyone to get their money's worth on the last dance, you should maximize active time and minimize standing around. I will avoid any dances with only the 1s (or 2s) doing something while the other half of the hall waits for their turn. I'll also avoid dances with 16+ beats of action for one role—e.g. a dance with two different 8-count lark allemandes.[^4] This is another reason I avoid multi-progression dances, in which you go through the line faster and potentially spend a higher proportion of the dance waiting out at the end.
+
 ### A chance to move as a hall… maybe?
 Some callers prioritize closers that let the whole hall move together and feel connection as a dance community. (This isn't something I feel strongly about, but as other callers do, it seemed worth mentioning.) The extreme version of this is the whole set oval-ing left and then right, and a more subtle take that gets at the same theme would be "down the hall in lines of four". Potentially even "long lines forward and back" can satisfy this consideration!
 
@@ -39,10 +42,15 @@ Given all the considerations above, here are some of the dances I tend to reach 
 - [Mary Cay's Reel (David Kaynor)](https://www.ibiblio.org/contradance/thecallersbox/dance.php?id=10579) — a classic. With future neighbor interactions and fast allemandes for the robins, it might confuse a hall with too many beginners, but it's a high-energy, idiomatic dance that lets you interact with a lot of the hall.
 - [Train Delay (Maia McCormick)](https://contra.maiamccormick.com/dances.html#traindelay) — one of mine, a simple shadow dance. I particularly like the energy of a right-hand pull-by → dosido 1.5x → meet your partner to balance and swing.
 - [Winter in Summerland (James Hutson & Jeff Spero)](https://www.ibiblio.org/contradance/thecallersbox/dance.php?id=10882) — one of my favorite closers! It's got some waves balancing together, the transition into the hey is oh-so-satisfying, and then dancers get to groove out on a full hey before partner b&s. It's on the tricky side if your hall has many beginners, but an _excellent_ festival closer![^6]
+- [Vote With Your Feet (orig.) (Bob Isaacs)](https://www.ibiblio.org/contradance/thecallersbox/dance.php?id=1956) — grand chain up/down the line to interact with lots of neighbors, still fits in a neighbor swing and partner balance and swing. (In B1, can pass through to dosido with shadow if desired.)
+- [Salute to Larry Jennings (Ted Sannella, Larry Jennings var.)](https://contradb.com/dances/854) — grand chain up/down the line to interact with lots of neighbors. Doesn't end with a full partner balance and swing (but rather a give and take to partner swing), but worth mentioning here because it ticks so many other boxes.
 
 Those are some of my go-to closers; what are yours?
 
-<div class="credit">Thanks to Bret Casey for thorough and insightful edits!</div>
+<div class="credit">
+	<p>Thanks to Bret Casey for thorough and insightful edits!</p>
+	<p>Edit 3/1/25: added thoughts on multiple neighbor interactions/grand chain along the line, with representative dances.</p>
+</div>
 
 [^1]:  Often (though not always), this will point to something with a higher piece count: sixteen counts of e.g. a hey or a Rory O'Moore is sixteen counts where the dancers don't need to be thinking about what comes next, whereas in a dance with more moves, there's more to remember.
 
