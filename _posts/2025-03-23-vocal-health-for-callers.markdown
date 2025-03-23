@@ -3,6 +3,7 @@ layout: post
 title: "Vocal Health for Callers"
 date: 2025-03-23 7:25:00
 comments: true
+description: "In which my other life as a precious choir kid comes in handy, and I give you more vocal health tips than you ever wanted."
 categories: calling contentful
 ---
 For callers, our voice is our instrument—and if you lose your voice before or at a gig, it's bad news bears. Luckily, I'm a precious choir kid in my other life, so I'm here with some vocal health tips to help you out.
