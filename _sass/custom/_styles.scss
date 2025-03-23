@@ -7,7 +7,7 @@ em { /* make italics a little bolder */
   font-weight: 400;
 }
 
-ul, ol {
+ul {
   list-style-type: circle;
   margin-left: 1.5em;
   @media screen and (max-width: 640px) {
