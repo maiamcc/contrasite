@@ -10,9 +10,9 @@ sidebar: false
 ---
 As a choreographer, I strive to write dances that are both compelling and idiomatic--the coolest dance in the world isn't worth anything if it doesn't flow well enough for people to get the hang of it.
 
-My dances have been called as far afield as California and Alaska, so that's pretty cool! Feedback is always welcome (as are requests!)--feel free to [drop me a line](/contact.html).
+My dances have been called as far afield as Alaska and England, so that's pretty cool! Feedback is always welcome (as are requests!)--feel free to [drop me a line](/contact.html).
 
-Dances marked with an asterisk (`*`) are particular favorites/frequently called by others.
+Dances marked with an asterisk (`*`) are particular favorites/have achieved escape velocity and are frequently called by others.
 
 <!-- TODO: style this better (and maybe have toggles/filters?!)
 A note on dance difficulties:
