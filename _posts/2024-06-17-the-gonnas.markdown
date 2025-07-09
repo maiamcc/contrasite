@@ -5,7 +5,7 @@ date: 2024-06-17 21:00
 comments: true
 sharing: true
 footer: true
-description: "A ramblerant about two of the most indidious words in dance calling."
+description: "A ramblerant about two of the most insidious words in dance calling."
 categories: calling contentful
 ---
 The number one piece of feedback I give new callers is: "don't say 'gonna'."[^1]
