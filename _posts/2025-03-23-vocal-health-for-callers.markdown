@@ -62,6 +62,8 @@ Winter in particular tends to be super dry, both outside in the cold, and inside
 
 But summer can *also* be bad for your voice! Unfortunately, air conditioners are almost as bad as radiators in terms of air-dryification; consider running a humidifier if you sleep with an air conditioner, and if it's on the cusp of AC weather, consider running a fan instead so you don't dry yourself out all night.
 
+Another fun feature new of summer is that our metaphorically-burning world is now  sometimes literally burning—wildfire smoke can leave you with a sad and scratchy throat, even from multiple states away. Keep an eye on [your local Air Quality Index (AQI)](https://www.airnow.gov/), and if it's much above moderate, consider sleeping with your windows closed, wearing a mask when out and about, etc.
+
 Spring and fall are surely safe though, right? For many of us, yes, but if you're an allergy sufferer, my condolences. Keep your symptoms controlled as best you can, with meds if necessary—but remember that those meds can dry you out, and so hydrate extra as needed. (My NP contact notes that Flonase doesn't dry you out the way Claritin et al. do, so that's something to consider.) A stuffy nose can make you breathe through your mouth more, especially when sleeping, and make your voice sad; if your allergies stuff you up, see [the "de-snot" tips below](#de-snot-yourself).
 
 <h2 id="damage-control">Damage Control: Make Things Less Bad</h2>
@@ -70,7 +72,7 @@ What happens when you're recovering from a bad cold before a gig, or accidentall
 
 Obligatory disclaimer that *I am not a doctor*![^5] This blog post is not intended as medical advice; if any of the stuff listed in this post feels uncomfortable or painful, stop doing it. Talk to a doctor for any serious issues (including persistent cough or vocal pain), or if your symptoms don't improve with time.
 
-In general, your vocal sads will be due to some combination of strain/overuse and inflammation/dryness(/even micro-tears!) of the vocal folds—the former can result from just plain overuse, and the latter from active infection, the coughing from a lingering infection, or various drying environmental factors. The below tips attempt to address one or both of these underlying causes of vocal distress.
+In general, your vocal sads will be due to some combination of strain and inflammation/dryness(/even micro-tears!) of the vocal folds—the former can result from poor technique or just plain overuse, and the latter from active infection, the coughing from a lingering infection, or various drying environmental factors. The below tips attempt to address one or both of these underlying causes of vocal distress.
 
 ### Rest yourself
 
