@@ -26,7 +26,7 @@ A note on dance difficulties:
 
 <div id="blurb-container">
   {% for dance in dances %}
-    {% if dance.hidden != true %}
+    {% if dance.hidden != true and dance.beta != true %}
       <p>
         <strong><a class="dance-title" href="#{{ dance.title | legacy_slugify }}">{{ dance.title }}</a>{% if dance.fave %}*{% endif %}</strong> [<span class="dance-difficulty">{{ dance.difficulty }}</span>] — <span class="dance-blurb">{{ dance.blurb }}</span>
       </p>
@@ -36,7 +36,7 @@ A note on dance difficulties:
 
 <div id="dance-container">
   {% for dance in dances %}
-    {% if dance.hidden != true %}
+    {% if dance.hidden != true and dance.beta != true %}
       {% include custom/dance.html %}
     {% endif %}
   {% endfor %}

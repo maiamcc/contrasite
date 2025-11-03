@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-datapage-generator
 
 # Navigation
 nav_items:
@@ -51,6 +52,17 @@ excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of 
 category_path: "blog/categories/:cat"
 paginate_categories: 20
 
+
+# data_page_generator plugin by Adolfo Villafiorita
+page_gen:
+  - index_files: false
+    dir: beta
+    data: dances
+    template: beta_dance
+    # record['title'] | slugify | replace: '-', ''
+    name_expr: record['title']
+    extension: html
+    filter: beta
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,19 @@
+---
+layout: default
+comments: true
+type: beta_dance
+---
+
+<article class="page">
+    <div class="entry-content">
+      <h1>Here be dragons!</h1>
+      This dance is in beta and should not be called without consulting Maia. If you stumbled upon this page by accident, no you didn't 🤐
+      <br>
+
+      {% assign dance = page %}
+      <div id="dance-container">
+        {% include custom/dance.html %}
+      </div>
+
+    </div>
+</article>
