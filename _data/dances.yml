@@ -73,12 +73,12 @@
   blurb: stompy fun; Petronella turns (incl. Petronella turn to swing a new N) and a little shadow time
   choreo:
     a1:
-      - balance the ring and spin right, spinning extra to face new neighbors
+      - balance the ring and shift right, spinning extra to face new neighbors
       - swing new neighbor
     a2:
-      - balance the ring and spin right (2x)
+      - balance the ring and shift right (2x)
     b1:
-      - balance ring and larks roll neighbor robin away with a half-sashay[^2]
+      - balance the ring and larks roll neighbor robin away with a half-sashay[^2]
       - larks pull by R (2), allemande shadow L 1x-ish (6)
     b2:
       - look for partner, [balance/right shoulder 'round] and swing[^3]
@@ -207,7 +207,7 @@
   blurb: lots of ring balances, partner twirl into new neighbor swing
   choreo:
     a1:
-      - balance the ring and spin right
+      - balance the ring and shift right
       - balance the ring and lark roll neighbor robin away (with a half-sashay)
     a2:
       - balance the ring and Nevada twirl partner (to face new Ns)
@@ -404,7 +404,7 @@
       - long lines forward and back
       - robins chain (to N)
     b1:
-      - balance the ring and spin right (2x)
+      - balance the ring and shift right (2x)
     b2:
       - neighbor balance and swing (and look on slight left diagonal for new larks)
 
@@ -419,8 +419,8 @@
       - give and take (larks take your N home)
       - neighbor swing
     a2:
-      - balance the ring and spin right
-      - balance the ring and spin right, spinning extra to face new neighbors[^1]
+      - balance the ring and shift right
+      - balance the ring and shift right, spinning extra to face new neighbors[^1]
     b1:
       - new neighbor seesaw 1 1/4
       - larks allemande R 1 1/2
@@ -516,7 +516,7 @@
   blurb: "R/L-thru flow out of a square through"
   choreo:
     a1:
-      - balance the ring (4) and spin right (4)
+      - balance the ring (4) and shift right (4)
       - balance the ring (4)
       - pass through along the set to new neighbors (2) and single-file circle L one place (2)[^1]
     a2:
@@ -694,6 +694,26 @@
       - robins chain (to N)
       - left-hand star 1x
 
+- title: Balance the Bae
+  formation: becket L
+  difficulty: advanced
+  comp_notes: "Written before Balance the Bay 2024 after a conversation about ideal weekend-closers (many folks like dances with a chain-the-line so you get to say goodbye to more folks, but of course they should still end with a partner balance and swing). I'm not sure if this dance is a weekend-closer, but it's fun! Premiered at BIDA in Jan. 2026."
+  date_written: 202408
+  blurb: "cure-for-the-claps chain-the-line dance, might be a fun closer"
+  choreo:
+    a1:
+      - balance the ring and shift right (no clap, catch left with neighbor)[^1]
+      - pull by N1 by L (2), N2 by R (2), N3 allemande L 1x (4)
+    a2:
+      - N2 balance and swing (you have progressed)
+    b1:
+      - balance the ring and shift right (no clap, catch left with partner)
+      - pull by partner L (2), shadow allemande R 1x (6)
+    b2:
+      - partner balance and swing
+  footnotes:
+    1: not only does leaving out the clap make the left-hand catch feel better, it's important for the timing too; a slight head-start on the N1 pull-by makes the A1 managable instead of stressfully tight.
+  choreo_notes: "In practice, the most confusing part of this dance is that the pull-by/allemande patterns are different in the A and the B; hopefully this is engaging variety rather than annoying asymmetry. You might consider pointing this out during the walkthrough."
 
 - title: Reason for a Ricochet
   formation: becket L
