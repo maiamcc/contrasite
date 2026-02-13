@@ -715,6 +715,28 @@
     1: not only does leaving out the clap make the left-hand catch feel better, it's important for the timing too; a slight head-start on the N1 pull-by makes the A1 managable instead of stressfully tight.
   choreo_notes: "In practice, the most confusing part of this dance is that the pull-by/allemande patterns are different in the A and the B; hopefully this is engaging variety rather than annoying asymmetry. You might consider pointing this out during the walkthrough."
 
+- title: Don't Hit the Dock!
+  formation: becket R
+  difficulty: advanced
+  comp_notes: "Written for Cindy Culbert, won in the American Week 2024 auction"
+  date_written: 202512
+  blurb: "lost-and-found with ricochet+catch reunion"
+  choreo:
+    a1:
+      - (straight across) circle L
+      - current neighbor do-si-do[^1]
+    a2:
+      - this neighbor balance and swing
+    b1:
+      - (w/ this neighbor) pass through across and CA twirl to face back in
+      - long lines forward, on the way back larks roll your NEXT neighbor away[^2]
+    b2:
+      - straight across, half a hey (larks pass L) and robins ricochet
+      - catch partner, swing
+  footnotes:
+    1: this is the neighbor you rolled last time
+    2: larks roll a new neighbor robin from left to right, this is the progression.
+
 - title: Reason for a Ricochet
   formation: becket L
   beta: true
