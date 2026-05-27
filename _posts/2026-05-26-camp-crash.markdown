@@ -49,7 +49,7 @@ Annoyingly, the solution (at least for me) is usually to s l o w   d o w n.
 
 I like to turn off my phone for a few hours and go to the park with a book or a journal, maybe treat myself to a solo meal out (crucially, without any of my devices on me). To wind down, where I might normally play a flashy video game, I might instead opt for a crossword puzzle, or doing a craft while watching a cozy cooking show. (For instance, the last time I got back from a weekend, I watched a *lot* of Chopped, and decided to put off playing Hades 2 so I didn’t re-fry my brain with dopamine.)
 
-If you don’t want to be alone with your thoughts… well, sometimes the solution is to be alone with your thoughts anyway. So sit around; ;oaf on the couch and stare at the ceiling; let your thoughts and feelings happen. It might feel unpleasant at first, but this sort of slowing down can help your body and brain reset.
+If you don’t want to be alone with your thoughts… well, sometimes the solution is to be alone with your thoughts anyway. So sit around; loaf on the couch and stare at the ceiling; let your thoughts and feelings happen. It might feel unpleasant at first, but this sort of slowing down can help your body and brain reset.
 
 ## **Take care of your body, even when it’s annoying**
 
