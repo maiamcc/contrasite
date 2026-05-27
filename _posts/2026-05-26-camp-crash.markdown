@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post-Cramp Crash"
+title: "Post-Camp Crash"
 date: 2026-05-26 21:52:00
 comments: true
 description: "Or: why you feel like crap after coming home from that glorious dance weekend, and what you can do about it."
