@@ -52,7 +52,11 @@ To create a tooltip'd dance link (using [Tippy](https://atomiks.github.io/tippyj
 - [] choreo: describe difficulty levels
 - [] choreo: filter by difficulty level, favorite, etc.?
 - [] choreo: mousing over a footnote highlights the corresponding text
+- [] choreo: urls per dance / better linking (see: https://www.w3.org/Provider/Style/URI)
 - [] blog: sidebar with recent posts? (look at formatting in partials/sidebar.scss, which currently isn't imported)
+- [] blog: hovering footnote displays footnote content
 - [] blog: favorite posts? filter out dance programs from post list, or store programs separately?
+- [] blog: anchor links in blog post previews should jump you to where they're supposed to go, not just to `#fn1` on the current page (i.e. nowhere)
+- [] blog: horiz. line or other divider above footnotes?
 - [] dance tooltips: hovering over dance link changes the tooltip icon to hover color as well
 - [] javascript etc.: only load JS scripts (fitfids, fancybox) when requested by the page

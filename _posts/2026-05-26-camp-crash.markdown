@@ -6,9 +6,9 @@ comments: true
 description: "Or: why you feel like crap after coming home from that glorious dance weekend, and what you can do about it."
 categories: contentful mental-health
 ---
-Not to state the obvious, but dance weekends are *intense.* You spend 40+ hours in a little bubble with dear friends old and new, surrounded by humans and socially *on*, moving together and sharing intimate, magical moments. As if that weren’t enough, your body is also probably a mess from not sleeping enough, eating weirdly, not drinking enough water, too much stomping, two days straight of clockwise rotation, etc. When all your dopamine receptors have been in overdrive and that dopamine is suddenly *gone*, the exhaustion catches up with you, the sads hit, and brains get weird.
+Not to state the obvious, but dance weekends (not to mention full weeks!) are *intense.* You spend 40+ hours in a little bubble with dear friends old and new, surrounded by humans and socially *on*, moving together and sharing intimate, magical moments. As if that weren’t enough, your body is also probably a mess from not sleeping enough, eating weirdly, not drinking enough water, too much stomping, multiple straight days of clockwise rotation, etc. When all your dopamine receptors have been in overdrive and that dopamine is suddenly *gone*, the exhaustion catches up with you, the sads hit, and brains get weird.
 
-This phenomenon is known in the convention circuit as “Con Drop”, and in the context of dance weekends I tend to call it “**Camp Crash**.”[^1] <!-- more -->
+This phenomenon is known in the convention circuit as “Con Drop”, and in the context of dance events I tend to call it “**Camp Crash**.”[^1] <!-- more -->
 
 Every action has an equal and opposite reaction: when you’ve been riding the highs of dance camp, there has to be a drop before you can make it back to equilibrium. Just in case it’s helpful to anyone else, here are some thoughts on Camp Crash and ways to combat it.
 
@@ -36,9 +36,9 @@ This can manifest as sadness, regret, guilt, feeling like people don’t like yo
 
 ## **Your daily life is probably pretty good, actually**
 
-When I come back from a really good dance weekend, my daily life feels pale by comparison. I think, “ugh, how does any of this compare to Weird Folky Nirvana, and do I actually care about any of this??” But I do my best to remember that Past Maia actually felt pretty good about things here at home, and that until I can think clearly again, I just have to trust that she knew what she was talking about.
+When I come back from a really good dance event, my daily life feels pale by comparison. I think, “ugh, how does any of this compare to Weird Folky Nirvana, and do I actually care about any of this??” But I do my best to remember that Past Maia actually felt pretty good about things here at home, and that until I can think clearly again, I just have to trust that she knew what she was talking about.
 
-Take all the time you need to mope, to rest, to be sad, but remember that your everyday is probably pretty good; if it seems dull right now, it’s just because you spent the weekend with everything turned up to 11\.
+Take all the time you need to mope, to rest, to be sad, but remember that your everyday is probably pretty good; if it seems dull right now, it’s just because you spent the weekend/week with everything turned up to 11\.
 
 And honestly, part of the magic of camp is that it’s removed from our daily lives. If you just lived at (for instance) Pinewoods, it would lose its luster and specialness. The gulf between camp and your daily life probably seems vast, but that’s part of what makes the experience so special. Also, the reason real life might seem extra blah for a second is that…
 
@@ -65,7 +65,7 @@ I know that when I’m deep in crash, my anxiety often spikes over totally unrel
 
 ## **Reach out to your community**
 
-This is hard to balance with some of the couch-flop/hiding-in-a-hole that is necessary after a whole weekend of non-stop social, but: remember to reach out to your community. Talk to your old and new friends from camp about the good bits and the bad bits, check in on how they’re doing, ask them for a pep talk or commiserate about your crash together. And sure, flirt outrageously with your new dance crush! (Just uh, don’t make any big plans or life changes until you’re well and truly out of the post-camp brain fog.)
+This is hard to balance with some of the couch-flop/hiding-in-a-hole that is necessary after a whole weekend+ of non-stop social, but: remember to reach out to your community. Talk to your old and new friends from camp about the good bits and the bad bits, check in on how they’re doing, ask them for a pep talk or commiserate about your crash together. And sure, flirt outrageously with your new dance crush! (Just uh, don’t make any big plans or life changes until you’re well and truly out of the post-camp brain fog.)
 
 You can also talk to other dance friends who weren’t at that specific event, or even friends who aren’t affiliated with the dance world at all! (Y’know, if you have those.) Reconnecting with people at home who *weren’t* at camp can be grounding and remind you of what you like about your everyday life.
 
@@ -89,4 +89,4 @@ But I know that I’ll get through it, and hey, I promise that you will too. Bod
 Take or leave all of this advice, and do what’s best for you! The next time you’re wrestling with camp crash, I wish you a speedy recovery, however you get yourself there.
 
 
-[^1]:  I’m using the word “camp” very loosely here: basically, I’m talking about any extended dance event (could be a residential week or weekend, an urban weekend, a festival, whatever). Just know that when I say “camp” in this post, I’m using it as a shorthand for “big fancy dance shindig.”
+[^1]:  I’m using the word “camp” very loosely here: basically, I’m talking about any extended dance event (could be a residential week or weekend, an urban weekend, a festival, a full week-long event, whatever). Just know that when I say “camp” in this post, I’m using it as a shorthand for “big fancy dance shindig.”
