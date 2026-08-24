@@ -739,7 +739,26 @@
     1: this is the neighbor you rolled last time
     2: larks roll a new neighbor robin from left to right, this is the progression.
 
-
+- title: Mary O'Moore
+  formation: becket L
+  difficulty: accessible
+  comp_notes: "Mary Cay's Reel progression + a Rory O'Moore"
+  date_written: 202608 # tecnically Nov. 2025 but premiered Summer 2026
+  blurb: "Rory O'Moore dance that's NOT aggressively clockwise; good simple closer"
+  choreo:
+    a1:
+      - (straight across) circle L 3/4
+      - swing neighbor
+    a2:
+      - long lines forward and back
+      - current robins allemande right 3/4 (4)[^1]
+      - NEXT robins allemande left 3/4 (4) (and larks step L)
+    b1:
+      - (give RH to partner to make short waves) Rory O'Moore
+    b2:
+      - partner balance and swing
+  footnotes:
+    1: this is a "salmon ladder" progression, borrowed from David Kaynor's "Mary Cay's Reel". Before starting the figure, have robins identify their NEXT robin (currently on the R diagonal). Larks must remember to step L during this sequence to keep up with partner.
 
 
 ### BETA DANCES HERE
@@ -842,6 +861,7 @@
       - robins chain (to N)
       - neighbor gate (larks gate robins around, CCW)[^2]
   footnotes:
-    1: robins approach each other as if to start a L-shoulder hey, but ricochet without passing. (Don't rush this bit or the swing will be weirdly long.)
+    1: robins approach each other as if to start a L-shoulder hey, but ricochet without passing
     2: will require a hand change from the courtesy turn (unless you're doing some funky flourishes), probably worth mentioning in teaching
+  choreo_notes: A2 is all figures that contradancers tend to rush; remind folks to let both the mad robin and the gate be their full 8 counts, and to not rush the ricochet; otherwise the partner swing will be weirdly long
 
