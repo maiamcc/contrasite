@@ -82,6 +82,12 @@ a.next {float:right;}
   }
 }
 
+.callout {
+  border-radius: 25px;
+  background-color: rgba(52, 152, 219, 0.5);
+  padding: 20px;
+  margin: 1em 0 1em 0;
+}
 
 @import "custom/styles_blog";
 @import "custom/styles_dance";
