@@ -42,7 +42,7 @@ I am also happy to create workshops, themed dance sessions, etc. on any dance to
 
 <h2 id="press-kit">Press Kit</h2>
 
-<div class="callout">Please do not use LLM-generated bios or publicity materials for me! Bio/headshots available here, and additional publicity materials happily provided on request.</div>
+<div class="callout">Please do not use LLM-generated bios or publicity materials for me! Bio/headshots available below, and additional publicity materials happily provided on request.</div>
 
 <h3 id="headshots">Headshots</h3>
 _(Click to download full-sized image. Crop at will.)_
